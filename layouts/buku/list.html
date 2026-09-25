@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ .Content }}
+{{ $books := where .Site.RegularPages "Type" "buku" }}
+<div class="blog-list">
+	{{ range $books }}
+	<a class="blog-card" href="{{ .RelPermalink }}">
+		<div class="bc-img"><img src="{{ .Params.cover }}" alt="Sampul {{ .Title }}" loading="lazy"></div>
+		<div class="bc-body">
+			{{ with .Params.penerbit }}<span class="bc-cat">{{ . }}</span>{{ end }}
+			<span class="bc-title">{{ .Title }}</span>
+			{{ with .Params.penulis }}<span class="bc-date">Penulis: {{ . }}</span>{{ end }}
+			{{ with .Summary }}<span class="bc-excerpt">{{ . }}</span>{{ end }}
+		</div>
+	</a>
+	{{ end }}
+</div>
+{{ end }}

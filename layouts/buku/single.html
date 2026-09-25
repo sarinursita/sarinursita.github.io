@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="wp-block-columns book-hero">
+	<div class="wp-block-column" style="flex-basis:38%;align-self:flex-start;">
+		<figure class="wp-block-image size-large"><img src="{{ .Params.cover }}" alt="Sampul {{ .Title }}"></figure>
+	</div>
+	<div class="wp-block-column" style="flex-basis:62%;align-self:flex-start;">
+		<div class="book-facts">
+			{{ with .Params.penerbit }}<p><b>Penerbit:</b> {{ . }}</p>{{ end }}
+			{{ with .Params.penulis }}<p><b>Penulis:</b> {{ . }}</p>{{ end }}
+			{{ with .Params.halaman }}<p><b>Isi:</b> {{ . }}</p>{{ end }}
+			{{ with .Params.tahun }}<p><b>Tahun:</b> {{ . }}</p>{{ end }}
+		</div>
+		{{ .Content }}
+		{{ with .Params.buyLink }}
+		<div class="wp-block-buttons">
+			<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="{{ . }}" target="_blank" rel="noreferrer noopener">{{ $.Params.buyLabel | default "Lihat Detail" }}</a></div>
+		</div>
+		{{ end }}
+	</div>
+</div>
+<hr class="wp-block-separator">
+<p style="text-align:center;margin:1.4em 0 3em;"><a class="wp-block-button__link wp-element-button" href="{{ "buku/" | relURL }}">← Semua buku</a></p>
+{{ end }}

@@ -1,0 +1,12 @@
+{{/* Grid sampul buku (klik ke halaman detail) — dipakai di beranda */}}
+{{ $books := where .Site.RegularPages "Type" "buku" }}
+{{ if $books }}
+<div class="book-grid">
+	{{ range $books }}
+	<a class="book-card" href="{{ .RelPermalink }}">
+		<img src="{{ .Params.cover }}" alt="Sampul {{ .Title }}" loading="lazy">
+		<div class="bc-title">{{ .Title }}</div>
+	</a>
+	{{ end }}
+</div>
+{{ end }}

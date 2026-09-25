@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ with .Params.cover }}
+<figure class="post-cover"><img src="{{ . }}" alt="{{ $.Title }}"></figure>
+{{ end }}
+<p class="blog-meta">
+	{{ with .Params.category }}<span class="pm-cat">{{ . }}</span> · {{ end }}
+	{{ .Date.Format "2 January 2006" }}
+</p>
+{{ with .Params.subtitle }}<p class="story-subtitle">{{ . }}</p>{{ end }}
+<div class="post-body">
+	{{ .Content }}
+</div>
+<hr class="wp-block-separator">
+<p style="text-align:center;margin:1.4em 0 3em;"><a class="wp-block-button__link wp-element-button" href="{{ "/blog/" | relURL }}">← Semua tulisan</a></p>
+{{ end }}

@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ .Content }}
+{{ $posts := sort (where .Site.RegularPages "Type" "blog") ".Date" "desc" }}
+{{ if $posts }}
+<div class="blog-list">
+	{{ range $posts }}
+	<a class="blog-card" href="{{ .RelPermalink }}">
+		{{ with .Params.cover }}<div class="bc-img"><img src="{{ . }}" alt="cover" loading="lazy"></div>{{ end }}
+		<div class="bc-body">
+			{{ with .Params.category }}<span class="bc-cat">{{ . }}</span>{{ end }}
+			<span class="bc-title">{{ .Title }}</span>
+			<span class="bc-date">{{ .Date.Format "2 January 2006" }}</span>
+			{{ with .Params.summary }}<span class="bc-excerpt">{{ . }}</span>{{ end }}
+		</div>
+	</a>
+	{{ end }}
+</div>
+{{ else }}
+<p class="empty-note">Belum ada tulisan. Nanti diisi cerita &amp; catatan belajar — santai saja, tidak harus tiap hari. 🙂</p>
+{{ end }}
+{{ end }}

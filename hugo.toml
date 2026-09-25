@@ -1,0 +1,22 @@
+baseURL = "https://sarinursita.github.io/"
+languageCode = "id"
+title = "Sari Nursita"
+# sitemap/robots digenerate Hugo (static/robots.txt menimpa template robots bawaan)
+disableKinds = ["taxonomy", "term"]
+enableGitInfo = false
+
+# Tampilkan konten bertanggal "hari ini" walau build jalan di UTC
+# (Sari di GMT+8 → tanggal hari ini bisa kelihatan "masa depan" di UTC).
+buildFuture = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[params]
+  copyright = "Sari Nursita"
+  description = "Sari Nursita — programmer, penulis buku IT & buku anak, fasilitator proyek kreatif. Lulusan Ilmu Komputer UI."
+  tagline = "Programmer, Penulis, Fasilitator Proyek"

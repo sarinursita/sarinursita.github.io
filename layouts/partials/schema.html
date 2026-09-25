@@ -1,0 +1,94 @@
+{{/* JSON-LD structured data (schema.org) — SEO/GEO.
+     Home: Person (Sari Nursita) + WebSite + daftar Book.
+     Halaman buku: Book. Postingan blog: BlogPosting. */}}
+{{ $site := .Site }}
+{{ $personId := printf "%s#person" $site.BaseURL }}
+
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "{{ $personId }}",
+      "name": "Sari Nursita",
+      "url": "{{ $site.BaseURL }}",
+      "description": "{{ $site.Params.description }}",
+      "jobTitle": ["Programmer", "Penulis", "Fasilitator Proyek"],
+      "knowsAbout": ["Pemrograman", "PHP", "MySQL", "HTML", "Teknologi Informasi", "Informatika SMP/SMA", "Penulisan Buku Teknis"],
+      "alumniOf": { "@type": "CollegeOrUniversity", "name": "Universitas Indonesia" },
+      "sameAs": [
+        "https://www.linkedin.com/in/sarinursita",
+        "https://sarinursita.github.io/",
+        "https://www.facebook.com/sari.nursita"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ $site.BaseURL }}#website",
+      "url": "{{ $site.BaseURL }}",
+      "name": "{{ $site.Title }}",
+      "publisher": { "@id": "{{ $personId }}" },
+      "inLanguage": "id"
+    }
+    {{ $books := where $site.RegularPages "Type" "buku" }}
+    {{ range $books }},
+    {
+      "@type": "Book",
+      "@id": "{{ .Permalink }}#book",
+      "name": {{ .Title | jsonify }},
+      "url": "{{ .Permalink }}",
+      "inLanguage": "id",
+      "author": { "@id": "{{ $personId }}" }
+      {{ with .Params.penerbit }}, "publisher": { "@type": "Organization", "name": {{ . | jsonify }} }{{ end }}
+      {{ with .Description }}, "description": {{ . | jsonify | safeJS }}{{ end }}
+      {{ with .Params.cover }}, "image": "{{ . | absURL }}"{{ end }}
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ else if eq .Type "buku" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "{{ .Permalink }}#book",
+  "name": {{ .Title | jsonify }},
+  "url": "{{ .Permalink }}",
+  "inLanguage": "id",
+  "author": { "@id": "{{ $personId }}" }
+  {{ with .Params.penerbit }}, "publisher": { "@type": "Organization", "name": {{ . | jsonify }} }{{ end }}
+  {{ with .Params.tahun }}, "datePublished": "{{ . }}"{{ end }}
+  {{ with .Description }}, "description": {{ . | jsonify | safeJS }}{{ end }}
+  {{ with .Params.cover }}, "image": "{{ . | absURL }}"{{ end }}
+  {{ with .Params.buyLink }}, "offers": { "@type": "Offer", "url": "{{ . }}", "availability": "https://schema.org/InStock", "seller": { "@type": "Organization", "name": {{ $.Params.penerbit | default "Penerbit" | jsonify }} } }{{ end }}
+}
+</script>
+{{ else if eq .Type "blog" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | jsonify }},
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "inLanguage": "id",
+  "author": { "@id": "{{ $personId }}" }
+  {{ with .Description }}, "description": {{ . | jsonify | safeJS }}{{ end }}
+  {{ with .Params.cover }}, "image": "{{ . | absURL }}"{{ end }}
+}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | jsonify }},
+  "url": "{{ .Permalink }}",
+  "isPartOf": { "@id": "{{ $site.BaseURL }}#website" },
+  "inLanguage": "id"
+}
+</script>
+{{ end }}
