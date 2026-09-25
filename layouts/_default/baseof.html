@@ -31,7 +31,8 @@
 		rel="stylesheet">
 	{{ $css := resources.Get "css/style.css" }}
 	{{ $blocks := resources.Get "css/blocks.css" }}
-	{{ $bundle := slice $css $blocks | resources.Concat "css/bundle.css" | fingerprint }}
+	{{ $sari := resources.Get "css/sari.css" }}
+	{{ $bundle := slice $css $blocks $sari | resources.Concat "css/bundle.css" | fingerprint }}
 	<link rel="stylesheet" href="{{ $bundle.RelPermalink }}">
 
 </head>

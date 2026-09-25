@@ -1,0 +1,38 @@
+/* === Sari Nursita — penyesuaian tema (di atas style theme Twenty Twenty) === */
+
+/* Foto profil di atas kolom Tentang */
+.profile-photo { width: min(240px, 62%); margin: 0 auto 1.4rem; }
+.profile-photo img { width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,.14); display: block; }
+
+/* Kontak pakai ikon */
+.contact-icons { display: flex; flex-wrap: wrap; gap: .6rem; margin: .4rem 0 1.2rem; }
+.contact-icons a {
+	display: inline-flex;
+	align-items: center;
+	gap: .5rem;
+	padding: .5em .95em;
+	border: 1px solid #dcd7ca;
+	border-radius: 999px;
+	background: #fff;
+	color: #000;
+	text-decoration: none;
+	font-size: .92rem;
+	font-weight: 700;
+	line-height: 1;
+	transition: transform .12s ease, box-shadow .12s ease, background .12s ease, border-color .12s ease;
+}
+.contact-icons a:hover,
+.contact-icons a:focus { background: #cd2653; border-color: #cd2653; color: #fff; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,.16); }
+.contact-icons svg { width: 1.1em; height: 1.1em; fill: currentColor; display: block; }
+.contact-icons .ci-label { white-space: nowrap; }
+
+/* Catatan kecil kalau daftar masih kosong */
+.empty-note { color: #6d6d6d; font-style: italic; }
+
+/* Halaman buku: blok fakta */
+.book-facts { margin-bottom: .6rem; }
+.book-facts p { margin: .15em 0; }
+
+/* Footer */
+.footer-note { color: #6d6d6d; font-size: .85rem; }
+.footer-note a { color: #cd2653; }
