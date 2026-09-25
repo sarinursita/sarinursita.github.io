@@ -33,7 +33,7 @@ title: "Sari Nursita"
 
 <h2 class="wp-block-heading has-subtle-background-background-color has-background has-normal-font-size">Catatan &amp; Cerita</h2>
 
-<p>Tulisan lepas: pengalaman ngoding, belajar, dan hal-hal yang sedang aku kerjakan.</p>
+<p>Tulisan lepas dari Sari: eksperimen teknologi, pengalaman bikin proyek liburan sekolah, curhat pendidikan anak, kesan tentang kuliah S2, hal-hal yang sedang dipelajari, dan cerita seputar menulis.</p>
 
 {{< recentposts limit="3" >}}
 
