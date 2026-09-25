@@ -3,9 +3,9 @@ title: "Sari Nursita"
 ---
 <div class="wp-block-columns is-layout-flex">
 <div class="wp-block-column is-layout-flow" style="flex-basis:36%">
-<figure class="wp-block-image size-large profile-photo"><img src="/images/sari.png" alt="Sari Nursita"></figure>
-
 <h2 class="wp-block-heading has-secondary-background-color has-background has-normal-font-size">Tentang</h2>
+
+<figure class="wp-block-image size-large profile-photo"><img src="/images/sari.png" alt="Sari Nursita"></figure>
 
 <p>Halo, namaku <strong>Sari Nursita</strong>. Aku lulusan Fakultas Ilmu Komputer Universitas Indonesia dan bekerja sebagai <strong>programmer</strong>.</p>
 
