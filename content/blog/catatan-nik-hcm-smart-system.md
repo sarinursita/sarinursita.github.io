@@ -5,70 +5,59 @@ type: blog
 date: 2026-09-28
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "human-capital", "smart-system"]
-summary: "Dua topik pembuka kuliah perdana MMSI — HCM & Organizational Behavior dan Smart System Sustainability — dicatat Nik dengan bahasa sendiri."
+summary: "Dua topik pembuka kuliah perdana MMSI, HCM & Organizational Behavior sama Smart System Sustainability, dicatat Nik dengan bahasa sendiri."
 ---
 
 Sar!
 
-Anak gue baru balik ke asrama, rumah sunyi, teh udah di samping laptop. Waktunya belajar. Malam ini gue mau bedah dua topik pembuka kelas lo — Human Capital Management & Organizational Behavior, terus Smart System Sustainability. Tapi gue nggak mau nulis ala buku teks, nanti lo baca lima menit langsung lupa. Gue tulis kayak gue lagi cerita ke lo aja.
+Anak gue baru balik ke asrama, rumah sunyi, teh udah di samping laptop. Waktunya belajar. Malam ini gue pengen bedah dua topik pembuka kelas lo, Human Capital Management & Organizational Behavior sama Smart System Sustainability.
 
-## HRD di kantor gue cuma kayak admin — dan ternyata itu masalah
+### HRD di kantor gue cuma ngurusin absen sama gaji 😩
 
-Gue nggak tau HR di kantor lo gimana, tapi di kantor gue — perusahaan konsultan properti, semua serba WFH — HRD tuh rasanya kayak cuma admin doang. Urusannya kontrak, absensi, sama transfer gaji tiap tanggal 25. Selesai. Nggak pernah kebayang dia ngurusin "orang"-nya.
+Gue nggak tau HR di kantor lo gimana, tapi di kantor gue HRD tuh rasanya kayak admin doang. Kantor gue konsultan properti, semua serba WFH, jadi HRD-nya ya gitu: kontrak, absensi, transfer gaji tiap tanggal 25. Selesai, pulang.
 
-Terus pas gue baca bab Human Capital Management, gue baru ngeh: yang selama ini gue lihat itu cuma sebagian kecilnya. Ada versi yang jauh lebih besar, namanya **HCM**. Bedanya sebenarnya simpel tapi dalam. HRD administratif ngurus yang kelihatan — dokumen rapi, aturan jalan, gaji tepat waktu. HCM ngurus yang nggak kelihatan: orang ini tumbuh nggak, nilainya nambah nggak, dia milih buat bertahan nggak.
+Contohnya tahun lalu. Senior gue resign, padahal dia yang paling ngerti proyek apartemen di Bekasi. Tim langsung panic, briefing ulang dari nol, klien ngamuk. Pas gue tanya kenapa dia keluar, jawabannya bukan soal gaji. Katanya, "setahun gue nungguin di-develop, nggak ada yang dateng." HRD kantor gue waktu itu nggak ngukur hal kayak gini. Yang diukur cuma absen sama gaji, bukan dia tumbuh apa nggak.
 
-Dan ini yang bikin gue berhenti sebentar waktu baca: HCM ngelihat karyawan sebagai **modal**, bukan biaya. Modal itu dibikin tumbuh; biaya itu ditekan. Bayangin Sar, kalau cara pandangnya dibalik aja, keputusan sehari-hari jadi beda semua.
+Terus pas gue baca bab Human Capital Management, gue baru ngeh: yang selama ini gue liat cuma sebagian kecilnya. Ada versi yang jauh lebih gede, namanya HCM.
 
-Konsekuensinya lumayan. Modal finansial bisa dikunci di bank — mesin bisa dimatiin, uang bisa ditaruh di deposito. Tapi pengetahuan, pengalaman, sama relasi yang nempel di kepala orang? Itu nggak bisa dikunci di lemari. Makanya disebut **aset intelektual**: nilainya justru nambah kalau dipakai dan dibagikan, bukan berkurang. Dan karena itu, ngurusnya bukan tugas satu departemen — tiap atasan di timnya masing-masing itu "pemilik" aset itu.
+Bedanya simpel tapi dalem. HRD administratif ngurus yang kelihatan: dokumen rapi, gaji tepat waktu. HCM ngurus yang nggak kelihatan: orang ini tumbuh nggak, nilainya nambah nggak, dia mau stay nggak.
 
-## Terus ada sisi perilakunya: Organizational Behavior
+Dan ini bagian yang bikin gue diem sebentar. HCM ngeliat karyawan sebagai modal, bukan biaya. Modal tuh dijaga biar gede, biaya tuh dipotong biar tipis. Geser dikit aja cara pandangnya, keputusan sehari-hari jadi beda semua. Yang tadinya "ngapain ngeluarin duit buat training", jadi "ini yang bikin orang gue nggak resign".
 
-Kalau HCM ngomongin "orang sebagai aset", Organizational Behavior ngomongin "kenapa orang berperilaku begitu". Ada tiga level yang enak banget dipakai buat ngeliatnya:
+Coba bayangin, duit bisa ditaruh di deposito, mesin bisa dimatiin. Tapi pengetahuan, pengalaman, sama relasi yang nempel di kepala orang nggak bisa dikunci di lemari. Makanya disebut aset intelektual. Nilainya justru nambah kalau dipakai sama dibagiin, bukan susut. Efeknya, ngurus ini bukan tugas HRD sendirian. Tiap atasan punya aset yang harus dia rawat di timnya masing-masing.
 
-- **Individu** — motivasi, kepribadian, persepsi. Ini yang bikin gue mikir: kenapa di kantor gue, dua orang dikasih brief yang sama, satu semangat banget dan satu kayak nggak nafsu? Ternyata bukan soal "rajin atau males", tapi soal apa yang bikin tiap orang bergerak.
-- **Tim** — komunikasi, konflik, kerja sama. Ini tempat sebagian besar kerja barengan terjadi — atau gagal. Di kantor yang semua orang WFH, ini paling kerasa. Salah paham chat doang bisa jadi drama seminggu.
-- **Organisasi** — budaya, struktur, kepemimpinan. Ini yang nentuin orang mau tinggal lama atau hengkang pelan-pelan tanpa bilang apa-apa.
+### Kenapa orang satu tim bisa beda banget? 🤔
 
-Dan di zaman serba digital gini, ada dua tantangan yang paling nyata. Pertama, **kerja hibrida** — gimana jaga kepercayaan dan kolaborasi waktu orang nggak duduk di ruangan yang sama. Kedua, **people analytics** — pakai data buat keputusan soal orang. Ini pedang bermata dua sih: bisa bantu banget, tapi kalau kebanyakan, berubah jadi ngawasin orang. Belum lagi soal AI di rekrutmen — kalau datanya bias dari awal, mesinnya cuma nerusin bias itu dengan lebih cepat.
+Ini bagian Organizational Behavior. Ada tiga level yang enak buat ngeliatnya.
 
-## Sekarang pindah ke topik kedua: Smart System Sustainability
+Level pertama, individu: motivasi, kepribadian, cara orang liat sesuatu. Di kantor gue ada dua orang yang dikasih brief sama persis. Satu nyala, satu kayak nggak nafsu. Awalnya gue pikir yang satu rajin yang satu males. Ternyata nggak. Yang kelihatan nggak nafsu itu sebenernya nunggu dianggap, nunggu dikasih project yang lebih gede. Nggak pernah dikasih, ya makin lama makin ilang.
 
-Ini agak lebih teknis, tapi gue sederhanain.
+Level kedua, tim: komunikasi, konflik, kerja sama. Ini paling kerasa buat kantor yang WFH. Salah paham chat doang bisa jadi drama seminggu, gara-gara semua ngejar deadline sendiri-sendiri.
 
-**Smart system** itu sistem yang bisa ngumpulin data, ngolah, terus ngambil atau nyaranin keputusan. Bahannya data (dari sensor/IoT), diolah pakai analitik/AI, jalan di cloud, dan sering punya versi "kembaran digital" dari objek nyata — namanya *digital twin*, buat nyoba-nyoba sebelum dilakukan beneran. Contoh gampangnya: gedung yang otomatis ngatur lampu sama AC sesuai ada orangnya apa nggak.
+Level ketiga, organisasi: budaya, struktur, kepemimpinan. Ini yang nentuin orang mau stay lama atau hengkang pelan-pelan tanpa bilang apa-apa. Kayak senior gue tadi. Nggak ada drama, nggak ada ribut, dia cuma pelan-pelan ilang.
 
-Nah, **sustainability** masuk di sini karena sistem cerdas itu kaitannya erat sama energi, emisi, sama limbah. Kerangka yang biasa dipakai namanya **triple bottom line** — profit, people, planet — dan dilaporin lewat **ESG** (Environmental, Social, Governance).
+Nah, di era serba digital ini ada dua hal yang paling nyata. Pertama, kerja campur: kadang WFO, kadang WFH. Gimana jaga trust sama kolaborasi kalau orangnya nggak duduk di ruangan yang sama? Kedua, people analytics: pakai data buat keputusan soal orang. Ini pedang dua sisi. Bisa bantu banget, tapi kalau kebablasan bisa jadi ngawasin. Belum lagi AI buat rekrutmen. Kalau datanya dari awal bias, mesinnya cuma ngejalanin bias yang sama, cuma lebih cepet.
 
-Titik temunya lumayan masuk akal. Sistem cerdas bisa **nekan konsumsi energi** (matiin yang nggak kepake, ngeramal beban listrik). Bisa **ngurangin emisi** lewat rute dan tracking yang lebih efisien. Bisa dorong **ekonomi sirkular** — mantau masa pakai barang biar bisa dipakai ulang, bukan langsung dibuang.
+### Sistem yang katanya cerdas itu secerdas apa sih?
 
-Tapi jangan ilang sisi gelapnya ya. Sistem cerdas juga **butuh listrik** dan ninggalin **e-waste** alias sampah elektronik. Sensor yang ngumpulin data bisa nabrak **privasi**. Dan kalau semua keputusan diserahin ke algoritma, kita bisa kehilangan pertimbangan manusia. Jadi desain yang berkelanjutan bukan soal "makin canggih makin bagus" — tapi soal tahan lama, adil, dan transparan.
+Smart system itu sistem yang bisa ngumpulin data, ngolah, terus ngambil atau nyaranin keputusan. Bahannya data, biasanya dari sensor atau IoT, diolah pakai analitik atau AI, jalannya di cloud, dan sering punya kembaran digital dari benda aslinya. Namanya digital twin. Fungsinya buat ngetes dulu sebelum beneran dilakuin. Contoh gampang: gedung yang lampu sama AC-nya nyala-mati sendiri ngikutin ada orang apa nggak.
 
-Buat lo yang mau jadi analis atau manajer sistem informasi, peran lo justru ada tepat di titik temu ini. Lo yang bisa mastiin sistem nggak cuma efisien hari ini, tapi masih masuk akal lima atau sepuluh tahun lagi.
+Sekarang ngomong sustainability. Ini nyambung karena smart system tuh kaitannya erat sama listrik, emisi, sama sampah. Kerangka yang biasa dipakai: triple bottom line, yaitu profit, people, planet, yang dilaporin lewat ESG (Environmental, Social, Governance).
 
-## Food for thought
+Titik temunya lumayan masuk akal. Smart system bisa nekan penggunaan listrik, misal matiin yang nggak kepake sama ngeramal kapan beban listrik naik. Bisa ngurangin emisi lewat rute dan tracking yang lebih efisien. Bisa juga dorong ekonomi sirkular, mantau masa pakai barang biar bisa dipakai ulang, bukan langsung dibuang.
 
-Gue suka nulis pertanyaan buat diri sendiri, biar bacanya nggak berhenti di halaman. Coba lo pikir lima menit:
+Tapi jangan lupa sisi gelapnya, Sar. Yang perlu lo tau: server sama sensornya sendiri butuh listrik, dan waktu usianya habis jadi e-waste. Laptop sama perangkat gue di kantor aja numpuk di gudang, nggak tau mau diapain. Belum lagi soal privasi, sensor yang ngumpulin data bisa jadi masalah, apalagi yang sampai ngerekam wajah orang. Dan kalau semua keputusan diserahin ke algoritma, pertimbangan manusia bisa ilang. Jadi sistem yang berkelanjutan tuh bukan yang paling canggih, tapi yang tahan lama, adil, dan transparan.
 
-1. Kalau manusia beneran "aset", kenapa banyak perusahaan justru yang paling rajin ngirit di gaji dan pelatihan pas krisis? Apa yang mereka salah tangkap?
-2. Modal finansial bisa dikunci di bank, modal manusia nggak. Jadi satu hal apa yang harus berubah dari cara kita ngurus orang?
-3. Sistem cerdas bisa hemat energi, tapi juga butuh listrik dan ninggalin e-waste. Di mana titik impasnya — dan siapa yang mestinya ngitung itu?
-4. Data soal perilaku orang bisa bikin sistem lebih pintar, tapi juga bisa jadi alat pengawasan. Di mana garis batasnya?
+Buat lo yang mau jadi analis atau manajer sistem informasi, posisi lo persis di titik temu ini. Lo yang bisa mastiin sistemnya bukan cuma efisien hari ini, tapi masih masuk akal 5 sampai 10 tahun lagi.
 
-## Coba kaitin ke kerjaan lo
+### Try it yourself
 
-Jangan berhenti di teori. Pilih satu aja:
-- Kalau lo punya tim atau kolaborator, siapa yang "asetnya" belum lo rawat — dan keputusan apa yang lo tunda karena ngelihatnya cuma sebagai biaya?
-- Di proyek atau sistem apa pun yang lo jalanin, mana yang lo optimize buat hasil cepat, padahal efek jangka panjangnya belum lo itung?
+1. Kalau manusia beneran "aset", kenapa banyak perusahaan yang paling rajin ngirit justru di gaji sama training pas krisis? Apa yang mereka salah tangkap?
+2. Duit bisa dikunci di bank, modal manusia nggak. Jadi satu hal apa yang harus berubah dari cara lo ngurus orang?
+3. Smart system bisa hemat listrik, tapi juga butuh listrik dan ninggalin e-waste. Di mana titik impasnya, dan siapa yang mestinya ngitung?
+4. Data soal perilaku orang bisa bikin sistem lebih pinter, tapi juga bisa jadi alat ngawasin. Di mana garis batasnya?
+5. Orang di tim lo yang asetnya belum lo rawat, siapa? Dan keputusan apa yang lo tunda gara-gara ngeliatnya cuma sebagai biaya?
 
-## Tugas kecil (2 menit)
+Gue balik ke modul, masih ada dua bab lagi yang harus kelar sebelum tidur. Lo udah siapin pertanyaan buat kelas nanti belum, Sar? 😆
 
-Tulis satu kalimat di catatan lo: *"Satu orang di sekitarku yang asetnya belum aku rawat adalah ___."* Nggak usah dibagi, buat lo sendiri.
-
----
-
-Gue balik ke modul, masih ada dua bab lagi yang harus kelar sebelum jam tidur. Lo udah siapin pertanyaan buat kelas nanti belum, Sar? Kalau iya, tempel aja di kolom diskusi di bawah — nanti gue baca. 😆
-
-— Nik
-
-*Catatan pemilik blog: "Nik" adalah persona fiktif untuk Jurnal Kolaborasi di blog ini — teman belajar yang kutuliskan bareng Max. Materinya tetap materi asli dari modul.*
+Nik
