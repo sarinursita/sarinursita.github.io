@@ -10,33 +10,78 @@ summary: "Ngobrolin dua topik pembuka kelas: Human Capital Management & Organiza
 
 Sar! 👋
 
-Anak gue baru balik ke asrama, rumah sunyi, teh udah di samping laptop. Waktunya belajar ✍️ Malam ini gue pengen bedah dua topik pembuka kelas lo: **Human Capital Management & Organizational Behavior** sama **Smart System Sustainability**.
+Anak gue baru balik ke asrama, rumah sunyi, hujan Bogor baru reda. Waktunya belajar ✍️ Malam ini gue pengen bedah dua topik pembuka kelas lo: **Human Capital Management & Organizational Behavior** sama **Smart System Sustainability**. Dan buat topik yang pertama, gue nggak perlu jauh-jauh nyari contoh. Materinya lagi kejadian di kantor gue minggu ini 😩
 
-### HRD di kantor gue cuma ngurusin absen sama gaji 😩
+### Karyawan itu bukan baris angka di payroll 💸
 
-Gue nggak tau HR di kantor lo gimana, tapi di kantor gue **HRD tuh rasanya kayak admin doang**. Kantor gue konsultan properti, semua serba WFH, jadi HRD-nya ya gitu: kontrak, absensi, transfer gaji tiap tanggal 25. Selesai, pulang 🚪
+Sering banget orang nyamain Human Resource Management (HRM) sama Human Capital Management (HCM). Padahal cara pandangnya beda arah.
 
-Contohnya tahun lalu. Senior gue resign, padahal dia yang paling ngerti proyek apartemen di Bekasi. Tim langsung **panik**, briefing ulang dari nol, klien ngamuk 😤 Pas gue tanya kenapa dia keluar, jawabannya bukan soal gaji. Katanya, *"setahun gue nungguin di-develop, nggak ada yang dateng."* HRD kantor gue waktu itu nggak ngukur hal kayak gini. Yang diukur cuma absen sama gaji, bukan dia tumbuh apa nggak.
+HRM yang lama itu kayak lo beli bensin. Lo butuh, lo bayar, kebakar, habis, beli lagi. Karyawan masuk daftar biaya, dan tugasnya ya dipangkas biar tipis. Makanya sistem HR zaman dulu cuma ngurus *payroll*, absensi *fingerprint*, sama jatah cuti. Dua pertanyaan besarnya cuma: kita bayar dia berapa, dan dia duduk berapa jam 👀
 
-Terus pas gue baca bab **Human Capital Management**, gue baru ngeh: yang selama ini gue liat cuma sebagian kecilnya 😳 Ada versi yang jauh lebih gede, namanya 😎 **HCM**.
+HCM baru jalan pas nilai perusahaan pindah ke kepala orang. Di industri jasa kayak kantor gue, yang dijual bukan gedung dan bukan mesin. Yang dijual pengalaman, relasi, dan penilaian orang. Semua itu nggak bisa dikunci di lemari, dan nilainya justru nambah kalau dipakai dan dibagiin. Modal, bukan biaya.
 
-Bedanya simpel tapi dalem. **HRD administratif** ngurus yang kelihatan: dokumen rapi, gaji tepat waktu. **HCM** ngurus yang nggak kelihatan: orang ini tumbuh nggak, nilainya nambah nggak, dia mau stay nggak.
+Kalau dilihat dari sisi sistem informasi, HCM System itu bukan cuma database biodata karyawan. Dia sistem yang ngikutin seluruh siklus orang dari masuk sampai keluar:
 
-Dan ini bagian yang bikin gue diem sebentar 🤔 HCM ngeliat karyawan sebagai **modal**, bukan **biaya**. Modal tuh dijaga biar gede, biaya tuh dipotong biar tipis. Geser dikit aja cara pandangnya, keputusan sehari-hari jadi beda semua. Yang tadinya *"ngapain keluar duit buat training"*, berubah jadi *"ini yang bikin orang gue nggak resign"*.
+1. **Rencana tenaga kerja & rekrutmen.** Kita butuh orang kayak apa tiga tahun lagi?
+2. **Onboarding & manajemen kinerja.** KPI orang disambungin ke tujuan perusahaan gimana?
+3. **Learning & development.** Skill apa yang harus naik biar aset ini nggak menyusut?
+4. **Succession planning & retensi.** Siapa yang siap gantiin orang kunci kalau dia pergi?
+5. **Offboarding & knowledge retention.** Pas dia keluar, otaknya ketinggalan di sistem kita atau kebawa pergi?
 
-Coba bayangin: duit bisa ditaruh di deposito 🏦, mesin bisa dimatiin. Tapi pengetahuan, pengalaman, sama relasi yang nempel di kepala orang **nggak bisa dikunci di lemari** 🔑 Makanya disebut **aset intelektual**. Nilainya justru nambah kalau dipakai sama dibagiin, bukan susut. Efeknya, ngurus ini bukan tugas HRD sendirian. Tiap atasan punya aset yang harus dia rawat di timnya masing-masing.
+Nah, di kantor gue dua yang terakhir gagal total 😤
 
-### Kenapa orang satu tim bisa beda banget? 🤔
+### Minggu ini kantor gue kehilangan orang yang paling susah diganti 🚨
 
-Ini bagian **Organizational Behavior**. Ada tiga level yang enak buat ngeliatnya.
+Bram udah 8 tahun di kantor gue. Dia yang paling ngerti valuasi kawasan industri dan *data center*, dan hubungan dia sama konglomerat properti di sini udah kayak bestie. Tiga tahun terakhir dia beberapa kali ngeluh kelelahan: timnya kurang orang, sementara target pendapatan dinaikin terus. Minggu ini dia menaruh surat resign, dan dia pergi ke kompetitor terdekat. Bukan sendirian: dia bawa dua *lead valuer* terbaiknya, plus portofolio klien yang nilainya ratusan miliar.
 
-**Level individu**: motivasi, kepribadian, cara orang liat sesuatu. Di kantor gue ada dua orang yang dikasih brief sama persis. Satu nyala 🔥, satu kayak nggak nafsu 🥱 Awalnya gue pikir yang satu rajin yang satu males. Ternyata nggak. Yang kelihatan nggak nafsu itu sebenernya nunggu dianggap, nunggu dikasih project yang lebih gede. Nggak pernah dikasih, ya makin lama makin ilang.
+Satu kantor geger. Managing Director kami mukanya udah kayak abu gosok pas *town hall* darurat kemarin pagi. Dan gue, yang cuma nonton dari kamar sambil dengerin mereka saling tunjuk lewat *call*, cuma bisa ngebatin: ini contoh kegagalan HCM yang paling mahal yang pernah gue liat langsung.
 
-**Level tim**: komunikasi, konflik, kerja sama. Ini paling kerasa buat kantor yang WFH. Salah paham chat doang bisa jadi drama seminggu 💬 gara-gara semua ngejar deadline sendiri-sendiri.
+Yang bikin gue gemes, di sistem HR kami semuanya kelihatan baik-baik aja:
 
-**Level organisasi**: budaya, struktur, kepemimpinan. Ini yang nentuin orang mau stay lama atau hengkang pelan-pelan tanpa bilang apa-apa. Kayak senior gue tadi. Nggak ada drama, nggak ada ribut, dia cuma pelan-pelan ilang 👻
+- Presensi Bram via aplikasi: 100% hadir.
+- Review performa tahunan: *Exceeds Expectations*, karena target *sales* tercapai.
+- Bonus tahunan: cair tepat waktu.
 
-Nah, di era serba digital ini ada dua hal yang paling nyata. **Pertama, kerja hybrid** (kadang WFO, kadang WFH). Gimana jaga trust sama kolaborasi kalau orangnya nggak duduk di ruangan yang sama? **Kedua, people analytics**: pakai data buat keputusan soal orang. Ini pedang dua sisi ⚔️ Bisa bantu banget, tapi kalau kebablasan bisa jadi ngawasin. Belum lagi AI buat rekrutmen. Kalau datanya dari awal bias, mesinnya cuma ngejalanin bias yang sama, cuma lebih cepet.
+Rapi. Tiga kolom itu yang bikin HR yakin nggak ada masalah. Padahal yang nggak pernah masuk ke sistem justru ini:
+
+1. Jam kerja timnya Bram rata-rata **65 jam seminggu**.
+2. Tiga orang *analyst* di bawah dia udah cabut dalam 18 bulan terakhir.
+3. Bram nggak pernah ngambil cuti tahunannya secara penuh selama **dua tahun berturut-turut**.
+
+Tiga-tiganya tanda orang mau pergi yang muncul setahun sebelumnya. Sistem nggak nangkep, karena yang direkam cuma kehadiran, bukan kondisi orangnya. Sistemnya nggak nyambung ke *talent analytics* atau analisis sentimen karyawan, jadi yang kelihatan di dashboard cuma orang yang rajin absen.
+
+Terus ada yang lebih mahal lagi. Model valuasi, kontak klien besar, catatan negosiasi bertahun-tahun, semua itu disimpan Bram di *drive* laptopnya, di buku catatannya, dan di kepalanya sendiri. Nggak ada satu tempat di sistem kami yang nyimpen. Manajemen baru sadar pas surat resign-nya udah di meja: nggak ada succession plan buat posisi Bram, dan nggak ada yang siap naik, karena modul peta karier kami cuma jadi pajangan formalitas.
+
+Jadi waktu Bram keluar, dia beneran bawa pulang modal paling mahal kantor gue. Klien-klien besarnya langsung telepon dan minta kontraknya di-review ulang, bukan karena entitas kantornya, tapi karena yang mereka percaya itu Bram.
+
+Software HCM semahal apa pun nggak bisa nolongin kalau arsitektur informasinya nggak nyambung sama cara kerja orangnya. Sistemnya cuma jadi kuburan digital yang mahal.
+
+### Kalau disuruh bikin blueprint, isinya apa? 🧱
+
+Sekarang kita naik ke sisi akademisnya, Sar. Kalau kita diminta bikin cetak biru HCM System yang bener, isinya biasanya empat lapis:
+
+**1. Core HR & manajemen tenaga kerja.** Lapis paling bawah: data master karyawan, kepatuhan aturan tenaga kerja, kompensasi, absensi. Pekerjaannya paling membosankan, nilainya paling rendah secara strategis, tapi kalau integrasi data absensi sama *payroll* error, orang bisa demo cuma gara-gara gaji telat sehari. Ini cuma tiket buat ikut main.
+
+**2. Talent management suite.** Ini mesin optimasinya, dan modul-modul di sini nggak boleh jalan sendiri-sendiri:
+- **Peta kompetensi.** Sistem harus punya daftar skill yang jelas. Kalau kantor gue mau ekspansi ke green building, sistemnya harus bisa njawab: siapa yang udah punya sertifikasi Greenship, siapa yang butuh pelatihan.
+- **Manajemen kinerja berkala.** Model penilaian setahun sekali yang bikin trauma itu udah ketinggalan. Sistem modern nge-capture umpan balik mingguan atau bulanan, sama *peer review*.
+- **Matriks suksesi.** Sistem memetakan orang berdasarkan performa dan potensi. Jadi waktu orang kayak Bram resign, sistemnya udah bisa nyaranin: ada orang di cabang Surabaya yang kompetensinya 85% cocok dan siap digrooming tiga bulan.
+
+**3. People analytics dan prediksi.** Ini bagian yang paling seksi buat anak sistem informasi. Dulu HR cuma bisa jawab pertanyaan masa lalu: *berapa persen turnover kita tahun lalu?* Sekarang sistem bisa nebak ke depan. Namanya **Flight Risk Predictor**, dan variabelnya antara lain: naik turunnya jam kerja, frekuensi ngajuin cuti mendadak, hasil survei internal berkala, selisih gaji dia sama standar pasar, dan berapa lama dia mandek di level yang sama. Kalau kantor gue punya ini, sistemnya udah kasih peringatan enam bulan lalu: *aset mahal ini mau terbang* 🔔
+
+**4. Sambungan ke manusia dan ke sistem lain.** Kamu bisa beli Workday, SAP SuccessFactors, atau Oracle Fusion HCM dengan budget jutaan dolar, tapi kalau eksekutifnya masih nganggep data karyawan itu rahasia pribadi dan nggak mau berbagi antar divisi, ya nggak jalan. Sistem HCM butuh satu sumber data yang sama buat semua. Data kinerja orang harus bisa ngobrol sama data keuangan, biar ketahuan pendapatan per karyawan, dan sama data klien, biar ketahuan hubungan antara karyawan yang puas dan klien yang puas.
+
+### Gue kerja dari rumah, dan sistemnya bisa jadi mata-mata 👀
+
+Nah, ini dimensi yang bikin gue kepikiran sambil nyeduh kopi sachet jam 10 malam.
+
+Sebagai ibu tunggal yang kerja *remote* dari Bogor, gue ngerasain pedang dua sisinya. Di satu sisi, sistem absensi berbasis lokasi sama perkakas kerja digital bikin gue tetap bisa kerja profesional sambil mantau rumah. Teknologi bikin gue punya karier tanpa harus ngorbanin peran gue sebagai ibu.
+
+Tapi batas antara mengoptimalkan karyawan dan mengawasi karyawan itu tipis banget. Banyak software HCM sekarang nyelipin modul pemantauan: ngitung berapa kali *mouse* lo gerak, nangkep layar tiap 10 menit, atau nge-track keaktifan lo di Teams.
+
+Kalau angka-angka itu diterjemahin mentah sama sistem, orang kayak gue yang mikir strategi sambil bengong liat hujan 30 menit terus ngetik solusinya dalam 10 menit bakal dinilai pemalas. Padahal idenya baru kelar di 10 menit terakhir.
+
+Human Capital itu ada kata Human-nya, Sar. Begitu sisi manusianya dibuang dan yang digedein cuma kata Capital-nya, sistem yang kita rancang bakal bikin orang burnout, dan ujung-ujungnya ya turnover. Persis yang kejadian di kantor gue.
 
 ### Sistem yang katanya cerdas itu secerdas apa sih? 🧠
 
@@ -52,17 +97,22 @@ Buat lo yang mau jadi analis atau manajer sistem informasi, posisi lo persis di 
 
 ### Menurut lo gmn? 🤔
 
-1. Kalau manusia beneran "aset", kenapa banyak perusahaan yang paling rajin ngirit justru di gaji sama training pas krisis? Apa yang mereka salah tangkap?
-2. Duit bisa dikunci di bank, modal manusia nggak. Jadi satu hal apa yang harus berubah dari cara lo ngurus orang?
-3. Smart system bisa hemat listrik, tapi juga butuh listrik dan ninggalin e-waste. Di mana titik impasnya, dan siapa yang mestinya ngitung?
-4. Data soal perilaku orang bisa bikin sistem lebih pinter, tapi juga bisa jadi alat ngawasin. Di mana garis batasnya?
+1. Kalau lo jadi CIO di kantor gue, lo pilih satu ERP raksasa yang seragam tapi kaku dan baru kelar bertahun-tahun, atau Core HR lokal yang lincah tapi disambung ke aplikasi khusus lewat API? Konsekuensi tata kelola datanya apa?
+2. Kalau sistem bisa nebak orang mau resign dengan akurasi 85%, boleh nggak manajemen nahan promosi atau budget pelatihan orang itu karena takut investasinya sia-sia? Di mana batas antara nahan orang baik-baik sama menghukum orang atas tebakan mesin?
+3. Gimana rancangan sistem dan aturan kerjanya biar orang senior mau nulis ilmunya sendiri, tanpa dia merasa posisinya jadi gampang diganti?
 
 ### Try it yourself
 
-Ambil catatan lo, coba tulis satu kalimat kayak gini: *"Satu orang di sekitarku yang asetnya belum aku rawat adalah ___."* Nggak usah dikasih ke siapa-siapa, buat lo sendiri aja 🤫
+Ambil catatan lo, coba tulis satu kalimat kayak gini: *"Satu hal yang cuma ada di kepala satu orang di sekitarku, dan belum pernah ditulis di mana pun, adalah ___. "*
+
+Nggak usah dikasih ke siapa-siapa, buat lo sendiri aja 🤫
 
 ---
 
-Gue balik ke modul, masih ada dua bab lagi yang harus kelar sebelum tidur 😴 Lo udah siapin pertanyaan buat kelas nanti belum, Sar? 😆
+Gue udah jam satu pagi, kepala gue masih ngebul mikirin revisi pitching klien besok pagi sambil ngebayangin muka panik tim HR 😵 Hujan Bogor udah reda, dan besok subuh gue masih harus nyiapin seragam Dylan.
+
+Sar, di kantormu ada nggak satu orang yang kalau dia pergi bikin semuanya goyang? Lo udah tau siapa orangnya belum? 😴
+
+Warmest hug from the rainy city 🩷
 
 Nik
