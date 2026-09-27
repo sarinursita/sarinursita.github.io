@@ -1,16 +1,16 @@
 ---
-title: "Catatan Nik: Human Capital Management & Smart System Sustainability"
-subtitle: "Catatan Nik tentang dua topik pembuka kelas"
+title: "Catatan Nik: Human Capital Management"
+subtitle: "Catatan Nik tentang topik pembuka kelas"
 type: blog
 date: 2026-09-28
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "human-capital", "smart-system"]
-summary: "Ngobrolin dua topik pembuka kelas: Human Capital Management & Organizational Behavior sama Smart System Sustainability."
+tags: ["study", "collab-journal", "MMSI", "human-capital"]
+summary: "Catatan Nik soal Human Capital Management, dari kasus senior gue yang resign sampai kenapa sistem HR yang mahal bisa nggak lihat apa-apa."
 ---
 
 Sar! 👋
 
-Anak gue baru balik ke asrama, rumah sunyi, hujan Bogor baru reda. Waktunya belajar ✍️ Malam ini gue pengen bedah dua topik pembuka kelas lo: **Human Capital Management & Organizational Behavior** sama **Smart System Sustainability**. Dan buat topik yang pertama, gue nggak perlu jauh-jauh nyari contoh. Materinya lagi kejadian di kantor gue minggu ini 😩
+Anak gue baru balik ke asrama, rumah sunyi, hujan Bogor baru reda. Waktunya belajar ✍️ Malam ini gue pengen bedah topik pembuka kelas lo: **Human Capital Management**. Dan buat topik ini gue nggak perlu jauh-jauh nyari contoh. Materinya lagi kejadian di kantor gue minggu ini 😩
 
 ### Karyawan itu bukan baris angka di payroll 💸
 
@@ -82,18 +82,6 @@ Tapi batas antara mengoptimalkan karyawan dan mengawasi karyawan itu tipis bange
 Kalau angka-angka itu diterjemahin mentah sama sistem, orang kayak gue yang mikir strategi sambil bengong liat hujan 30 menit terus ngetik solusinya dalam 10 menit bakal dinilai pemalas. Padahal idenya baru kelar di 10 menit terakhir.
 
 Human Capital itu ada kata Human-nya, Sar. Begitu sisi manusianya dibuang dan yang digedein cuma kata Capital-nya, sistem yang kita rancang bakal bikin orang burnout, dan ujung-ujungnya ya turnover. Persis yang kejadian di kantor gue.
-
-### Sistem yang katanya cerdas itu secerdas apa sih? 🧠
-
-**Smart system** itu sistem yang bisa ngumpulin data, ngolah, terus ngambil atau nyaranin keputusan. Bahannya data, biasanya dari sensor atau IoT, diolah pakai analitik atau AI, jalannya di cloud, dan sering punya kembaran digital dari benda aslinya. Namanya **digital twin**. Fungsinya buat ngetes dulu sebelum beneran dilakuin. Contoh gampang: gedung yang lampu sama AC-nya nyala-mati sendiri ngikutin ada orang apa nggak 💡
-
-Sekarang ngomong **sustainability**. Ini nyambung karena smart system tuh kaitannya erat sama listrik, emisi, sama sampah. Kerangka yang biasa dipakai: **triple bottom line**, yaitu *profit, people, planet*, yang dilaporin lewat **ESG** (Environmental, Social, Governance).
-
-Titik temunya lumayan masuk akal. Smart system bisa **nekan penggunaan listrik**, misal matiin yang nggak kepake sama ngeramal kapan beban listrik naik. Bisa **ngurangin emisi** lewat rute dan tracking yang lebih efisien. Bisa juga dorong **ekonomi sirkular**: mantau masa pakai barang biar bisa dipakai ulang, bukan langsung dibuang.
-
-Tapi sisi gelapnya nyata, Sar 👇 **Pertama**, server sama sensornya sendiri butuh listrik, dan waktu usianya habis jadi **e-waste**. Laptop sama perangkat gue di kantor aja numpuk di gudang, nggak tau mau diapain 📦 **Kedua**, soal **privasi**: sensor yang ngumpulin data bisa jadi masalah, apalagi yang sampai ngerekam wajah orang. **Ketiga**, kalau semua keputusan diserahin ke algoritma, **pertimbangan manusia bisa ilang**. Jadi sistem yang berkelanjutan tuh bukan yang paling canggih, tapi yang tahan lama, adil, dan transparan.
-
-Buat lo yang mau jadi analis atau manajer sistem informasi, posisi lo persis di titik temu ini. Lo yang bisa mastiin sistemnya bukan cuma efisien hari ini, tapi masih masuk akal 5 sampai 10 tahun lagi ✨
 
 ### Menurut lo gmn? 🤔
 
