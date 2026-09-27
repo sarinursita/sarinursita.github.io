@@ -23,6 +23,15 @@ static/            # gambar, robots.txt
 - **Tulisan blog:** buat `content/blog/<slug>.md` (front matter: `type: blog`, `title`,
   `date`, opsional `category`, `cover`, `summary`, `subtitle`). Set `draft: false` untuk tayang.
 
+## Rubrik Collab Journal
+
+Blog ini punya rubrik **Collab Journal**: catatan belajar S2 yang ditulis bersama persona
+fiktif (Max / Nik / Pak Sam). Aturan gaya, template, dan riwayat koreksi ada di
+**[COLLAB-JOURNAL.md](COLLAB-JOURNAL.md)** — baca dulu sebelum menulis tulisan rubrik ini.
+
+Komentar pembaca: **giscus** (GitHub Discussions, kategori *Announcements*), dipasang via
+`layouts/partials/comments.html`.
+
 ## Build & deploy
 
 Deploy otomatis: push ke `main` → GitHub Actions build Hugo → publish ke GitHub Pages.
