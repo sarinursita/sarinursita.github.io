@@ -93,7 +93,7 @@ Sekarang, ayo kita bedah dari sisi akademis MSI kita, Sar. Kalau besok kita disu
 ```
 
 #### 1. Core HR & Workforce Management (The Operational Backbone)
-Ini lapisan paling dasar. Tugasnya mengotomatisasi proses bisnis rutin: data master karyawan, kepatuhan hukum tenaga kerja (*labor compliance*), kompensasi, dan absensi. Di level ini, tantangan terbesarnya adalah **Data Hygiene**. Lo bayangin kalau integrasi API antara data absensi, modul *overtime*, dan sistem *payroll* error—bisa-bisa ribuan orang demo cuma gara-gara gaji telat masuk satu hari. Tapi secara strategis, layer ini *value*-nya paling rendah. Ini cuma *ticket to play*.
+Ini lapisan paling dasar. Tugasnya mengotomatisasi proses bisnis rutin: data master karyawan, kepatuhan hukum tenaga kerja (*labor compliance*), kompensasi, dan absensi. Di level ini, tantangan terbesarnya adalah **Data Hygiene**. Lo bayangin kalau integrasi API antara data absensi, modul *overtime*, dan sistem *payroll* error. Bisa-bisa ribuan orang demo cuma gara-gara gaji telat masuk satu hari. Tapi secara strategis, layer ini *value*-nya paling rendah. Ini cuma *ticket to play*.
 
 #### 2. The Integrated Talent Management Suite (The Optimization Engine)
 Di sinilah transformasi HCM terjadi. Modul-modul di layer ini nggak boleh berdiri sendiri (*siloed*):
@@ -127,7 +127,7 @@ Sebagai ibu tunggal yang kerja *mostly remote* dari Bogor, gue ngerasain banget 
 
 Tapi di sisi lain, lo nyadar nggak sih batas antara *employee optimization* sama *digital surveillance* itu tipis banget di era HCM modern?
 
-Banyak software HCM sekarang yang nyelipin modul *employee monitoring*: ngitung berapa kali mouse lo gerak, nangkep layar (*screen capture*) tiap 10 menit, atau nge-track keaktifan lo di Teams. Kalau metrik HCM cuma diterjemahkan secara dangkal oleh sistem algoritma jadi "keaktifan keyboard", maka orang-orang kayak gue—yang mungkin mikir strategi marketing sambil bengong liat hujan di jendela selama 30 menit, baru ngetik solusinya dalam 10 menit—bakal dinilai sebagai karyawan pemalas oleh sistem. 
+Banyak software HCM sekarang yang nyelipin modul *employee monitoring*: ngitung berapa kali mouse lo gerak, nangkep layar (*screen capture*) tiap 10 menit, atau nge-track keaktifan lo di Teams. Kalau metrik HCM cuma diterjemahkan secara dangkal oleh sistem algoritma jadi "keaktifan keyboard", maka orang-orang kayak gue, yang mungkin mikir strategi marketing sambil bengong liat hujan di jendela selama 30 menit, baru ngetik solusinya dalam 10 menit, bakal dinilai sebagai karyawan pemalas oleh sistem. 
 
 Ini bahaya banget kalau anak-anak sistem informasi cuma mikirin desain *dashboard* yang metriknya kuantitatif-mekanistik tanpa ngerti psikologi manusia dan dinamika kerja modern. *Human Capital* itu ada kata **Human**-nya, Sar. Begitu kita ngilangin aspek kemanusiaannya dan cuma fokus ke kata *Capital*-nya, sistem yang kita rancang bakal jadi sistem yang dehumanizing, bikin *burnout*, dan ujung-ujungnya malah memicu *turnover* massal.
 
