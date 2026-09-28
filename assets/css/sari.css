@@ -42,3 +42,40 @@
 .post-comments .comments-title { font-size: 1.35rem; margin: 1em 0 0.4em; }
 .post-comments .comments-hint { font-size: 0.92rem; opacity: 0.75; margin-bottom: 1.2em; }
 .post-comments .giscus-wrap { margin-top: 0.6em; }
+
+/* ── Tombol bagikan (share bar) ────────────────────────── */
+.share-bar {
+	display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
+	margin: 2.2em 0 1.6em; padding: 1em 1.1em;
+	border: 1px solid #e6e1d8; border-radius: 10px; background: #fbf9f6;
+}
+.share-label { font-size: .85rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: #6d6d6d; margin-right: .2em; }
+.share-btn {
+	display: inline-flex; align-items: center; gap: .45em;
+	padding: .5em .9em; border: 1px solid #dcd7ca; border-radius: 999px;
+	background: #fff; color: #1a1a1a; font-size: .88rem; font-weight: 700; line-height: 1;
+	text-decoration: none; cursor: pointer; font-family: inherit;
+	transition: transform .12s ease, box-shadow .12s ease, background .12s ease, border-color .12s ease, color .12s ease;
+}
+.share-btn svg { width: 1.05em; height: 1.05em; fill: currentColor; display: block; }
+.share-btn:hover, .share-btn:focus { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,.14); color: #fff; }
+.sb-wa:hover, .sb-wa:focus { background: #25d366; border-color: #25d366; }
+.sb-tg:hover, .sb-tg:focus { background: #229ed9; border-color: #229ed9; }
+.sb-x:hover,  .sb-x:focus  { background: #000; border-color: #000; }
+.sb-fb:hover, .sb-fb:focus { background: #1877f2; border-color: #1877f2; }
+.sb-mail:hover, .sb-mail:focus { background: #cd2653; border-color: #cd2653; }
+.sb-copy:hover, .sb-copy:focus { background: #565656; border-color: #565656; }
+.sb-native:hover, .sb-native:focus { background: #cd2653; border-color: #cd2653; }
+.share-flash { font-size: .85rem; font-weight: 700; color: #2e7d32; }
+
+/* ── Blok "Ikuti tulisan baru" di footer ───────────────── */
+.follow-block { margin: 1.6em 0 1.2em; padding-top: 1.2em; border-top: 1px solid #333; }
+.follow-block .follow-title { font-weight: 700; margin: 0 0 .25em; }
+.follow-block .follow-desc { font-size: .9rem; margin: 0 0 .6em; opacity: .85; }
+.follow-block .follow-links { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0; }
+.follow-block .follow-links a {
+	display: inline-block; padding: .4em .85em; border: 1px solid #555; border-radius: 999px;
+	font-size: .88rem; font-weight: 700; text-decoration: none; color: inherit;
+	transition: background .12s ease, border-color .12s ease;
+}
+.follow-block .follow-links a:hover, .follow-block .follow-links a:focus { background: #cd2653; border-color: #cd2653; color: #fff; }

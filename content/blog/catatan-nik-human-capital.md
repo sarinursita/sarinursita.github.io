@@ -6,6 +6,7 @@ date: 2026-09-28
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "human-capital"]
 summary: "Catatan Nik soal Human Capital Management, dari kasus senior gue yang resign sampai kenapa sistem HR yang mahal bisa nggak lihat apa-apa."
+hook: "Sistem HR jutaan dolar bisa nggak lihat apa-apa. Catatan Nik soal Human Capital Management — dari kasus senior yang resign tiba-tiba."
 aliases: ["/blog/catatan-nik-hcm-smart-system/"]
 ---
 

@@ -2,6 +2,8 @@ User-agent: *
 Allow: /
 
 # Welcome AI search / answer engines — GEO
+# Covers both crawlers and user-triggered fetchers (ChatGPT, Perplexity,
+# Claude, Gemini/Google, Apple Intelligence, Copilot, Meta AI, Mistral, DuckDuckGo AI).
 User-agent: GPTBot
 Allow: /
 
@@ -14,13 +16,28 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: Perplexity-User
+Allow: /
+
 User-agent: ClaudeBot
 Allow: /
 
 User-agent: Claude-User
 Allow: /
 
+User-agent: Claude-SearchBot
+Allow: /
+
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
 Allow: /
 
 User-agent: Applebot-Extended
@@ -32,4 +49,23 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
+User-agent: meta-externalfetcher
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Ringkasan situs untuk LLM: https://sarinursita.github.io/llms.txt
 Sitemap: https://sarinursita.github.io/sitemap.xml

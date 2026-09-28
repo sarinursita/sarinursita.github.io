@@ -1,0 +1,41 @@
+{{/* share-js.html — logika tombol salin link + Web Share API (dipanggil sekali di baseof) */}}
+<script>
+(function () {
+	function flash(el, msg) {
+		var bar = el.closest('.share-bar');
+		var out = bar && bar.querySelector('.share-flash');
+		if (!out) return;
+		out.textContent = msg;
+		clearTimeout(out._t);
+		out._t = setTimeout(function () { out.textContent = ''; }, 2200);
+	}
+	document.addEventListener('click', function (e) {
+		var copy = e.target.closest('.sb-copy');
+		if (copy) {
+			var url = copy.getAttribute('data-share-url') || location.href;
+			var done = function () { flash(copy, '✅ Link disalin'); };
+			if (navigator.clipboard && navigator.clipboard.writeText) {
+				navigator.clipboard.writeText(url).then(done, function () { flash(copy, url); });
+			} else {
+				var t = document.createElement('textarea');
+				t.value = url; document.body.appendChild(t); t.select();
+				try { document.execCommand('copy'); done(); } catch (err) { flash(copy, url); }
+				document.body.removeChild(t);
+			}
+			return;
+		}
+		var nat = e.target.closest('.sb-native');
+		if (nat && navigator.share) {
+			navigator.share({
+				title: document.title,
+				text: (document.querySelector('meta[property="og:description"]') || {}).content || '',
+				url: location.href
+			}).catch(function () {});
+		}
+	});
+	// Tampilkan tombol "Lainnya" (Web Share API) hanya di perangkat yang mendukung
+	if (navigator.share) {
+		document.querySelectorAll('.sb-native').forEach(function (b) { b.hidden = false; });
+	}
+})();
+</script>

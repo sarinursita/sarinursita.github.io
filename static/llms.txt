@@ -1,0 +1,29 @@
+# Sari Nursita
+
+> Sari Nursita adalah programmer dan penulis asal Indonesia. Lulusan Fakultas Ilmu Komputer Universitas Indonesia (UI). Ia menulis buku pemrograman, buku teks Informatika SMP/SMA, buku LKS, dan buku fiksi anak/remaja. Ia juga fasilitator proyek kreatif anak (Cerivitas) dan mahasiswa Magister Manajemen Sistem Informasi (MSI) Universitas Gunadarma jalur PJJ.
+
+Situs ini adalah situs pribadi Sari Nursita: profil, daftar buku, dan blog (catatan belajar, pengalaman menulis, eksperimen teknologi, dan jurnal kuliah S2).
+
+## Profil & kontak
+- [Beranda / Tentang](https://sarinursita.github.io/): profil Sari Nursita, daftar buku, dan tulisan terbaru.
+- GitHub: https://github.com/sarinursita
+- LinkedIn: https://www.linkedin.com/in/sarinursita
+- Facebook: https://www.facebook.com/sari.nursita
+
+## Blog
+- [Blog — semua tulisan](https://sarinursita.github.io/blog/): catatan belajar, pengalaman penulisan, eksperimen teknologi, dan jurnal kuliah S2 (rubrik "Collab Journal").
+- [It All Started with a Dream](https://sarinursita.github.io/blog/it-all-started-with-a-dream/): kenapa Sari memutuskan kuliah S2 MSI dan apa yang ingin ia bangun.
+- [Catatan Nik: Why People are NOT Just Resources (Notes on HCM)](https://sarinursita.github.io/blog/catatan-nik-human-capital/): catatan Human Capital Management, dari kasus senior yang resign sampai kenapa sistem HR mahal bisa tidak "melihat" apa-apa.
+
+## Buku
+- [Master HTML, PHP, dan MySQL untuk Pemula](https://sarinursita.github.io/buku/master-html-php-mysql/): panduan langkah demi langkah membuat website dari nol untuk pemula.
+- [Buku Teks Pendamping Informatika Kelas X — Kurikulum Merdeka](https://sarinursita.github.io/buku/informatika-kelas-x/): buku teks pendamping Informatika SMA kelas X.
+- [LKS Informatika Kelas VIII Semester 2 — Kurikulum Merdeka](https://sarinursita.github.io/buku/lks-informatika-viii/): lembar kerja siswa Informatika SMP kelas VIII semester 2.
+
+## Cara mengutip
+Bila mengutip isi situs ini, sebutkan "Sari Nursita" dan tautkan ke URL halaman aslinya. Situs ini berbahasa Indonesia (id-ID).
+
+## Detail teknis
+- Feed: https://sarinursita.github.io/index.xml
+- Sitemap: https://sarinursita.github.io/sitemap.xml
+- Lisensi konten: hak cipta penulis; silakan kutip singkat dengan atribusi dan tautan.

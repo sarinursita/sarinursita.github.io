@@ -11,6 +11,7 @@
 			{{ with .Params.tahun }}<p><b>Tahun:</b> {{ . }}</p>{{ end }}
 		</div>
 		{{ .Content }}
+		{{ partial "share.html" . }}
 		{{ with .Params.buyLink }}
 		<div class="wp-block-buttons">
 			<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="{{ . }}" target="_blank" rel="noreferrer noopener">{{ $.Params.buyLabel | default "Lihat Detail" }}</a></div>

@@ -1,8 +1,10 @@
 {{/* JSON-LD structured data (schema.org) — SEO/GEO.
      Home: Person (Sari Nursita) + WebSite + daftar Book.
-     Halaman buku: Book. Postingan blog: BlogPosting. */}}
+     Halaman buku: Book. Postingan blog: BlogPosting. Daftar blog: Blog.
+     Dipakai Google, dan juga "dibaca" mesin jawaban AI (ChatGPT/Perplexity/Gemini). */}}
 {{ $site := .Site }}
 {{ $personId := printf "%s#person" $site.BaseURL }}
+{{ $authorName := $site.Params.author | default "Sari Nursita" }}
 
 {{ if .IsHome }}
 <script type="application/ld+json">
@@ -12,16 +14,17 @@
     {
       "@type": "Person",
       "@id": "{{ $personId }}",
-      "name": "Sari Nursita",
+      "name": "{{ $authorName }}",
       "url": "{{ $site.BaseURL }}",
       "description": "{{ $site.Params.description }}",
       "jobTitle": ["Programmer", "Penulis", "Fasilitator Proyek"],
-      "knowsAbout": ["Pemrograman", "PHP", "MySQL", "HTML", "Teknologi Informasi", "Informatika SMP/SMA", "Penulisan Buku Teknis"],
+      "knowsAbout": ["Pemrograman", "PHP", "MySQL", "HTML", "Teknologi Informasi", "Informatika SMP/SMA", "Penulisan Buku Teknis", "Manajemen Sistem Informasi"],
       "alumniOf": { "@type": "CollegeOrUniversity", "name": "Universitas Indonesia" },
       "sameAs": [
+        "https://github.com/sarinursita",
         "https://www.linkedin.com/in/sarinursita",
-        "https://sarinursita.github.io/",
-        "https://www.facebook.com/sari.nursita"
+        "https://www.facebook.com/sari.nursita",
+        "https://sarinursita.github.io/"
       ]
     },
     {
@@ -31,6 +34,14 @@
       "name": "{{ $site.Title }}",
       "publisher": { "@id": "{{ $personId }}" },
       "inLanguage": "id"
+    },
+    {
+      "@type": "Blog",
+      "@id": "{{ "blog/" | absURL }}#blog",
+      "name": "Blog Sari Nursita",
+      "url": "{{ "blog/" | absURL }}",
+      "inLanguage": "id",
+      "author": { "@id": "{{ $personId }}" }
     }
     {{ $books := where $site.RegularPages "Type" "buku" }}
     {{ range $books }},
@@ -66,18 +77,52 @@
   {{ with .Params.buyLink }}, "offers": { "@type": "Offer", "url": "{{ . }}", "availability": "https://schema.org/InStock", "seller": { "@type": "Organization", "name": {{ $.Params.penerbit | default "Penerbit" | jsonify }} } }{{ end }}
 }
 </script>
-{{ else if eq .Type "blog" }}
+{{ else if and (eq .Type "blog") .IsPage }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
+  "@id": "{{ .Permalink }}#article",
   "headline": {{ .Title | jsonify }},
   "url": "{{ .Permalink }}",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ .Permalink }}" },
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "inLanguage": "id",
+  "wordCount": {{ .WordCount }},
+  "author": { "@type": "Person", "@id": "{{ $personId }}", "name": "{{ $authorName }}", "url": "{{ $site.BaseURL }}" },
+  "publisher": { "@type": "Person", "@id": "{{ $personId }}", "name": "{{ $authorName }}", "url": "{{ $site.BaseURL }}" },
+  "isPartOf": { "@type": "Blog", "@id": "{{ "blog/" | absURL }}#blog" }
+  {{ with .Params.category }}, "articleSection": {{ . | jsonify }}{{ end }}
+  {{ with .Params.tags }}, "keywords": {{ delimit . ", " | jsonify }}{{ end }}
+  {{ $d := .Params.hook | default .Params.description | default .Summary }}{{ with $d }}, "description": {{ . | plainify | jsonify | safeJS }}{{ end }}
+  {{ with .Params.cover }}, "image": ["{{ . | absURL }}"]{{ end }}
+}
+</script>
+{{ else if eq .Type "blog" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "@id": "{{ .Permalink }}#blog",
+  "name": "Blog Sari Nursita",
+  "url": "{{ .Permalink }}",
   "inLanguage": "id",
   "author": { "@id": "{{ $personId }}" }
-  {{ with .Description }}, "description": {{ . | jsonify | safeJS }}{{ end }}
-  {{ with .Params.cover }}, "image": "{{ . | absURL }}"{{ end }}
+  {{ $posts := where $site.RegularPages "Type" "blog" }}{{ if $posts }},
+  "blogPost": [
+    {{ range $i, $p := $posts }}{{ if $i }},{{ end }}
+    {
+      "@type": "BlogPosting",
+      "headline": {{ $p.Title | jsonify }},
+      "url": "{{ $p.Permalink }}",
+      "datePublished": "{{ $p.Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": { "@id": "{{ $personId }}" }
+      {{ with $p.Params.summary }}, "description": {{ . | jsonify | safeJS }}{{ end }}
+    }
+    {{ end }}
+  ]
+  {{ end }}
 }
 </script>
 {{ else }}

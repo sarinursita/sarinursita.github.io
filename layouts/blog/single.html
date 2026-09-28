@@ -10,6 +10,7 @@
 <div class="post-body">
 	{{ .Content }}
 </div>
+{{ partial "share.html" . }}
 {{ partial "comments.html" . }}
 <hr class="wp-block-separator">
 <p style="text-align:center;margin:1.4em 0 3em;"><a class="wp-block-button__link wp-element-button" href="{{ "/blog/" | relURL }}">← Semua tulisan</a></p>

@@ -4,6 +4,7 @@ type: blog
 date: 2026-09-26
 category: "Kuliah"
 summary: "Hari pertama orientasi S2 — dan kenapa semuanya dimulai dari sebuah mimpi."
+hook: "Berat mengakui kalau kita masih punya mimpi. Tapi ternyata itu langkah pertama untuk mewujudkannya. Cerita hari pertama kuliah S2-ku."
 ---
 
 <p class="has-drop-cap">Hi guys, I'm so excited! 😆 Hari ini kegiatan orientasi kuliahku dimulai 🥳 ada 2 prodi yang dibuka untuk PJJ, yaitu Magister Manajemen dan Magister Manajemen Sistem Informasi. FYI Gunadarma udah lama punya program magister ini guys, cuma untuk kuliah online (PJJ) ini adalah angkatan pertamanya :D</p>

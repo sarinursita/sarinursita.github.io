@@ -8,19 +8,7 @@
 
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	<title>{{ if .IsHome }}{{ .Site.Title }} &#8211; {{ .Site.Params.tagline }}{{ else }}
-		{{ .Title }} &#8211; {{ .Site.Title }}{{ end }}</title>
-	<meta name='robots' content='index, follow, max-image-preview:large' />
-	<link rel="canonical" href="{{ .Permalink }}" />
-
-	<meta property="og:type" content="{{ if or .IsHome (eq .Params.type "book") }}website{{ else }}article{{ end }}" />
-	<meta property="og:site_name" content="{{ .Site.Title }}" />
-	<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &#8211; {{ .Site.Title }}{{ end }}" />
-	<meta property="og:url" content="{{ .Permalink }}" />
-	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-	<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-	{{ with .Params.cover }}<meta property="og:image" content="{{ . | absURL }}" />{{ end }}
-	<meta name="twitter:card" content="summary_large_image" />
+	{{ partial "head-seo.html" . }}
 
 	{{ partial "schema.html" . }}
 
@@ -234,6 +222,17 @@
 
 					</div><!-- .footer-credits -->
 
+					<div class="follow-block">
+						<p class="follow-title">Ikuti tulisan baru</p>
+						<p class="follow-desc">Tidak perlu cek web tiap hari — pilih cara favoritmu untuk dapat kabar tiap ada tulisan baru.</p>
+						<p class="follow-links">
+							{{ with .Site.Home.OutputFormats.Get "RSS" }}<a href="{{ .Permalink }}">📡 RSS Feed</a>{{ end }}
+							<a href="https://github.com/sarinursita/sarinursita.github.io/discussions">💬 Notifikasi GitHub Discussions</a>
+							{{/* Ganti tanda # dengan customer id follow.it setelah akun dibuat → tombol langganan email/push otomatis muncul */}}
+							{{ with .Site.Params.followit }}<a href="https://follow.it/{{ . }}">✉️ Langganan email</a>{{ end }}
+						</p>
+					</div>
+
 					<a class="to-the-top" href="index.html#site-header">
 						<span class="to-the-top-long">
 							To the top <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-long -->
@@ -288,6 +287,8 @@
 })();
 </script>
 <!-- ENDMENU-MODAL-FIX-JS -->
+
+	{{ partial "share-js.html" . }}
 
 
 	<script>
