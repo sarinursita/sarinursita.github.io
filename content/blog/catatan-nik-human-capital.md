@@ -25,7 +25,7 @@ Jadi, daripada gue *ranting* nggak jelas di Twitter/X dan kena somasi HR, mendin
 
 ---
 
-### The Paradigm Shift: HR vs. HCM (Kenapa Karyawan Bukan Cuma Baris Angka di Payroll)
+## The Paradigm Shift: HR vs. HCM (Kenapa Karyawan Bukan Cuma Baris Angka di Payroll)
 
 Sering banget orang awam—bahkan *C-level* kolot—nyamain Human Resource Management (HRM) sama Human Capital Management (HCM). Padahal secara ontologi dan pendekatan sistem informasinya, *mindset*-nya beda 180 derajat.
 
@@ -46,7 +46,7 @@ Dan tebak apa yang terjadi sama Bram di kantor gue? *Point number 4 and 5 failed
 
 ---
 
-### The Drama: The Cost of a Disconnected System
+## The Drama: The Cost of a Disconnected System
 
 Biar lo dapet konteks kenapa gue gemes banget, gue kasih spill kronologinya.
 
@@ -72,7 +72,7 @@ Dan karena nggak ada *knowledge transfer protocol* yang terintegrasi di sistem, 
 
 ---
 
-### Anatomy of Modern HCM Systems: The IS/IT Perspective
+## Anatomy of Modern HCM Systems: The IS/IT Perspective
 
 Sekarang, ayo kita bedah dari sisi akademis MSI kita, Sar. Kalau besok kita disuruh bikin cetak biru (blueprint) HCM System yang bener, pilar-pilar apa sih yang harusnya ada? Berdasarkan paper yang gue baca semalem (terutama literaturnya Noe et al. dan modul dari Gartner), arsitektur HCM modern itu berdiri di atas empat layer krusial:
 
@@ -119,7 +119,7 @@ Sistem informasi HCM butuh **Single Source of Truth**. Data performa karyawan ha
 
 ---
 
-### The Reality Check: Dilema WFH, Emak-Emak, dan Pengawasan Algoritmik
+## The Reality Check: Dilema WFH, Emak-Emak, dan Pengawasan Algoritmik
 
 Nah, Sar, ini ada dimensi lain yang bikin gue kepikiran pas lagi nyeduh kopi sachet jam 10 malem tadi. 
 
@@ -133,7 +133,7 @@ Ini bahaya banget kalau anak-anak sistem informasi cuma mikirin desain *dashboar
 
 ---
 
-### Food for Thoughts (Tugas Analisis Buat Lo, Bestie!)
+## Food for Thoughts (Tugas Analisis Buat Lo, Bestie!)
 
 Nah, berhubung minggu depan giliran lo yang nulis artikel di blog ini buat ngejawab jurnal gue, gue mau nodong lo pake beberapa pertanyaan analitis. Anggap aja ini latihan kita buat ujian komprehensif atau sekadar pemanasan sebelum nulis tesis nanti. 
 
