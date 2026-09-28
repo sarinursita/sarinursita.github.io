@@ -9,8 +9,6 @@ summary: "Catatan Nik soal Human Capital Management, dari kasus senior gue yang 
 aliases: ["/blog/catatan-nik-hcm-smart-system/"]
 ---
 
-# Why People are NOT Just "Resources" (Notes on HCM)
-
 Dearest Sari,
 
 *First of all*, maafkan gue baru sempat buka Google Docs dan nulis jurnal kita malam ini. 
@@ -139,7 +137,7 @@ Ini bahaya banget kalau anak-anak sistem informasi cuma mikirin desain *dashboar
 
 Nah, berhubung minggu depan giliran lo yang nulis artikel di blog ini buat ngejawab jurnal gue, gue mau nodong lo pake beberapa pertanyaan analitis. Anggap aja ini latihan kita buat ujian komprehensif atau sekadar pemanasan sebelum nulis tesis nanti. 
 
-Tolong bedah ini pakai perspektif lo (gue tahu lo jago banget di bagian *IT Governance* dan *Enterprise Architecture*):
+Tolong bedah ini pakai perspektif lo:
 
 1. **The Architecture Dilemma (All-in-One vs. Best-of-Breed):**  
    Kalau lo jadi Chief Information Officer (CIO) di perusahaan multinasional kayak kantor gue, lo bakal milih implementasi satu suite sistem HCM raksasa yang seragam secara global tapi kaku dan implementasinya makan waktu bertahun-tahun (misal: satu ERP gede langsung full modul), ATAU lo milih strategi *Best-of-Breed* (pake Core HR lokal yang lincah, tapi diintegrasikan via API ke aplikasi *specialized talent/learning* lain yang lebih adaptif)? Apa konsekuensi tata kelola data (*data governance*) dan risiko integrasinya?
@@ -150,7 +148,7 @@ Tolong bedah ini pakai perspektif lo (gue tahu lo jago banget di bagian *IT Gove
 3. **Knowledge Retention Framework:**  
    Belajar dari kasus "Bram Gate" di kantor gue, gimana rancangan sistem sosio-teknis (gabungan antara Information System dan SOP Manajemen) yang efektif buat memitigasi risiko *single point of failure* akibat ketergantungan pada *key talent*? Gimana caranya sistem informasi bisa memotivasi seorang profesional senior buat secara sukarela mendokumentasikan *tacit knowledge*-nya ke dalam sistem repositori korporat tanpa merasa "terancam" posisinya bakal gampang digantiin?
 
-Gue bener-bener butuh perspektif lo, Sar. Kepala gue udah ngebul banget mikirin revisi *pitching* klien besok pagi sambil ngebayangin muka panik tim HR di kantor. 
+*I'm interested to know ur perspective, gurl!* Kepala gue udah ngebul banget mikirin revisi *pitching* klien besok pagi sambil ngebayangin muka panik tim HR di kantor. 
 
 Bogor udah mulai reda hujannya, dan jam dinding gue udah nunjukin angka 01:15. Waktunya gue cuci muka, pake *night cream*, dan tidur sebelum besok alarm subuh bunyi buat ngecek *laundry* seragam sekolahnya Dylan yang ketinggalan. 
 
