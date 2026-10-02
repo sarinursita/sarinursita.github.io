@@ -19,6 +19,9 @@ content:
       - name: type
         type: string
         hidden: true
+      - name: draft
+        label: "Draft (centang kalau BELUM mau publish)"
+        type: boolean
       - name: title
         label: Judul
         type: string
@@ -68,6 +71,9 @@ content:
       - name: type
         type: string
         hidden: true
+      - name: draft
+        label: "Draft (centang kalau BELUM mau publish)"
+        type: boolean
       - name: title
         label: Judul
         type: string
