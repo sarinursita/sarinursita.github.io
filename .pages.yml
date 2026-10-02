@@ -1,0 +1,98 @@
+media:
+  input: static/images
+  output: /images
+
+content:
+  - name: blog
+    label: ✍️ Tulisan Blog
+    type: collection
+    path: content/blog
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    exclude: ["_index.md"]
+    view:
+      primary: title
+      sort: date
+      order: desc
+      search: [title, summary, tags]
+    fields:
+      - name: type
+        type: string
+        hidden: true
+      - name: title
+        label: Judul
+        type: string
+        required: true
+      - name: subtitle
+        label: Subjudul
+        type: string
+      - name: date
+        label: Tanggal
+        type: date
+      - name: category
+        label: Kategori
+        type: string
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: summary
+        label: Ringkasan (kartu & SEO)
+        type: text
+      - name: hook
+        label: Hook — kalimat pemancing untuk preview share (WA/FB/X)
+        type: text
+      - name: aliases
+        label: Alias URL (opsional)
+        type: string
+        list: true
+      - name: ogImage
+        label: Gambar preview share (opsional)
+        type: image
+      - name: body
+        label: Isi tulisan
+        type: rich-text
+
+  - name: buku
+    label: 📚 Buku
+    type: collection
+    path: content/buku
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    exclude: ["_index.md"]
+    view:
+      primary: title
+      sort: title
+      order: asc
+    fields:
+      - name: type
+        type: string
+        hidden: true
+      - name: title
+        label: Judul
+        type: string
+        required: true
+      - name: cover
+        label: Sampul
+        type: image
+      - name: penerbit
+        label: Penerbit
+        type: string
+      - name: penulis
+        label: Penulis
+        type: string
+      - name: tahun
+        label: Tahun
+        type: string
+      - name: buyLabel
+        label: Label tombol beli
+        type: string
+      - name: buyLink
+        label: Link beli
+        type: string
+      - name: summary
+        label: Ringkasan
+        type: text
+      - name: body
+        label: Deskripsi
+        type: rich-text
