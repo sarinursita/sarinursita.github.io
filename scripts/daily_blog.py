@@ -29,7 +29,12 @@ SERIES = "ians-notebook"   # di-set dari --series
 BASE_URL = "https://sarinursita.github.io"
 WS_BASE = "http://43.134.103.31:58234"
 WS_API = WS_BASE + "/api"
-PROJECT_ID = 155
+# Proyek WS per seri: dipakai untuk membentuk link WS pagi. Tiap seri punya project sendiri,
+# jadi chat Catatan Nik tidak lagi nyampur di proyek S2 (154) dan linknya tidak menunjuk ke proyek yang salah.
+SERIES_META = {
+    "ians-notebook": {"project_id": 155, "label": "Ian's Notebook"},
+    "catatan-nik": {"project_id": 156, "label": "Catatan Nik"},
+}
 SECURE_KEY_FILE = pathlib.Path("/home/saristudio/secure/writerstudio-apikey.md")
 AUTHOR = ["-c", "user.name=Sari Nursita", "-c", "user.email=sari.nursita@gmail.com"]
 TZ = zoneinfo.ZoneInfo("Asia/Jakarta")
@@ -81,6 +86,10 @@ def normalize_body(body):
     return body.rstrip() + "\n"
 
 
+def meta():
+    return SERIES_META.get(SERIES, {"project_id": 155, "label": SERIES})
+
+
 def queued():
     """Semua post yang masih draft, urut tanggal."""
     out = []
@@ -127,12 +136,13 @@ def mode_reminder():
         if not d or datetime.date.fromisoformat(d[:10]) != today:
             continue
         chat = field(fm, "ws_chat")
+        m = meta()
         out = [
-            "📖 *Ian's Notebook hari ini*", "",
+            "📖 *%s hari ini*" % m["label"], "",
             "*%s*" % field(fm, "title"),
             field(fm, "hook"), "",
             "📝 *Masih draft* — baca nyamannya di WS:",
-            "%s/view-chat.php?project_id=%s&chat_id=%s" % (WS_BASE, PROJECT_ID, chat), "",
+            "%s/view-chat.php?project_id=%s&chat_id=%s" % (WS_BASE, m["project_id"], chat), "",
             "_Kalau udah oke, balas `ok` di sini, nanti aku tayangin ke blog. Mau ngubah dulu? Edit langsung di WS, aku ambil versi terakhirnya._",
         ]
         print("\n".join(out))
@@ -181,7 +191,7 @@ def mode_approve(slug=None):
         return
 
     url = "%s/blog/%s/" % (BASE_URL, path.stem)
-    key = re.sub(r"^Ian's Notebook:\s*", "", title).split(":")[0][:40].strip()
+    key = re.sub(r"^[^:]+:\s*", "", title).split(":")[0][:40].strip()
     if wait_live(url, key):
         print("✅ *Tayang:* [%s](%s)\n_Dari %d kata, versi terakhir dari WS._" % (title, url, len(body.split())))
     else:
