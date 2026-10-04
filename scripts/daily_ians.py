@@ -150,13 +150,18 @@ def mode_approve(slug=None):
     chat_id, msg_id = field(fm, "ws_chat"), field(fm, "ws_msg")
     title = field(fm, "title")
 
-    try:
-        fresh = normalize_body(ws_content(chat_id, msg_id))
-        if len(fresh.split()) < 400:
-            raise RuntimeError("isi WS kelihatan terpotong (%d kata)" % len(fresh.split()))
-        body = fresh
-    except Exception as e:
-        print("⚠️ Gagal ambil isi terbaru dari WS (%s) — pakai isi yang sudah ada di repo." % e)
+    # `publish_from: file` = teks di repo yang dipakai (dipakai kalau editnya diterapkan
+    # ke file, bukan diedit Sari di WS). Default: ambil versi terbaru dari WS.
+    if field(fm, "publish_from", "ws") == "file":
+        print("(pakai versi di repo, bukan tarik dari WS)")
+    else:
+        try:
+            fresh = normalize_body(ws_content(chat_id, msg_id))
+            if len(fresh.split()) < 400:
+                raise RuntimeError("isi WS kelihatan terpotong (%d kata)" % len(fresh.split()))
+            body = fresh
+        except Exception as e:
+            print("⚠️ Gagal ambil isi terbaru dari WS (%s) — pakai isi yang sudah ada di repo." % e)
 
     now = datetime.datetime.now(TZ)
     fm_new = re.sub(r"^draft:\s*true", "draft: false", fm, count=1, flags=re.M)
