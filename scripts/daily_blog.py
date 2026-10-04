@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Ian's Notebook — pengingat pagi + tayang setelah Sari approve.
+"""Pengingat pagi + tayang setelah Sari approve (dua seri blog persona).
 
 Dipakai cron Sen/Rab/Jum 05:20 WIB lewat agent (job `attach_to_session`, jadi Sari bisa balas di thread).
 
-  python3 daily_ians.py              -> mode PENGINGAT: cetak payload untuk #tekpen-digest,
-                                        berisi judul + hook + link WS (draft dibaca di WS). Kosong kalau tidak ada post jatuh tempo.
-  python3 daily_ians.py --approve    -> mode TAYANG: ambil isi post dari WS (versi terbaru, termasuk kalau Sari edit di WS),
-                                        tulis ke file blog, draft: false, commit, push, tunggu live, cetak link blog.
+  python3 daily_blog.py --series ians-notebook            -> PENGINGAT untuk seri itu (kosong kalau tidak ada post jatuh tempo)
+  python3 daily_blog.py --series catatan-nik              -> idem untuk Catatan Nik
+  python3 daily_blog.py --series <s> --approve [slug]     -> TAYANG: ambil isi terbaru dari WS (versi edit Sari), tulis ke file blog,
+                                                             draft: false, commit, push, tunggu live, cetak link blog.
+
+Seri = prefix nama file di content/blog/ (mis. `ians-notebook-*`, `catatan-nik-*`).
 
 Alur: Minggu batch generate -> draft di blog repo (draft: true) + chat WS -> Sen/Rab/Jum pagi kirim link WS ->
 Sari baca/edit di WS -> balas `ok` -> script dijalankan dengan --approve -> post tayang di blog.
@@ -23,6 +25,7 @@ import zoneinfo
 
 REPO = pathlib.Path(__file__).resolve().parents[1]
 BLOG_DIR = REPO / "content" / "blog"
+SERIES = "ians-notebook"   # di-set dari --series
 BASE_URL = "https://sarinursita.github.io"
 WS_BASE = "http://43.134.103.31:58234"
 WS_API = WS_BASE + "/api"
@@ -81,7 +84,7 @@ def normalize_body(body):
 def queued():
     """Semua post yang masih draft, urut tanggal."""
     out = []
-    for f in sorted(BLOG_DIR.glob("ians-notebook-*.md")):
+    for f in sorted(BLOG_DIR.glob(SERIES + "-*.md")):
         fm, body = front_matter(f.read_text(encoding="utf-8"))
         if field(fm, "draft") == "true":
             out.append((f, fm, body))
@@ -142,7 +145,7 @@ def mode_approve(slug=None):
     if slug:
         cands = [c for c in cands if c[0].stem == slug]
     if not cands:
-        print("⚠️ Tidak ada post Ian's Notebook yang menunggu tayang.")
+        print("⚠️ Tidak ada post %s yang menunggu tayang." % SERIES)
         return
     today = datetime.datetime.now(TZ).date()
     due = [c for c in cands if field(c[1], "date")[:10] == today.isoformat()]
@@ -174,7 +177,7 @@ def mode_approve(slug=None):
         git(*AUTHOR, "commit", "-m", "Publish " + path.stem)
         git("push", "origin", "main")
     except subprocess.CalledProcessError as e:
-        print("⚠️ Gagal push post Ian's Notebook:\n%s" % ((e.stderr or e.stdout or str(e)).strip()[:300]))
+        print("⚠️ Gagal push post:\n%s" % ((e.stderr or e.stdout or str(e)).strip()[:300]))
         return
 
     url = "%s/blog/%s/" % (BASE_URL, path.stem)
@@ -186,8 +189,23 @@ def mode_approve(slug=None):
 
 
 if __name__ == "__main__":
-    args = [a for a in sys.argv[1:]]
-    if args and args[0] == "--approve":
-        mode_approve(args[1] if len(args) > 1 else None)
+    args = sys.argv[1:]
+    mode = "reminder"
+    slug = None
+    i = 0
+    while i < len(args):
+        if args[i] == "--series" and i + 1 < len(args):
+            globals()["SERIES"] = args[i + 1]
+            i += 2
+        elif args[i] == "--approve":
+            mode = "approve"
+            if i + 1 < len(args) and not args[i + 1].startswith("--"):
+                slug = args[i + 1]
+                i += 1
+            i += 1
+        else:
+            i += 1
+    if mode == "approve":
+        mode_approve(slug)
     else:
         mode_reminder()
