@@ -4,6 +4,8 @@ subtitle: "Klien minta modul leadership isinya 80 slide teks, dan Ian jadi mikir
 type: blog
 date: 2026-10-09T05:00:00+07:00
 draft: true
+ws_chat: 1537
+ws_msg: 21338
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "konstruktivisme"]
 summary: "Ian bedah teori konstruktivisme Piaget dan Vygotsky, lalu ngaku kelas korporatnya sendiri masih 80 persen guru-sentris dan dia pernah ngelempar murid ke kolam tanpa perancah."

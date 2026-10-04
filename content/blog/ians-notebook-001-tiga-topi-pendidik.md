@@ -4,6 +4,8 @@ subtitle: "Ian kesel sama bocah kantor yang nganggep bikin kelas itu gampang, te
 type: blog
 date: 2026-10-05T05:00:00+07:00
 draft: true
+ws_chat: 1535
+ws_msg: 21328
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "tiga-topi-pendidik"]
 summary: "Ian kesal sama kolega kantornya yang nganggep bikin kelas online itu gampang, dan drama kelas public speaking-nya bikin dia sadar dia sendiri paling sering nge-skip topi evaluator."

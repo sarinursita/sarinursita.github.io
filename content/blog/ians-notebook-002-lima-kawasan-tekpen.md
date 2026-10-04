@@ -4,6 +4,8 @@ subtitle: "Mas Hendra nanya satu pertanyaan pendek, dan Ian sadar dia jago bikin
 type: blog
 date: 2026-10-07T05:00:00+07:00
 draft: true
+ws_chat: 1536
+ws_msg: 21336
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "5-kawasan-tekpen"]
 summary: "Pertanyaan Mas Hendra soal paham atau cuma ngeklik next bikin Ian sadar dia bucin di desain dan bikin materi, tapi gagal di kawasan manage dan evaluate."
