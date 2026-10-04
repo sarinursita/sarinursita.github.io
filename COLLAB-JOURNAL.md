@@ -103,10 +103,9 @@ summary: <1 kalimat, jangan menyebut meta tentang persona>
 ### <subjudul menarik 1 — materi bagian 1, konkret + contoh>
 ### <subjudul menarik 2 — materi bagian 2>
 ...
-### Menurut lo gmn? 🤔   → daftar pertanyaan
-### Try it yourself       → satu tugas kecil (buat diri sendiri)
+### Menurut lo gmn? 🤔   → daftar pertanyaan (1-3)
 
-[Penutup: cukup pertanyaan natural]
+[Penutup: adegan singkat (jam, cuaca, kegiatan), lalu tanda tangan]
 <Nama persona>
 ```
 
@@ -131,6 +130,7 @@ Semua koreksi di bawah ini **dari Sari langsung**, dipakai sebagai acuan ke depa
 | #3 | 28-09 00:18 | Hapus "bukan sekadar obrolan", "catatan kecil dulu", "biar nyantol"; tulis seperti penulis blog; rajut pengalaman persona ke materi. |
 | #4 | 28-09 00:45 | Hapus meta-framing ("gue nggak mau nulis ala buku teks…", "dan ternyata itu masalah"); nuke em dash; subjudul menarik/clickbait; bahasa obrolan Jakarta (bukan "kerja hibrida"); sebut sisi gelap langsung; "Tugas kecil (2 menit)" → "Try it yourself"; hapus CTA maksa; hapus disclaimer persona. |
 | #5 | 28-09 00:56 | Bold + emoji wajib (jangan monoton); judul pertanyaan = "Menurut lo gmn? 🤔", "Try it yourself" untuk tugas; "panic"→"panik", "kerja campur"→"kerja hybrid"; summary jangan sebut "dicatat Nik dengan bahasa sendiri"; catatan `09-...md` di msi-study jangan dihapus. |
+| #6 | 05-10 | **"Try it yourself" dihapus** dan **pertanyaan natural tambahan di penutup tidak perlu** — pertanyaan analisis di blok "Menurut lo gmn? 🤔" (1-3) sudah cukup jadi ajakan. Penutup = adegan singkat + tanda tangan. Ikut diterapkan di prompt produksi (`writing-repository/.../Catatan_Nik/PROMPT-generate.md`). |
 
 ---
 
@@ -155,9 +155,9 @@ ATURAN WAJIB
 7. Wajib menyebut istilah kunci ini dengan kalimat sendiri: <DAFTAR ISTILAH>
 8. Sisi gelap atau sisi masalah topiknya disebut langsung, jangan digantung.
 9. Penutup:
-   - heading "Menurut lo gmn? 🤔" berisi 3 pertanyaan analitis yang bisa dijawab 3 sampai 4 kalimat. Satu pertanyaan = satu keputusan atau rancangan, bukan pertanyaan definisi.
-   - heading "Try it yourself" berisi satu tugas kecil yang bisa dikerjakan sendiri dalam 2 menit.
-   - satu adegan singkat (jam, cuaca, kegiatan) plus satu pertanyaan natural ke Sari, lalu tanda tangan "Warmest hug from the rainy city 🩷" dan "Nik".
+   - heading "Menurut lo gmn? 🤔" berisi 1 sampai 3 pertanyaan analitis yang bisa dijawab 3 sampai 4 kalimat. Satu pertanyaan = satu keputusan atau rancangan, bukan pertanyaan definisi.
+   - tidak ada blok tugas kecil, dan tidak ada pertanyaan natural tambahan ke Sari di penutup.
+   - satu adegan singkat (jam, cuaca, kegiatan), lalu tanda tangan "Warmest hug from the rainy city 🩷" dan "Nik".
 10. Panjang 1.200 sampai 1.500 kata.
 
 SUMBER MATERI (jangan menambah teori di luar ini)
