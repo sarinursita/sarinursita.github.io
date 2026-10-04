@@ -12,11 +12,11 @@ hook: "Pengetahuan nggak bisa ditransfer, harus dibangun sendiri oleh yang belaj
 
 Sar, lu pernah nggak sih kepikiran buat ngelempar laptop lu ke selokan waktu meeting? 
 
-Gua baru aja ngalamin tadi siang. Mas Bram manggil gua ke ruangannya, nunjukin *deck* materi dari klien korporat bonafide yang minta dibikinin modul *leadership*. Begitu gua buka dokumen *training needs analysis*-nya, gua langsung elus dada. Tau nggak solusinya apa menurut mereka? Modul e-learning 45 menit, isinya 80 slide teks padat font Arial ukuran 12, diakhiri sama kuis pilihan ganda sepuluh nomor. 
+Gua baru aja ngalamin tadi siang. Mas Hendra manggil gua ke ruangannya, nunjukin *deck* materi dari klien korporat bonafide yang minta dibikinin modul *leadership*. Begitu gua buka dokumen *training needs analysis*-nya, gua langsung elus dada. Tau nggak solusinya apa menurut mereka? Modul e-learning 45 menit, isinya 80 slide teks padat font Arial ukuran 12, diakhiri sama kuis pilihan ganda sepuluh nomor. 
 
-"Yan," Mas Bram nanya pake nada datarnya yang khas, tanpa noleh dari layar moniternya. "Menurut lu, karyawan level manajer kelar nonton ini langsung punya *mindset visionary*?"
+"Yan," Mas Hendra nanya pake nada datarnya yang khas, tanpa noleh dari layar moniternya. "Menurut lu, karyawan level manajer kelar nonton ini langsung punya *mindset visionary*?"
 
-Gua pengin ketawa tapi takut di-SP. Gua jawab, "Mas, kalau baca slide doang bisa bikin orang jadi pemimpin berkarisma, Mel udah gua daftarin jadi presiden dari kemarin, bukan malah sibuk ngomel di toko kain gara-gara gua milih ngajar daripada ngukur meteran katun." Mas Bram cuma berdehem tipis, tanda dia setuju tapi nggak mau ikutan dosa julid.
+Gua pengin ketawa tapi takut di-SP. Gua jawab, "Mas, kalau baca slide doang bisa bikin orang jadi pemimpin berkarisma, Mel udah gua daftarin jadi presiden dari kemarin, bukan malah sibuk ngomel di toko kain gara-gara gua milih ngajar daripada ngukur meteran katun." Mas Hendra cuma berdehem tipis, tanda dia setuju tapi nggak mau ikutan dosa julid.
 
 Di situ gua makin muak sama ilusi kuno dalam dunia edukasi: ilusi bahwa kepala manusia itu teko kosong, dan tugas instruktur adalah nuangin air teh manis ke dalamnya sampai luber. *Bullshit*. Kita ini manusia, Sar, bukan corong minyak pom bensin.
 
@@ -74,7 +74,7 @@ Nulis refleksi ini bikin gua agak malu sendiri sih, Sar. Kuliah tekpen ini bener
 
 Kalau gua disuruh jujur ngejawab pertanyaan evaluasi materi minggu ini: di kelas mana gua yakin murid-murid gua beneran "membangun", dan di mana gua masih terlalu guru-sentris? 
 
-Jawabannya bikin miris. Kelas korporat yang gua desain bareng Mas Bram di kantor? Hampir 80 persen masih guru-sentris tingkat dewa. Isinya masih instruksi searah, kuis kepatuhan, dan ilusi transfer materi. Kami masih memperlakukan manajer-manajer itu kayak anak TK yang harus disuapin sendok demi sendok. Gua sadar itu salah, tapi kompromi bisnis sering bikin kami males mikir format yang lebih interaktif dan konstruktif.
+Jawabannya bikin miris. Kelas korporat yang gua desain bareng Mas Hendra di kantor? Hampir 80 persen masih guru-sentris tingkat dewa. Isinya masih instruksi searah, kuis kepatuhan, dan ilusi transfer materi. Kami masih memperlakukan manajer-manajer itu kayak anak TK yang harus disuapin sendok demi sendok. Gua sadar itu salah, tapi kompromi bisnis sering bikin kami males mikir format yang lebih interaktif dan konstruktif.
 
 Bahkan di kelas *public speaking weekend* gua sendiri, gua masih sering kejebak pengin keliatan pinter. Di sesi teknik vokal, gua bisa monolog 40 menit ngejelasin diafragma, modulasi suara, dan tempo pakai slide yang animasinya gua bikin keren banget. Padahal waktu gua lagi asyik ngoceh itu, murid gua cuma melongo ngeliatin layar sambil nahan kantuk. 
 

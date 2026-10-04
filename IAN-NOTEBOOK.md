@@ -65,10 +65,12 @@ Sari tuan rumahnya, Nik & Ian dua korespondennya. Nggak ada disclaimer persona d
 | Nama | Siapa | Dipakai untuk |
 |---|---|---|
 | **Mel** (Melanie) | kakak perempuan Ian, pegang bisnis keluarga | sindiran halus "kamu ngapain ngajar sih" |
-| **Mas Bram** | team lead Ian di kantor edtech. Tegas, nanya pendek, bukan jahat | pertanyaan yang bikin Ian ketahuan nggak punya data |
+| **Mas Hendra** | team lead Ian di kantor edtech. Tegas, nanya pendek, bukan jahat | pertanyaan yang bikin Ian ketahuan nggak punya data |
 | **Nadia** | siswa kelas Ian yang hilang di minggu kelima | contoh konkret: orang yang bikin dia sadar evaluasi ke-skip |
 
 Tokoh baru boleh muncul, tapi sekali muncul nama harus konsisten dipakai lagi di tulisan berikutnya.
+
+**Nama yang tidak boleh dipakai:** `Bram` (tokoh Catatan Nik: Senior Director yang resign dari kantor Nik) dan `Dylan` (anak Nik). Dua seri ini satu alam, jadi sebelum memakai nama baru, cek dulu tokoh yang sudah ada di post Catatan Nik yang tayang — nama nggak boleh dobel.
 
 ---
 
@@ -147,7 +149,7 @@ ATURAN WAJIB
 12. Panjang 800 sampai 1.100 kata.
 
 KONTEKS TOKOH PENDUKUNG
-Mas Bram: team lead Ian di kantor edtech, tegas, nanya pendek, bukan jahat.
+Mas Hendra: team lead Ian di kantor edtech, tegas, nanya pendek, bukan jahat.
 Nadia: siswa kelas Ian yang hilang di minggu kelima.
 Mel: kakak Ian yang pegang bisnis keluarga, suka nyindir kenapa Ian ngajar.
 

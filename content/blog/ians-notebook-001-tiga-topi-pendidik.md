@@ -16,6 +16,8 @@ Gua baru aja keluar dari *meeting room* kantor setengah jam yang lalu sambil nah
 
 Gua cuma bisa ngelus dada sambil mbatin, *bocah iki durung tau ngrasakno diamuk user opo piye.*
 
+Mas Hendra, *team lead* gua, cuma nyolek siku gua pas keluar ruangan. "Udah, biarin aja dulu," katanya pelan. Tapi dari mukanya gua tau dia juga sama sebelnya.
+
 Gua langsung kepikiran obrolan kita minggu lalu soal anak lu yang bontot lagi pusing ngerjain modul sekolahnya. Kebetulan banget, pas gua lagi baca-baca ulang papernya Robert Maribe Branch sama Robert M. Gustafson buat tugas kuliah S2 kita minggu ini, ada satu poin fundamental yang nampol banget: peran pendidik dalam *instructional technology*. 
 
 Banyak orang mikir pendidik di era digital itu cuma orang yang ngomong di depan kamera atau tukang rangkum buku teks. Padahal kata Branch & Gustafson, kita ini sebenernya satu orang yang dipaksa gantian pake tiga topi yang beda karakter secara bergantian: **Desainer, Developer, dan Evaluator.**
@@ -74,7 +76,7 @@ Apakah siswa lu beneran paham materinya, atau kelas lu cuma *terasa* selesai kar
 Nih ya, bedanya berasa banget. Pas kelas terasa selesai, lu ngerasa sukses cuma karena gak ada insiden teknis, peserta hadir tepat waktu, dan pas lu tanya *"Ada pertanyaan?"* seisi ruangan hening gak ada yang nyaut. Kita sering menipu diri sendiri dengan nganggap keheningan peserta itu tanda paham. Padahal bisa jadi mereka bengong, bingung mau nanya apa, atau malah lagi asyik main Mobile Legends sambil nge-*mute* suara kita.
 
 Kalo lu gak pernah pake topi evaluator dengan bener, lu gak bakal pernah bisa jawab pertanyaan-pertanyaan krusial kayak gini:
-* Kenapa anak yang di pertemuan pertama aktif banget, pas pertemuan ketiga tugasnya gak dikumpulin?
+* Kenapa Nadia, yang di pertemuan pertama paling aktif, pas pertemuan ketiga tugasnya gak dikumpulin?
 * Kenapa dari 20 orang yang ikut kelas Canva atau Minecraft lu, cuma 3 orang yang akhirnya daftar kelas lanjutan lu?
 * Bagian materi mana yang bikin siswa butuh waktu tiga kali lebih lama buat ngerjain latihan?
 

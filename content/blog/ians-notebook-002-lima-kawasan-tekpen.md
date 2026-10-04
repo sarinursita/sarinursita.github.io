@@ -1,28 +1,28 @@
 ---
 title: "Ian's Notebook: Kenapa Kelas Lu Keren di Canva tapi Ambyar Pas Dijalani: Realita 5 Kawasan Tekpen"
-subtitle: "Mas Bram nanya satu pertanyaan pendek, dan Ian sadar dia jago bikin materi tapi bolong di dua kawasan yang paling nggak kelihatan."
+subtitle: "Mas Hendra nanya satu pertanyaan pendek, dan Ian sadar dia jago bikin materi tapi bolong di dua kawasan yang paling nggak kelihatan."
 type: blog
 date: 2026-10-07T05:00:00+07:00
 draft: true
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "5-kawasan-tekpen"]
-summary: "Pertanyaan Mas Bram soal paham atau cuma ngeklik next bikin Ian sadar dia bucin di desain dan bikin materi, tapi gagal di kawasan manage dan evaluate."
+summary: "Pertanyaan Mas Hendra soal paham atau cuma ngeklik next bikin Ian sadar dia bucin di desain dan bikin materi, tapi gagal di kawasan manage dan evaluate."
 hook: "Lima kawasan kelas: design, develop, utilize, manage, evaluate. Dua yang terakhir itu yang paling sering ilang."
 ---
 
 Sar, lu pernah gak sih ngerasa udah bikin materi kelas yang *flawless* pol, slide dibikin niat di Canva sampai begadang tiga malam, silabus rapi jali kayak arsitektur *clean code* lu di kantor, tapi pas hari-H kelasnya jalan, rasanya kayak naik wahana tornado di Dufan? Berantakan, pusing, dan lu cuma pengen cepet-cepet udahan.
 
-Gua baru aja kena tampar realita awal minggu ini. Pelakunya siapa lagi kalau bukan Mas Bram, *team lead* gua di kantor edtech. 
+Gua baru aja kena tampar realita awal minggu ini. Pelakunya siapa lagi kalau bukan Mas Hendra, *team lead* gua di kantor edtech. 
 
 Hari Senin jam sembilan pagi, gua dengan bangga narik kursi di depan mejanya, nunjukin laporan proyek modul pelatihan komunikasi buat klien korporat. "Mas, beres ya. Konten video udah *up*, kuis interaktif udah jalan, *completion rate* minggu pertama tembus 90 persen," kata gua sambil senyum jumawa.
 
-Mas Bram natap layar laptopnya, terus natap gua lewat ujung kacamatanya. Pertanyaannya pendek, datar, tapi langsung bikin ulu hati gua ngilu: 
+Mas Hendra natap layar laptopnya, terus natap gua lewat ujung kacamatanya. Pertanyaannya pendek, datar, tapi langsung bikin ulu hati gua ngilu: 
 
 "Keren, Ian. Terus mereka beneran paham materinya, atau cuma ngeklik tombol *next* sambil di-*mute* biar dapet sertifikat?"
 
 *Jleb.* Gua langsung diam kayak patung lilin. 
 
-Bram gak marah, gak nyolot. Tipikal dia banget: nanya pendek, tapi langsung menusuk ke inti persoalan yang paling pengen gua hindari. Dan sialnya, sindiran Bram itu gak cuma ngena buat proyek kantor, tapi langsung nge-tumbuk kepala gua soal kelas *public speaking weekend* gua sendiri. 
+Hendra gak marah, gak nyolot. Tipikal dia banget: nanya pendek, tapi langsung menusuk ke inti persoalan yang paling pengen gua hindari. Dan sialnya, sindiran Hendra itu gak cuma ngena buat proyek kantor, tapi langsung nge-tumbuk kepala gua soal kelas *public speaking weekend* gua sendiri. 
 
 Lu inget kan cerita gua soal Nadia? Murid kelas *batch* kemarin yang tiba-tiba ngilang tanpa jejak di minggu kelima? Gua pikir dia males. Gua pikir dia sibuk urusan kerjaan. Ternyata bukan, Sar. Masalahnya ada di gua yang bebal dan sok tahu soal gimana sebuah proses belajar harusnya dikelola. 
 
