@@ -5,7 +5,7 @@ type: blog
 date: 2026-10-06T05:00:00+07:00
 draft: true
 ws_chat: 1539
-ws_msg: 21342
+ws_msg: 21353
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"]
 summary: "Warisan Bram berupa spreadsheet puluhan ribu baris jadi pintu masuk buat bahas apa yang bikin sebuah sistem layak disebut intelligent: dari rule-based yang rapuh sampai tiga mazhab machine learning."
@@ -45,7 +45,7 @@ Fleksibilitasnya luar biasa tinggi dan skalabilitasnya eksponensial. Tapi tentu 
 
 ## Tiga Mazhab Pembelajaran Mesin: Dari Dikte Guru Sampai Belajar dari Hukuman
 
-Di sesi kedua, materi masuk ke tiga pilar utama cara mesin belajar. Bagian ini bener-bener bikin gue inget sama topik tesis lo dan sistem GPBSales yang lagi lo oprek, Sar. Dosen gue membaginya jadi tiga mazhab besar:
+Di sesi kedua, materi masuk ke tiga pilar utama cara mesin belajar. Bagian ini bener-bener bikin gue inget sama topik tesis lo dan sistem GPBSales, proyek penjualan buku digital, yang lagi lo oprek, Sar. Dosen gue membaginya jadi tiga mazhab besar:
 
 ### 1. *Supervised Learning* (Belajar Berdampingan dengan Kunci Jawaban)
 
@@ -54,7 +54,7 @@ Ini pendekatan paling umum dan paling matang di industri saat ini. Konsep dasarn
 Contoh paling klasiknya ya filter email *spam* di kotak masuk kita. Algoritma dikasih ribuan sampel email yang udah ditandai manual oleh manusia: "ini spam", "ini bukan spam". Dari situ mesin belajar kosakata, struktur kalimat, dan metadata mana yang punya probabilitas tinggi sebagai penipuan.
 
 Nah, ini klop banget sama yang lo kerjain!
-- Di **GPBSales**, lo menganalisis tren penjualan properti dengan menyodorkan data historis berlabel: variabel luas bangunan, lokasi, rasio fasilitas, suku bunga acuan, dan harga transaksi finalnya. Mesin belajar memetakan korelasi fitur-fitur fisik dan finansial itu ke angka nominal harga jual (*regression problem*).
+- Di **GPBSales**, lo menganalisis tren penjualan buku digital dengan menyodorkan data historis berlabel: variabel kategori, harga, rating, jumlah ulasan, dan volume pembelian harian. Mesin belajar memetakan korelasi fitur-fitur itu ke angka nominal penjualan (*regression problem*).
 - Di **tesis lo soal analisis sentimen**, itu murni *Supervised Learning* untuk pemrosesan bahasa alami (*Natural Language Processing* / NLP). Lo punya ribuan baris teks ulasan pengguna yang udah dikasih label sentimen: positif, negatif, atau netral. Model lo bakal belajar membedakan semantik dan bobot kata untuk menentukan sentimen ulasan baru yang masuk tanpa bantuan manusia lagi.
 
 Tantangan terbesarnya apa? *Labeling* itu mahal, makan waktu, dan rawan bias manusia. Kalau orang yang ngasih label awal udah punya persepsi melenceng, mesin lo bakal belajar jadi sistem yang ikutan melenceng dengan sangat percaya diri (*garbage in, garbage out*).

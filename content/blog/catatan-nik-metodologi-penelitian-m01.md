@@ -5,7 +5,7 @@ type: blog
 date: 2026-10-09T05:00:00+07:00
 draft: true
 ws_chat: 1541
-ws_msg: 21346
+ws_msg: 21354
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian"]
 summary: "Town hall darurat di kantor Nik penuh opini tanpa data, dan itu pintu masuk buat bahas 7 karakteristik riset ilmiah plus cara merumuskan masalah penelitian."
@@ -111,12 +111,12 @@ Liat bedanya, Sar? Dari fenomena "kantor kacau Bram resign", kalau dibedah pake 
 
 Sekarang, gue mau nge-highlight rencana tesis lo soal **GPBSales**. 
 
-Dari obrolan kita minggu lalu, lo kan lagi megang *dataset* penjualan aplikasi atau buku di Google Play (GPBSales) itu. Fenomena awalnya apa? Lo ngeliat adanya anomali fluktuasi angka penjualan yang drastis di kategori tertentu, atau adanya *gap* besar antara rating pengguna dengan angka konversi pembelian aktual. 
+Dari obrolan kita minggu lalu, lo kan lagi megang *dataset* penjualan buku digital di marketplace (GPBSales) itu. Fenomena awalnya apa? Lo ngeliat adanya anomali fluktuasi angka penjualan yang drastis di kategori tertentu, atau adanya *gap* besar antara rating pengguna dengan angka konversi pembelian aktual. 
 
-Tolong jangan berhenti di tahap cuma bilang "penjualan Google Play kategori X lagi turun, jadi gue mau teliti faktornya". Itu cetek banget, Sar. Itu baru nyebutin fenomena mentah!
+Tolong jangan berhenti di tahap cuma bilang "penjualan buku digital kategori X lagi turun, jadi gue mau teliti faktornya". Itu cetek banget, Sar. Itu baru nyebutin fenomena mentah!
 
 Lo harus bawa fenomena GPBSales itu lewat jalur pemurnian:
-1. **Identifikasi Masalah:** Lo teliti dari datanya, apakah anomali konversi penjualan itu dipicu oleh faktor teknis sistem (seperti latensi transaksi, algoritma rekomendasi toko aplikasi, atau isu privasi data pembayaran), atau dipengaruhi faktor persepsi kegunaan (*perceived usability*) dan ulasan digital (*sentiment analysis* dari teks ulasan pengguna)?
+1. **Identifikasi Masalah:** Lo teliti dari datanya, apakah anomali konversi penjualan itu dipicu oleh faktor teknis sistem (seperti latensi transaksi, algoritma rekomendasi marketplace, atau isu privasi data pembayaran), atau dipengaruhi faktor persepsi kegunaan (*perceived usability*) dan ulasan digital (*sentiment analysis* dari teks ulasan pengguna)?
 2. **Rumusan Masalah:** Ubah jadi kalimat tanya penelitian yang presisi dan punya batasan yang terukur. Misalnya: "Bagaimana pengaruh polaritas sentimen ulasan pengguna dan frekuensi pembaruan versi sistem terhadap keputusan pembelian berulang pada platform GPBSales di pasar regional tertentu?"
 3. **Tujuan Penelitian:** Pastikan tujuan lo simetris sama rumusan masalahnya. Tujuannya adalah buat menguji secara empiris variabel-variabel digital tersebut pake pendekatan kuantitatif atau metode komputasional.
 
