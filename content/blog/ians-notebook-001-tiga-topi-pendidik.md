@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Drama Kantoran, Tiga Topi Ajaib, dan Dosa Terbesar Kita Setiap Kali Kelas Kelar"
 subtitle: "Ian kesel sama bocah kantor yang nganggep bikin kelas itu gampang, terus sadar dia sendiri paling sering ninggalin satu topinya."
 type: blog
-date: 2026-10-05T05:00:00+07:00
-draft: true
+date: 2026-10-05T12:32:01.295981+07:00
+draft: false
 ws_chat: 1535
 ws_msg: 21355
 category: "Collab Journal"
