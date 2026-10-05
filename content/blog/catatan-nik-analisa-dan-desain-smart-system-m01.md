@@ -2,15 +2,17 @@
 title: "Catatan Nik: Jebakan Batman Analisis Sistem Cerdas dan Warisan Bram yang Bikin Pusing"
 subtitle: "Catatan analisis dan desain sistem cerdas, pertemuan 1"
 type: blog
-date: 2026-10-05T05:00:00+07:00
-draft: true
+date: 2026-10-05T12:13:28.322479+07:00
+draft: false
 ws_chat: 1542
 ws_msg: 21352
+publish_from: file
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system"]
 summary: "Manajemen kantor Nik minta \"bikin AI aja\" buat gantiin valuer yang cabut bawa portofolio klien. Nik bedah materi SSAD pertemuan 1: bedanya payung AI sama sistem cerdas, siklus hidupnya, dan kenapa *problem framing* itu jebakan pertama yang paling mahal."
 hook: "\"Kenapa nggak bikin sistem AI aja?\" kata salah satu petinggi di rapat kantor Nik. Dosen SSAD-nya bilang justru di situ jebakan pertamanya."
 ---
+
 
 Hujan di Bogor malam ini turun deras banget, Sar. Suara air yang nabrak kanopi jendela kamar kerja gue sampai ngalahin suara dosen di Zoom yang baru aja bubar jam sembilan malam tadi. Dylan sempat telepon kemarin sore dari asramanya, suaranya kedengeran capek sehabis latihan basket, tapi obrolan lima belas menit sama dia lumayan jadi *mood booster* sebelum gue harus menghadapi kenyataan: masuk semester baru, ketemu mata kuliah Analisis dan Perancangan Sistem Cerdas (*Smart System Analysis and Design* alias SSAD), dan sialnya, LMS kampus gue masih terkunci rapat.
 
@@ -120,15 +122,15 @@ Terakhir, **bias kognitif dan implikasi etika bisnis**. Sistem cerdas itu mencer
 
 Nah, Sar, sekarang bagian paling seru yang mau gue sambungin langsung ke rencana riset lo. 
 
-Pas dosen tadi memaparkan kerangka kerja: **Fenomena $\to$ Problem Framing $\to$ Analisis Kebutuhan $\to$ Desain Arsitektur $\to$ Evaluasi**, kepala gue langsung loncat ke dataset yang lagi lo pegang buat tesis: GPBSales dengan 1,08 juta baris data transaksi penjualan aplikasi di Google Play Store itu.
+Pas dosen tadi memaparkan kerangka kerja: **Fenomena $\to$ Problem Framing $\to$ Analisis Kebutuhan $\to$ Desain Arsitektur $\to$ Evaluasi**, kepala gue langsung loncat ke dataset yang lagi lo pegang buat tesis: GPBSales, dataset penjualan buku digital lo, dengan satu juta baris lebih data transaksi di marketplace buku digital itu.
 
-Dataset sebesar 1,08 juta baris itu adalah berkah sekaligus kutukan. Jangan sampai lo jatuh ke perangkap yang sama kayak manajemen kantor gue: punya data banyak, terus langsung mikir "pokoknya gue mau hajar pakai *deep learning* atau algoritma canggih biar kelihatan keren di depan penguji." Jangan ya, Sar!
+Dataset sebesar satu juta baris lebih itu adalah berkah sekaligus kutukan. Jangan sampai lo jatuh ke perangkap yang sama kayak manajemen kantor gue: punya data banyak, terus langsung mikir "pokoknya gue mau hajar pakai *deep learning* atau algoritma canggih biar kelihatan keren di depan penguji." Jangan ya, Sar!
 
 Lo harus mulai persis dari kerangka SSAD ini:
 
-1.  **Fenomena Bisnisnya Apa?** Jutaan aplikasi bersaing di Google Play Store, tapi mayoritas developer independen gagal membaca dinamika penetapan harga (*pricing strategy*), segmentasi pasar, dan pola unduhan berbayar yang menghasilkan konversi berkelanjutan.
-2.  ***Problem Framing*: Masalah AI-nya di Mana?** Apakah lo mau membangun sistem rekomendasi harga dinamis untuk aplikasi baru berdasarkan metrik kategori dan tren pasar? Atau lo mau membangun sistem cerdas deteksi anomali untuk membedakan transaksi unduhan organik vs unduhan manipulatif (*fake downloads*) yang merusak ekosistem penjualan? Dua tujuan itu menuntut arsitektur dan paradigma sistem yang beda total.
-3.  **Analisis Kebutuhannya Bagaimana?** Dengan 1,08 juta baris data, kebutuhan non-fungsional lo bakal sangat ketat di urusan *scalability*, efisiensi memori, dan integritas data. Bagaimana sistem cerdas lo menangani jutaan *missing values*, data penjualan bernilai nol (*sparse matrices*), dan *outliers* dari aplikasi raksasa yang transaksinya jomplang banget dibanding aplikasi reguler?
+1.  **Fenomena Bisnisnya Apa?** Jutaan judul buku digital bersaing di marketplace, tapi mayoritas penerbit independen gagal membaca dinamika penetapan harga (*pricing strategy*), segmentasi pasar, dan pola pembelian berulang yang menghasilkan konversi berkelanjutan.
+2.  ***Problem Framing*: Masalah AI-nya di Mana?** Apakah lo mau membangun sistem rekomendasi harga dinamis untuk buku baru berdasarkan metrik kategori dan tren pasar? Atau lo mau membangun sistem cerdas deteksi anomali untuk membedakan transaksi pembelian organik vs pembelian manipulatif (*fake reviews*) yang merusak ekosistem penjualan? Dua tujuan itu menuntut arsitektur dan paradigma sistem yang beda total.
+3.  **Analisis Kebutuhannya Bagaimana?** Dengan satu juta baris lebih data, kebutuhan non-fungsional lo bakal sangat ketat di urusan *scalability*, efisiensi memori, dan integritas data. Bagaimana sistem cerdas lo menangani jutaan *missing values*, data penjualan bernilai nol (*sparse matrices*), dan *outliers* dari penerbit raksasa yang transaksinya jomplang banget dibanding penerbit reguler?
 
 Tesis lo itu laboratorium hidup buat mata kuliah SSAD ini. Kalau lo bisa menstrukturkan bab metodologi penelitian lo mengikuti siklus hidup sistem cerdas yang diajarkan di RPS pertemuan satu ini, gue yakin penguji lo nggak bakal punya celah buat mendebat fondasi berpikir lo.
 
@@ -139,7 +141,7 @@ Tesis lo itu laboratorium hidup buat mata kuliah SSAD ini. Kalau lo bisa menstru
 Berhubung tugas pertemuan satu kita berbobot lima persen buat bikin analisis kritis aplikasi sistem cerdas, sekalian buat mematangkan fondasi bab satu dan bab tiga di draf tesis lo, gue mau lempar beberapa pertanyaan reflektif yang mengganjal di kepala gue sejak kelas kelar tadi:
 
 1.  Melihat skala dataset GPBSales lo yang tembus satu juta baris lebih, gimana lo melakukan *problem framing* yang presisi agar sistem cerdas yang lo rancang nggak sekadar jadi latihan statistik deskriptif atau regresi biasa, tapi benar-benar memenuhi kriteria sistem kognitif yang memadukan pilar Data, Model, Keputusan, dan Aksi?
-2.  Di domain aplikasi digital dengan volume transaksi sebesar itu, tantangan *curse of dimensionality* dan *data imbalance* pasti muncul (misalnya aplikasi gratisan mendominasi dibanding aplikasi berbayar). Menurut analisis lo, kebutuhan fungsional dan non-fungsional apa yang paling kritis harus disiapkan di level arsitektur sistem cerdas lo buat mengatasi masalah tersebut?
+2.  Di domain penjualan buku digital dengan volume transaksi sebesar itu, tantangan *curse of dimensionality* dan *data imbalance* pasti muncul (misalnya buku gratis mendominasi dibanding buku berbayar). Menurut analisis lo, kebutuhan fungsional dan non-fungsional apa yang paling kritis harus disiapkan di level arsitektur sistem cerdas lo buat mengatasi masalah tersebut?
 3.  Kalau dikaitkan sama kasus kantor gue di SCBD yang mau bikin sistem valuasi otomatis, instrumen *Explainability* (seperti *Model Card* atau *Datasheet*) itu sering dianggap beban administratif tambahan sama praktisi industri. Menurut sudut pandang lo, gimana cara membuktikan ke manajemen bahwa dokumentasi transparansi model itu sebenarnya adalah mitigasi risiko bisnis yang vital, bukan sekadar teori akademis?
 
 Gue tunggu coretan pemikiran lo di catatan lo selanjutnya ya, Sar. Mari kita bedah bareng-bareng sebelum modul minggu depan dibuka dan kita makin dikejar tumpukan tugas analisis arsitektur.
