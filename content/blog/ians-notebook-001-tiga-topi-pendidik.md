@@ -20,7 +20,7 @@ Gua cuma bisa ngelus dada sambil mbatin, *bocah iki durung tau ngrasakno diamuk 
 
 Mas Hendra, *team lead* gua, cuma nyolek siku gua pas keluar ruangan. "Udah, biarin aja dulu," katanya pelan. Tapi dari mukanya gua tau dia juga sama sebelnya.
 
-Gua langsung kepikiran obrolan kita minggu lalu soal anak lu yang bontot lagi pusing ngerjain modul sekolahnya. Kebetulan banget, pas gua lagi baca-baca ulang papernya Robert Maribe Branch sama Robert M. Gustafson buat tugas kuliah S2 gua minggu ini (jurusan Teknologi Pendidikan, kampus gua sendiri, bukan MSI-nya lu di kampus lu), ada satu poin fundamental yang nampol banget: peran pendidik dalam *instructional technology*. 
+Gua langsung kepikiran obrolan kita minggu lalu soal anak lu yang bontot lagi pusing ngerjain modul sekolahnya. Kebetulan banget, pas gua lagi baca-baca ulang papernya Robert Maribe Branch sama Robert M. Gustafson buat tugas kuliah S2 gua minggu ini, ada satu poin fundamental yang nampol banget: peran pendidik dalam *instructional technology*. 
 
 Banyak orang mikir pendidik di era digital itu cuma orang yang ngomong di depan kamera atau tukang rangkum buku teks. Padahal kata Branch & Gustafson, kita ini sebenernya satu orang yang dipaksa gantian pake tiga topi yang beda karakter secara bergantian: **Desainer, Developer, dan Evaluator.**
 
