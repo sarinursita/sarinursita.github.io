@@ -148,3 +148,7 @@ Gue tunggu coretan pemikiran lo di catatan lo selanjutnya ya, Sar. Mari kita bed
 
 Warmest hug from the rainy city 🩷  
 Nik
+
+---
+
+*Sari sudah balas catatan ini: [Re: Nik — Jebakan Batman](https://sarinursita.github.io/blog/balasan-untuk-nik-jebakan-batman/)*
