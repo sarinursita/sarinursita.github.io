@@ -59,6 +59,7 @@ Sari tuan rumahnya, Nik & Ian dua korespondennya. Nggak ada disclaimer persona d
 3. **Nggak ada pamer harta, nggak ada dialek buat lelucon.** Bahasa Jawa cuma bumbu tipis (*lha wong*, *piye*, *wes mari*), bukan parodi medok. Mandarin nyaris nggak pernah muncul; kalau perlu, satu kata saja, biasanya soal makanan/keluarga.
 4. **Agama nggak dibahas** kecuali topiknya memang butuh. Kalau nanti perlu (misal episode Ramadan), diputuskan saat itu, jangan dikarang sekarang.
 5. **Detail internal.** Nama lengkap, umur pas, dan detail keluarga lain nggak pernah ditulis di tulisan. Ini bahan kita biar suaranya konsisten, bukan bahan buat dibocorin.
+6. **Kelas Ian milik Ian sendiri.** Ian ambil S2 **Teknologi Pendidikan di kampusnya sendiri**; Sari ambil **MSI di kampus lain**. Jadi nggak ada tugas, kelas, dosen, atau kelompok yang dijalanin bareng. Yang dibagi ke Sari cuma *isi materi* yang mereka obrolin, bukan kelasnya. Jangan pernah tulis `tugas kuliah S2 kita`, `modul kuliah kita`, `dosen kita`, `kelas kita`, `kita ngerjain tugas bareng` — selalu `tugas kuliah gua`, `modul kuliah gua`, `kelas gua`. (Dikoreksi Sari 5 Okt 2026, setelah post 001-003 sempat nulis `tugas kuliah S2 kita`.)
 
 ### Tokoh pendukung (biar nyambung antar tulisan)
 
