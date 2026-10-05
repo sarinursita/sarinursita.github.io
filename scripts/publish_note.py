@@ -242,6 +242,7 @@ def main():
     ap.add_argument("--hook")
     ap.add_argument("--reply-to", dest="reply_to", default="", help="URL post yang dibalas (jadi link di footer)")
     ap.add_argument("--draft", action="store_true", help="tahan sebagai draft (jangan tayang)")
+    ap.add_argument("--backlink", help="slug post yang dibalas: tambahkan link ke post baru ini di akhir post itu")
     ap.add_argument("--dry-run", action="store_true", help="cetak hasilnya, jangan tulis/push")
     ap.add_argument("--no-build", action="store_true", help="lewati hugo build lokal")
     a = ap.parse_args()
@@ -279,17 +280,36 @@ def main():
     path.write_text(out, encoding="utf-8")
     print("   tulis : %s" % path.relative_to(REPO))
 
+    # link balik di post yang dibalas, biar pembacanya bisa langsung klik ke balasan ini
+    extra, backlink_src, backlink_old = [], None, None
+    if a.backlink:
+        src = BLOG_DIR / (a.backlink + ".md")
+        if not src.exists():
+            print("⚠️ --backlink %s: file tidak ada, link balik dilewati." % a.backlink)
+        else:
+            backlink_src = src
+            backlink_old = src.read_text(encoding="utf-8")
+            line = "*Sari sudah balas catatan ini: [%s](%s/blog/%s/)*" % (title, BASE_URL, slug)
+            if line in backlink_old:
+                print("   balik : link balik sudah ada di %s" % src.name)
+            else:
+                src.write_text(backlink_old.rstrip() + "\n\n---\n\n" + line + "\n", encoding="utf-8")
+                extra.append(str(src.relative_to(REPO)))
+                print("   balik : %s -> link ke %s" % (src.name, slug))
+
     if not a.no_build:
         r = subprocess.run(["hugo", "--minify", "--cleanDestinationDir"], cwd=str(REPO), capture_output=True, text=True)
         if r.returncode != 0:
             path.unlink()
+            if backlink_src is not None and backlink_old is not None:
+                backlink_src.write_text(backlink_old, encoding="utf-8")
             print("⚠️ hugo build gagal, file dibatalkan:\n%s" % (r.stderr or r.stdout)[-1500:])
             sys.exit(1)
         print("   build : ok (%s)" % next((l.strip() for l in r.stdout.splitlines() if "pages" in l), ""))
 
     try:
         git("pull", "--rebase", "origin", "main", check=False)
-        git("add", str(path.relative_to(REPO)))
+        git("add", str(path.relative_to(REPO)), *extra)
         git(*AUTHOR, "commit", "-m", "Publish %s (WS note %s)" % (slug, note["id"]))
         git("push", "origin", "main")
         print("   push  : ok")

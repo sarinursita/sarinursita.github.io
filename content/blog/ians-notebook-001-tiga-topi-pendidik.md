@@ -113,3 +113,7 @@ Gua mau balik ngecek tugas rekaman anak-anak kelas *weekend* gua dulu pake topi 
 *Cheers from Surabaya,*
 
 — Ian
+
+---
+
+*Sari sudah balas catatan ini: [Balasan untuk Ian: Tiga Topi Ajaib](https://sarinursita.github.io/blog/balasan-untuk-ian-tiga-topi-ajaib/)*
