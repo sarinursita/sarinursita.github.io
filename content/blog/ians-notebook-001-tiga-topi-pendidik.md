@@ -1,6 +1,6 @@
 ---
 title: "Ian's Notebook: Drama Kantoran, Tiga Topi Ajaib, dan Dosa Terbesar Kita Setiap Kali Kelas Kelar"
-subtitle: "Ian kesel sama bocah kantor yang nganggep bikin kelas itu gampang, terus sadar dia sendiri paling sering ninggalin satu topinya."
+subtitle: "Mas Hendra cuma nyolek siku gua pas keluar meeting. Yang bikin gua nggak bisa tidur malah omongan gua sendiri sebulan yang lalu."
 type: blog
 date: 2026-10-05T12:32:01.295981+07:00
 draft: false
@@ -8,7 +8,7 @@ ws_chat: 1535
 ws_msg: 21355
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "tiga-topi-pendidik"]
-summary: "Ian kesal sama kolega kantornya yang nganggep bikin kelas online itu gampang, dan drama kelas public speaking-nya bikin dia sadar dia sendiri paling sering nge-skip topi evaluator."
+summary: "Gua baru kena omongan enteng soal bikin kelas online, terus inget kelas public speaking weekend gua yang berakhir nggak kayak yang gua rencanain."
 hook: "Ada tiga topi yang dipakai tiap orang yang bikin kelas. Yang ketiga paling sering tinggal di lemari."
 ---
 

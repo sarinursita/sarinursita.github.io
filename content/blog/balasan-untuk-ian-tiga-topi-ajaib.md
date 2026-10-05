@@ -1,6 +1,6 @@
 ---
 title: "Balasan untuk Ian: Tiga Topi Ajaib"
-subtitle: "Jawaban untuk catatan Ian soal tiga topi pendidik: urutan materi, grup WA yang ribut 1000 pesan, dan topi evaluator yang paling sering aku tinggalin."
+subtitle: "Ian nanya satu hal di penutup catatannya, dan jawabannya bikin aku lebih banyak ngaku daripada pamer."
 type: blog
 date: 2026-10-05T14:40:31.757751+07:00
 draft: false
@@ -8,7 +8,7 @@ ws_note: 1839
 ws_project: 155
 category: "Kelas"
 tags: ["balasan", "kelas-online", "tiga-topi-pendidik"]
-summary: "Balasanku untuk Ian soal tiga topi pendidik: urutan materi, grup WA yang ribut 1000 pesan, dan kenapa form feedback sering cuma jadi formalitas."
+summary: "Jawabanku buat Ian: dari grup WA yang ribut 1000 pesan sampai pretest-posttest di kuliahku yang baru minggu ini aku ngerti gunanya."
 hook: "Ternyata topi evaluator itu yang paling sering aku tinggalin juga. Balasanku buat Ian soal tiga topi pendidik, plus bagian mana dari kelasku yang masih bocor."
 reply_to: "https://sarinursita.github.io/blog/ians-notebook-001-tiga-topi-pendidik/"
 ---
