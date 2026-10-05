@@ -38,7 +38,7 @@ Hal pertama yang ditekankan dosen gue tadi malam, dan ini penting banget buat ki
 
 Banyak orang mengira kalau mereka pasang satu model *machine learning*, mereka otomatis sudah punya sistem cerdas. *No, honey, it doesn't work that way.* AI itu keilmuan tentang bagaimana bikin mesin meniru atau menambah kemampuan kognitif manusia, mulai dari belajar (*learning*), menalar (*reasoning*), sampai mengambil keputusan (*decision making*). Tapi sistem cerdas? Sistem cerdas adalah ekosistem rekayasa perangkat lunak yang utuh.
 
-Di sistem cerdas, arsitekturnya harus membentuk rantai nilai tertutup: **Data $\to$ Model $\to$ Keputusan $\to$ Aksi**.
+Di sistem cerdas, arsitekturnya harus membentuk rantai nilai tertutup: **Data → Model → Keputusan → Aksi**.
 
 Kalau salah satu dari empat pilar itu patah, lo nggak punya sistem cerdas. Lo cuma punya *gimmick* algoritma. 
 
@@ -122,7 +122,7 @@ Terakhir, **bias kognitif dan implikasi etika bisnis**. Sistem cerdas itu mencer
 
 Nah, Sar, sekarang bagian paling seru yang mau gue sambungin langsung ke rencana riset lo. 
 
-Pas dosen tadi memaparkan kerangka kerja: **Fenomena $\to$ Problem Framing $\to$ Analisis Kebutuhan $\to$ Desain Arsitektur $\to$ Evaluasi**, kepala gue langsung loncat ke dataset yang lagi lo pegang buat tesis: GPBSales, dataset penjualan buku digital lo, dengan satu juta baris lebih data transaksi di marketplace buku digital itu.
+Pas dosen tadi memaparkan kerangka kerja: **Fenomena → Problem Framing → Analisis Kebutuhan → Desain Arsitektur → Evaluasi**, kepala gue langsung loncat ke dataset yang lagi lo pegang buat tesis: GPBSales, dataset penjualan buku digital lo, dengan satu juta baris lebih data transaksi di marketplace buku digital itu.
 
 Dataset sebesar satu juta baris lebih itu adalah berkah sekaligus kutukan. Jangan sampai lo jatuh ke perangkap yang sama kayak manajemen kantor gue: punya data banyak, terus langsung mikir "pokoknya gue mau hajar pakai *deep learning* atau algoritma canggih biar kelihatan keren di depan penguji." Jangan ya, Sar!
 
