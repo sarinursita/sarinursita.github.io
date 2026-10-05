@@ -1,6 +1,6 @@
 ---
 title: "Catatan Nik: Ketika Aturan Kaku Jebol dan Mesin Mulai Belajar Sendiri"
-subtitle: "Catatan implementasi artificial intelligence, pertemuan 1"
+subtitle: "Warisan Bram berupa spreadsheet 50 ribu baris itu sebenernya sistem pakar yang udah usang. Semalem dosen gue ngejelasin kenapa dia nggak akan sanggup nanganin satu perubahan pasar aja."
 type: blog
 date: 2026-10-06T05:00:00+07:00
 draft: true
@@ -8,7 +8,7 @@ ws_chat: 1539
 ws_msg: 21353
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"]
-summary: "Warisan Bram berupa spreadsheet puluhan ribu baris jadi pintu masuk buat bahas apa yang bikin sebuah sistem layak disebut intelligent: dari rule-based yang rapuh sampai tiga mazhab machine learning."
+summary: "Dari rule-based yang rapuh ke tiga cara mesin belajar: spreadsheet Bram jebol bukan karena error, tapi karena jaman udah bergeser dan sistem itu nggak bisa ikut bergeser."
 hook: "Sistem kantor Nik jebol bukan karena error, tapi karena aturan kaku nggak sanggup nampung kenyataan lapangan."
 ---
 

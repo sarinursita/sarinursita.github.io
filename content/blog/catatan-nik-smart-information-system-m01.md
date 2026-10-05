@@ -1,6 +1,6 @@
 ---
 title: "Catatan Nik: SCBD Panic Attack"
-subtitle: "Catatan smart information system, pertemuan 1"
+subtitle: "Manajemen pusat bilang sistem enterprise kita yang ngurus semuanya. Seminggu kemudian tim marketing kayak ayam kehilangan induk."
 type: blog
 date: 2026-10-08T05:00:00+07:00
 draft: true
@@ -8,7 +8,7 @@ ws_chat: 1540
 ws_msg: 21344
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "smart-information-system"]
-summary: "Manajemen pusat bilang 'sistem enterprise kita yang ngurus', dan seminggu kemudian tim marketing kayak ayam kehilangan induk. Nik bahas 9 karakteristik sistem informasi yang paling sering dilupakan manajemen."
+summary: "Sistem mahal kita punya sembilan karakteristik, dan yang paling sering dilupain ada di ujung: feedback. Buktinya, pas Bram pergi, sistem diem aja."
 hook: "Sistem enterprise nggak bisa gantiin orang yang pergi. Kantor Nik belajar itu dengan cara yang pahit."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Catatan Nik: Jangan Sampai Tesis Lo Cuma Jadi Bahan Rapat yang Berujung Asumsi Kosong"
-subtitle: "Catatan metodologi penelitian, pertemuan 1"
+subtitle: "Town hall darurat kemarin isinya orang-orang pinter lempar asumsi tanpa data. Dan dosen metpen gue semalem ngejelasin kenapa itu masalah, bahkan di ruang rapat."
 type: blog
 date: 2026-10-09T05:00:00+07:00
 draft: true
@@ -8,7 +8,7 @@ ws_chat: 1541
 ws_msg: 21354
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian"]
-summary: "Town hall darurat di kantor Nik penuh opini tanpa data, dan itu pintu masuk buat bahas 7 karakteristik riset ilmiah plus cara merumuskan masalah penelitian."
+summary: "Di kantor, semua orang punya pendapat. Tapi mana yang ilmiah dan mana yang cuma asumsi? Semalem gue belajar bedanya, dan ternyata nggak semua rapat butuh itu."
 hook: "Rapat darurat penuh asumsi, nol data. Nik bahas kenapa 'kata gue sih' nggak pernah cukup, bahkan di ruang rapat."
 ---
 
