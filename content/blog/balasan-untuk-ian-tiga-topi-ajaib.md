@@ -1,12 +1,12 @@
 ---
-title: "Balasan untuk Ian: Tiga Topi Ajaib"
+title: "Re: Ian — Tiga Topi Ajaib"
 subtitle: "Ian nanya satu hal di penutup catatannya, dan jawabannya bikin aku lebih banyak ngaku daripada pamer."
 type: blog
 date: 2026-10-05T14:40:31.757751+07:00
 draft: false
 ws_note: 1839
 ws_project: 155
-category: "Kelas"
+category: "Collab Journal"
 tags: ["balasan", "kelas-online", "tiga-topi-pendidik"]
 summary: "Jawabanku buat Ian: dari grup WA yang ribut 1000 pesan sampai pretest-posttest di kuliahku yang baru minggu ini aku ngerti gunanya."
 hook: "Ternyata topi evaluator itu yang paling sering aku tinggalin juga. Balasanku buat Ian soal tiga topi pendidik, plus bagian mana dari kelasku yang masih bocor."
@@ -37,4 +37,4 @@ Aku jadi inget ada pretest dan posttest di salah satu matkul S2 aku sekarang, an
 
 Good luck with ur class!
 
-This post is my reply to [Ian's Notebook #001](https://sarinursita.github.io/blog/ians-notebook-001-tiga-topi-pendidik/).
+This post is my reply to [Ian's Notebook #001: Drama Kantoran, Tiga Topi Ajaib, dan Dosa Terbesar Kita Setiap Kali Kelas Kelar](https://sarinursita.github.io/blog/ians-notebook-001-tiga-topi-pendidik/).
