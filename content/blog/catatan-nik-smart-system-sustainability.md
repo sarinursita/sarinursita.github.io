@@ -1,6 +1,6 @@
 ---
 title: "Catatan Nik: Smart Building yang Bikin Kantor Kacau dalam Satu Sore"
-subtitle: "AC mati di ruangan yang penuh orang, lantai eksekutif malah kedinginan. Semua gara-gara satu sumber data."
+subtitle: "Sistem pendingin gedung canggih itu mati di auditorium yang penuh orang. Tapi di lantai eksekutif yang isinya tiga orang, AC malah nggak mau mati."
 type: blog
 date: 2026-10-04T22:45:34+07:00
 draft: false
@@ -8,7 +8,7 @@ ws_chat: 1527
 ws_msg: 21284
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "smart-system"]
-summary: "Gedung pintar di SCBD yang dibranding paling canggih justru bikin huru-hara sehari: AC mati di ruangan penuh orang, lantai eksekutif kedinginan, akses lobi macet. Nik bedah bedanya otomatis dan cerdas, plus tiga kegagalan di baliknya."
+summary: "Vendor bilang smart system-nya bisa belajar. Nyatanya dia belajar dari data yang salah, dan satu gedung ikut kacau dalam satu sore."
 hook: "Gedung yang katanya paling canggih di Jakarta itu mati AC-nya di ruangan yang penuh orang, dan menyalakan pendingin kencang di ruangan yang isinya tiga orang."
 ---
 

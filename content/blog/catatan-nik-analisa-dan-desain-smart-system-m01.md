@@ -1,6 +1,6 @@
 ---
 title: "Catatan Nik: Jebakan Batman Analisis Sistem Cerdas dan Warisan Bram yang Bikin Pusing"
-subtitle: "Catatan analisis dan desain sistem cerdas, pertemuan 1"
+subtitle: "Pas rapat siang tadi ada petinggi yang bilang, 'Kenapa nggak bikin sistem AI aja?' Gue cuma bisa diem sambil inget materi dosen semalem."
 type: blog
 date: 2026-10-05T12:13:28.322479+07:00
 draft: false
@@ -9,7 +9,7 @@ ws_msg: 21352
 publish_from: file
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system"]
-summary: "Manajemen kantor Nik minta \"bikin AI aja\" buat gantiin valuer yang cabut bawa portofolio klien. Nik bedah materi SSAD pertemuan 1: bedanya payung AI sama sistem cerdas, siklus hidupnya, dan kenapa *problem framing* itu jebakan pertama yang paling mahal."
+summary: "Manajemen pengen gantiin valuer senior yang cabut pake AI. Tapi dari materi SSAD pertemuan 1 gue baru ngerti: problem pertama bukan di algoritmanya, di framing-nya."
 hook: "\"Kenapa nggak bikin sistem AI aja?\" kata salah satu petinggi di rapat kantor Nik. Dosen SSAD-nya bilang justru di situ jebakan pertamanya."
 ---
 

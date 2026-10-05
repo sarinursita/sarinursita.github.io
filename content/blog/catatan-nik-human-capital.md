@@ -1,12 +1,12 @@
 ---
 title: "Catatan Nik: Why People are NOT Just Resources (Notes on HCM)"
-subtitle: "Catatan Nik tentang topik Human Capital Management"
+subtitle: "Gue baru aja liat satu kantor kehilangan valuernya yang paling berbakat. Dan gue jadi sadar sistem HR jutaan dolar yang kita banggain itu nggak lihat apa-apa."
 type: blog
 date: 2026-09-28
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "human-capital"]
-summary: "Catatan Nik soal Human Capital Management, dari kasus senior gue yang resign sampai kenapa sistem HR yang mahal bisa nggak lihat apa-apa."
-hook: "Sistem HR jutaan dolar bisa nggak lihat apa-apa. Catatan Nik soal Human Capital Management — dari kasus senior yang resign tiba-tiba."
+summary: "Bram resign bawa semua yang dia tahu. Di sinilah gue, di kamar kerja Bogor, mikir kenapa software HR mahal kita nggak bisa nangkep sinyal bahaya yang udah kelihatan dari tahun lalu."
+hook: "Software HR mahal kita nggak lihat tanda-tanda Bram mau pergi. Tapi di kamar kerja Bogor, gue baru nyadar: sistem itu emang nggak dirancang buat lihat."
 aliases: ["/blog/catatan-nik-hcm-smart-system/"]
 ---
 
