@@ -5,7 +5,7 @@ type: blog
 date: 2026-10-07T05:00:00+07:00
 draft: true
 ws_chat: 1536
-ws_msg: 21336
+ws_msg: 21356
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "5-kawasan-tekpen"]
 summary: "Pertanyaan Mas Hendra soal paham atau cuma ngeklik next bikin Ian sadar dia bucin di desain dan bikin materi, tapi gagal di kawasan manage dan evaluate."
@@ -28,13 +28,13 @@ Hendra gak marah, gak nyolot. Tipikal dia banget: nanya pendek, tapi langsung me
 
 Lu inget kan cerita gua soal Nadia? Murid kelas *batch* kemarin yang tiba-tiba ngilang tanpa jejak di minggu kelima? Gua pikir dia males. Gua pikir dia sibuk urusan kerjaan. Ternyata bukan, Sar. Masalahnya ada di gua yang bebal dan sok tahu soal gimana sebuah proses belajar harusnya dikelola. 
 
-Waktu ngerjain tugas kuliah S2 kita minggu ini tentang 5 Kawasan Teknologi Pembelajaran dari Seels & Richey (AECT), gua mendadak ngerasa lagi ditelanjangi sama teori akademis berumur puluhan tahun itu. 
+Waktu ngerjain tugas kuliah S2 gua minggu ini tentang 5 Kawasan Teknologi Pembelajaran dari Seels & Richey (AECT), gua mendadak ngerasa lagi ditelanjangi sama teori akademis berumur puluhan tahun itu. 
 
 ---
 
 ## 5 Kawasan Tekpen: Bukan Teori Hafalan Ujian, tapi *Workflow* Hidup-Mati Kelas Lu
 
-Jujur aja, waktu pertama kali baca modul kuliah kita soal lima kawasan teknologi pembelajaran (*Domain of Instructional Technology*), impresi pertama gua adalah: *alamaak, apalagi ini teori kering zaman baheula.* 
+Jujur aja, waktu pertama kali baca modul kuliah gua soal lima kawasan teknologi pembelajaran (*Domain of Instructional Technology*), impresi pertama gua adalah: *alamaak, apalagi ini teori kering zaman baheula.* 
 
 Tapi makin gua telaah, lima domain ini sebenarnya bukan sekadar bagan bundar-bundar yang lu hafalin buat ujian tesis. Ini tuh *blueprint workflow* dari sebuah ide kelas sampai ke tahap retrospeksi, biar kelas lu gak berakhir jadi bencana yang bikin *burnout*. 
 
@@ -83,7 +83,7 @@ Gua gagal total di ranah **Manage**: gua gagal mengelola komunikasi individual, 
 
 ## Refleksi Gua: Selesai itu Bukan Berarti Berhasil
 
-Nah, sekarang gua mau jawab tugas refleksi kuliah kita secara jujur tanpa tedeng aling-aling. Soal proyek kelas terakhir gua: tahap *Evaluation* gua beneran jalan, atau cuma sekadar selesai terus ditandai centang hijau?
+Nah, sekarang gua mau jawab tugas refleksi kuliah gua secara jujur tanpa tedeng aling-aling. Soal proyek kelas terakhir gua: tahap *Evaluation* gua beneran jalan, atau cuma sekadar selesai terus ditandai centang hijau?
 
 Jawabannya bikin gua malu sendiri: **Cuma selesai-tandai.** Titik.
 

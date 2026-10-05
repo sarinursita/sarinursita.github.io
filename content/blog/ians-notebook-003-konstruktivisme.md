@@ -5,7 +5,7 @@ type: blog
 date: 2026-10-09T05:00:00+07:00
 draft: true
 ws_chat: 1537
-ws_msg: 21338
+ws_msg: 21357
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "konstruktivisme"]
 summary: "Ian bedah teori konstruktivisme Piaget dan Vygotsky, lalu ngaku kelas korporatnya sendiri masih 80 persen guru-sentris dan dia pernah ngelempar murid ke kolam tanpa perancah."
@@ -26,7 +26,7 @@ Di situ gua makin muak sama ilusi kuno dalam dunia edukasi: ilusi bahwa kepala m
 
 ## Piaget, Perkakas Mental, dan Ilusi "Gua Mengajar Berarti Lu Belajar"
 
-Gara-gara drama slide 80 halaman itu, minggu ini gua ngebut baca ulang bab teori konstruktivisme buat tugas kuliah kita. Begitu buka tulisannya Jean Piaget, gua kayak ditampar bolak-balik.
+Gara-gara drama slide 80 halaman itu, minggu ini gua ngebut baca ulang bab teori konstruktivisme buat tugas kuliah gua. Begitu buka tulisannya Jean Piaget, gua kayak ditampar bolak-balik.
 
 Inti dari konstruktivisme itu sebenernya sederhana, tapi entah kenapa susah banget ditelen sama korporat atau guru-guru jadul: pengetahuan itu nggak bisa ditransfer mentah-mentah kayak lu *copy-paste file* dari *flashdisk* ke *hard disk*. Pengetahuan itu harus **dibangun sendiri** oleh si pembelajar di dalam kepalanya. Otak kita punya skema mental sendiri, peta realitas kita sendiri. Waktu ada informasi baru masuk, kita nggak langsung nelen itu bulet-bulet. Kita bakal ngecocokin, nabrakin, atau ngerombak skema lama kita biar hal baru itu masuk akal.
 
