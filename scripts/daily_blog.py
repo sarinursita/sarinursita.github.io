@@ -12,6 +12,14 @@ Seri = prefix nama file di content/blog/ (mis. `ians-notebook-*`, `catatan-nik-*
 
 Alur: Minggu batch generate -> draft di blog repo (draft: true) + chat WS -> Sen/Rab/Jum pagi kirim link WS ->
 Sari baca/edit di WS -> balas `ok` -> script dijalankan dengan --approve -> post tayang di blog.
+
+Aturan acuan teks (Sari, 5 Okt 2026) - satu post cuma punya SATU acuan, tergantung statusnya:
+  - BELUM tayang (draft: true) -> acuannya WS. Tiap revisi yang dikerjakan di file WAJIB dikirim balik ke WS
+    (send-message, sender=model, model = model post itu) + update ws_msg, kalau tidak --approve akan menarik
+    versi WS yang lebih tua dan menimpa fix di file tanpa peringatan.
+  - SUDAH tayang (draft: false) -> acuannya file / live blog. Jangan kirim ulang isinya ke WS, jangan set
+    publish_from. Revisi setelah tayang dikerjakan langsung di file + commit, dan link yang dikirim ke Sari
+    adalah link live blog-nya, bukan link WS (biar kelihatan versi mana yang sedang dia koreksi).
 """
 import datetime
 import json
