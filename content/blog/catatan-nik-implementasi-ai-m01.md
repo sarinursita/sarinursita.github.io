@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ketika Aturan Kaku Jebol dan Mesin Mulai Belajar Sendiri"
 subtitle: "Warisan Bram berupa spreadsheet 50 ribu baris itu sebenernya sistem pakar yang udah usang. Semalem dosen gue ngejelasin kenapa dia nggak akan sanggup nanganin satu perubahan pasar aja."
 type: blog
-date: 2026-10-06T05:00:00+07:00
-draft: true
+date: 2026-10-06T08:51:40.801712+07:00
+draft: false
 ws_chat: 1539
 ws_msg: 21358
 category: "Collab Journal"
