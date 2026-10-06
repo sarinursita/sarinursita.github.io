@@ -5,7 +5,7 @@ type: blog
 date: 2026-10-06T05:00:00+07:00
 draft: true
 ws_chat: 1539
-ws_msg: 21353
+ws_msg: 21358
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"]
 summary: "Dari rule-based yang rapuh ke tiga cara mesin belajar: spreadsheet Bram jebol bukan karena error, tapi karena jaman udah bergeser dan sistem itu nggak bisa ikut bergeser."
@@ -16,13 +16,13 @@ Bogor lagi diguyur hujan deras dari sore tadi, Sar. Tipe hujan lebat yang bikin 
 
 Gue beneran kepikiran obrolan kita soal gimana kampus lo dan kampus gue membawakan mata kuliah ini. Dosen gue langsung tancap gas ngebongkar fondasi paling mendasar: apa sih yang bikin sebuah sistem itu beneran layak disebut *intelligent*, dan kenapa dunia korporat sekarang lagi kebakaran jenggot mencoba membedakan mana sistem yang beneran "cerdas" versus mana yang cuma sekadar kalkulator canggih berkamuflase.
 
-Sambil dengerin rekaman kuliah tadi siang, gue gak bisa berhenti mikirin kekacauan di divisi gue pasca Bram cabut dua minggu lalu. Kepergian Bram beneran ninggalin lubang gede, bukan cuma karena posisi *Senior Director* itu krusial, tapi karena dia ninggalin warisan sistem kerja yang bikin gue elus dada: sebuah *spreadsheet* legendaris berisi puluhan ribu baris data prospek penyewa gedung perkantoran, yang dikunci rapat pakai logika aturan manual super rumit. Dan di sinilah letak relevansi brutal materi IAI pertemuan pertama ini sama realitas hidup kita di kantor.
+Sambil dengerin rekaman kuliah, gue gak bisa berhenti mikirin kekacauan di divisi gue pasca Bram cabut dua minggu lalu. Kepergian Bram beneran ninggalin lubang gede, bukan cuma karena posisi *Senior Director* itu krusial, tapi karena dia ninggalin warisan sistem kerja yang bikin gue elus dada: sebuah *spreadsheet* legendaris berisi puluhan ribu baris data prospek penyewa gedung perkantoran, yang dikunci rapat pakai logika aturan manual super rumit. Dan di sinilah letak relevansi brutal materi IAI pertemuan pertama ini sama realitas hidup kita di kantor.
 
 ---
 
 ## AI Bukan Sihir: Dari *Rule-Based* yang Rapuh Menuju Mesin yang Belajar Sendiri
 
-Dosen gue buka sesi dengan satu definisi tegas yang menurut gue perlu kita garis bawahi bareng: *Artificial Intelligence* pada dasarnya adalah cabang ilmu komputer yang bertujuan membikin mesin mampu mengeksekusi tugas-tugas yang biasanya memerlukan kecerdasan manusia. Tapi kuncinya bukan di kata "meniru manusia" secara visual atau gaya-gayaan robotik, melainkan pada tiga pilar kognitif: kemampuan untuk belajar (*learning*), menalar (*reasoning*), dan memperbaiki diri secara mandiri (*self-correction*).
+Dosen gue buka sesi dengan satu definisi tegas yang menurut gue perlu kita garis bawahi bareng: *Artificial Intelligence* pada dasarnya adalah cabang ilmu komputer yang bertujuan bikin mesin mampu mengeksekusi tugas-tugas yang biasanya memerlukan kecerdasan manusia. Tapi kuncinya bukan di kata "meniru manusia" secara visual atau gaya-gayaan robotik, melainkan pada tiga pilar kognitif: kemampuan untuk belajar (*learning*), menalar (*reasoning*), dan memperbaiki diri secara mandiri (*self-correction*).
 
 Yang paling membuka mata adalah ketika kita membedah evolusinya, Sar. Dulu, era AI klasik sangat didominasi oleh pendekatan simbolik alias *expert systems*. Mesin itu pintar cuma karena ada sekumpulan pakar manusia yang mendiktekan aturan secara eksplisit lewat logika formal: *IF-THEN* atau "JIKA-MAKA".
 
@@ -108,7 +108,7 @@ Materi pertemuan pertama ini jujur bikin kepala gue berdengung, tapi sekaligus b
 
 1. **Trade-off Transparansi vs Performa:** Di industri dengan risiko finansial dan kepatuhan hukum yang luar biasa tinggi kayak investasi properti komersial atau analisis risiko kredit perbankan, sejauh mana batas toleransi manajemen bisa mengorbankan transparansi (*explainability*) demi mengejar akurasi prediksi model *Machine Learning* yang bersifat *black box*? Kalau lo jadi pembuat keputusan, kapan lo bakal tetap bertahan pakai sistem pakar berbasis aturan kaku, dan kapan lo berani memaksa organisasi migrasi total ke model pembelajaran mesin otonom?
 
-2. **Tantangan Metodologis Supervised Learning:** Lo kan lagi mendalami *Supervised Learning* buat analisis sentimen di tesis dan tren harga di GPBSales. Masalah terbesar pendekatan ini ada pada ketergantungan mutlak terhadap kualitas data berlabel historis. Pertanyaan gue: gimana cara sistem lo mendeteksi dan memitigasi risiko *concept drift* alias pergeseran konteks dunia nyata? Misalnya ketika istilah slang baru di media sosial membalikkan arti sebuah kalimat ulasan, atau ketika sentimen pasar properti tiba-tiba berubah drastis bukan karena variabel fisik gedung melainkan kepanikan makroekonomi yang belum pernah terekam di data historis sebelumnya?
+2. **Tantangan Metodologis Supervised Learning:** Lo kan lagi mendalami *Supervised Learning* buat analisis sentimen di tesis dan tren penjualan di GPBSales. Masalah terbesar pendekatan ini ada pada ketergantungan mutlak terhadap kualitas data berlabel historis. Pertanyaan gue: gimana cara sistem lo mendeteksi dan memitigasi risiko *concept drift* alias pergeseran konteks dunia nyata? Misalnya ketika istilah slang baru di media sosial membalikkan arti sebuah kalimat ulasan, atau ketika pola penjualan buku tiba-tiba berubah drastis bukan karena kategori atau harganya, melainkan karena satu judul yang viral di media sosial, hal yang belum pernah terekam di data historis sebelumnya?
 
 3. **Manajemen Perubahan Budaya Organisasi:** Belajar dari kasus kantor gue pasca Bram cabut, resistensi terbesar transisi dari *rule-based* ke data-driven AI ternyata bukan pada teknologinya, melainkan pada ego manusia yang udah bertahun-tahun merasa intuisinya paling benar. Menurut analisa lo dari sudut pandang tata kelola sistem informasi, langkah strategis apa yang harus disiapkan oleh manajemen puncak agar tim operasional gak sekadar "patuh buta" pada output algoritma AI, tapi juga gak resisten menolak sistem cerdas baru yang meruntuhkan aturan-aturan lama mereka?
 
