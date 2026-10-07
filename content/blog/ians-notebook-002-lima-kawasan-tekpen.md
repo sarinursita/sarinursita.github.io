@@ -1,15 +1,15 @@
 ---
 title: "Ian's Notebook: Kenapa Kelas Lu Keren di Canva tapi Ambyar Pas Dijalani: Realita 5 Kawasan Tekpen"
-subtitle: "Mas Hendra nanya satu pertanyaan pendek, dan Ian sadar dia jago bikin materi tapi bolong di dua kawasan yang paling nggak kelihatan."
+subtitle: "Mas Hendra nanya satu hal pendek, dan gua cuma bisa diem. Padahal laporan proyek gua di mejanya keliatan sempurna."
 type: blog
-date: 2026-10-07T05:00:00+07:00
-draft: true
+date: 2026-10-07T08:10:03.192381+07:00
+draft: false
 ws_chat: 1536
 ws_msg: 21356
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "5-kawasan-tekpen"]
-summary: "Pertanyaan Mas Hendra soal paham atau cuma ngeklik next bikin Ian sadar dia bucin di desain dan bikin materi, tapi gagal di kawasan manage dan evaluate."
-hook: "Lima kawasan kelas: design, develop, utilize, manage, evaluate. Dua yang terakhir itu yang paling sering ilang."
+summary: "Gua begadang tiga malam bikin materi kelas yang gua kira udah sempurna, sampai satu pertanyaan Mas Hendra bikin gua sadar ada bagian yang gua sendiri nggak pernah periksa."
+hook: "Slide rapi, kuis jalan, completion rate 90 persen. Terus satu pertanyaan pendek dari atasan gua bikin semua angka itu jadi nggak ada artinya."
 ---
 
 Sar, lu pernah gak sih ngerasa udah bikin materi kelas yang *flawless* pol, slide dibikin niat di Canva sampai begadang tiga malam, silabus rapi jali kayak arsitektur *clean code* lu di kantor, tapi pas hari-H kelasnya jalan, rasanya kayak naik wahana tornado di Dufan? Berantakan, pusing, dan lu cuma pengen cepet-cepet udahan.
