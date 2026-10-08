@@ -1,16 +1,19 @@
 ---
 title: "Catatan Nik: SCBD Panic Attack"
-subtitle: "Manajemen pusat bilang sistem enterprise kita yang ngurus semuanya. Seminggu kemudian tim marketing kayak ayam kehilangan induk."
+subtitle: "Manajemen pusat bilang sistem enterprise bakal ngurus semuanya. Seminggu kemudian tim marketing kayak ayam kehilangan induk, dan gue baru paham kenapa sembilan karakteristik sistem itu harus jalan semua."
 type: blog
 date: 2026-10-08T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1540
 ws_msg: 21344
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "smart-information-system"]
-summary: "Sistem mahal kita punya sembilan karakteristik, dan yang paling sering dilupain ada di ujung: feedback. Buktinya, pas Bram pergi, sistem diem aja."
-hook: "Sistem enterprise nggak bisa gantiin orang yang pergi. Kantor Nik belajar itu dengan cara yang pahit."
+summary: "CRM sewa gedung SCBD tiba-tiba gak berguna pas Bram cabut. Bukan karena aplikasinya rusak, tapi karena empat pilar sistem informasinya pincang sejak awal."
+hook: "Enterprise system tidak bisa gantiin orang yang pergi. Kantor Nik belajar itu dengan cara yang pahit."
+publish_from: file
 ---
+
+# SCBD Panic Attack: Kenapa CRM Mewah Kita Mendadak Gak Berguna Pas Bram Cabut?
 
 Sar, lo pernah gak sih ngerasa sistem kerja di kantor lo tuh sebenernya cuma ilusi? Kayak panggung sandiwara yang keliatannya megah, rapi, dan canggih, tapi begitu satu tiang utamanya roboh, seluruh gedungnya langsung goyah?
 
@@ -18,7 +21,7 @@ Gue nulis ini jam sembilan malam dari meja kerja gue di Bogor. Di luar hujan lag
 
 Lo inget kan cerita gue soal Bram di postingan pertama kemarin? Pas dia *resign*, manajemen pusat di Singapura santai banget bilang, *"Don't worry, our enterprise system will take care of everything."* Alah, omong kosong korporat! Kenyataannya minggu ini tim *marketing* bener-bener kayak ayam kehilangan induk. Klien korporat kelas kakap pada komplain karena *follow-up* lambat, data valuasi gedung perkantoran di TB Simatupang tumpang tindih, dan *leads* premium senilai miliaran rupiah mendadak lenyap ditelan bumi.
 
-Sialnya, ini barengan banget sama kuliah perdana kita di mata kuliah *Smart Information System* (SIS) kemarin. Pas dosen gue mulai ngebongkar definisi sistem informasi sampai pengantar *Artificial Intelligence*, kepala gue langsung kayak ditampar bolak-balik. Gue baru sadar, kantor gue bukan kekurangan aplikasi mahal, tapi kita gagal paham esensi dari apa itu sistem, apalagi yang namanya Sistem Informasi Cerdas (*Smart Information System* atau SIC).
+Sialnya, ini barengan banget sama kuliah perdana gue di mata kuliah *Smart Information System* (SIS) kemarin. Pas dosen gue mulai ngebongkar definisi sistem informasi sampai pengantar *Artificial Intelligence*, kepala gue langsung kayak ditampar bolak-balik. Gue baru sadar, kantor gue bukan kekurangan aplikasi mahal, tapi kita gagal paham esensi dari apa itu sistem, apalagi yang namanya Sistem Informasi Cerdas (*Smart Information System* atau SIC).
 
 Duduk manis dulu, Sar. Seduh *chamomile tea* lo, karena catatan kuliah perdana ini bakal gue bedah tuntas pakai studi kasus kekacauan kantor gue sendiri.
 
@@ -40,7 +43,7 @@ Sistem itu punya sembilan karakteristik dasar, Sar. Kalau satu aja pincang, jang
 8. **Sasaran (*Objective/Goal*):** Target akhir yang mau dicapai. Sasaran kantor gue jelas: *closing deal* penyewaan ruang kantor dengan komisi setinggi-tingginya dan retensi klien jangka panjang.
 9. **Umpan Balik (*Feedback*):** Mekanisme evaluasi buat ngeliat apakah *output* udah sesuai sama sasaran. Pas klien nolak penawaran kita karena harganya kemahalan dibanding kondisi pasar riil, itu *feedback* yang harusnya langsung ngubah strategi masukan dan pengolahan kita.
 
-Nah, selain sembilan karakteristik itu, kita juga diajarin soal enam blok pembangun (*building blocks*) sistem informasi konvensional: **blok masukan**, **blok model**, **blok keluaran**, **blok teknologi**, **blok basis data**, dan **blok kendali**.
+Nah, selain sembilan karakteristik itu, gue juga diajarin soal enam blok pembangun (*building blocks*) sistem informasi konvensional: **blok masukan**, **blok model**, **blok keluaran**, **blok teknologi**, **blok basis data**, dan **blok kendali**.
 
 Kekacauan pasca Bram cabut kemarin ngebuktiin kalau **blok kendali** (*control block*) dan **blok model** di kantor gue bobrok parah. Blok model yang dipake di sistem CRM kita ternyata terlalu kaku, sementara blok kendalinya gak jalan karena selama ini Bram yang megang *approval* manual buat semua kalkulasi diskon sewa gedung. Begitu orangnya ilang, sistemnya langsung lumpuh.
 
@@ -88,7 +91,7 @@ Secara umum, cabang-cabang AI yang terus berkembang sampai saat ini meliputi:
 
 ## Bedah Anatomi: Sistem Informasi Cerdas (SIC) vs SI Konvensional
 
-Ini poin daging dari kuliah perdana kita, Sar, dan tolong lo catat baik-baik karena ini bakal jadi fondasi kita buat sembilan modul ke depan!
+Ini poin daging dari kuliah perdana gue, Sar, dan tolong lo catat baik-baik karena ini bakal jadi fondasi buat sembilan modul ke depan!
 
 Dosen gue ngasih komparasi yang telak banget antara SI Konvensional sama Sistem Informasi Cerdas (SIC). Kalau SI konvensional itu sifatnya deterministik, kaku, dan cuma jalan berdasarkan aturan logika sederhana (*if-then* statis), SIC punya kemampuan jauh lebih superior:
 
@@ -116,17 +119,17 @@ Penerapan SIC ini udah nyata banget di berbagai sektor lain:
 
 ---
 
-## Catatan Tambahan: Fondasi Buat Modul-Modul Kita Berikutnya
+## Catatan Tambahan: Fondasi Buat Modul-Modul Berikutnya
 
-Satu hal penting yang digarisbawahi sama dosen gue di akhir kelas: Modul 1 ini adalah payung besar buat seluruh perjalanan belajar kita di mata kuliah SIS. Sembilan modul ke depan yang bakal kita pelajari bareng, mulai dari *expert system*, *forward/backward chaining* (CF/FC), *fuzzy logic*, *neural network*, *Decision Support System* (DSS), sampai *Multi-Attribute Decision Making* (MADM), itu semua gak lain adalah variasi metode komputasi buat ngebangun komponen-komponen SIC yang gue sebutin tadi.
+Satu hal penting yang digarisbawahi sama dosen gue di akhir kelas: Modul 1 ini adalah payung besar buat seluruh perjalanan belajar di mata kuliah SIS. Sembilan modul ke depan yang bakal dipelajari bareng, mulai dari *expert system*, *forward/backward chaining* (CF/FC), *fuzzy logic*, *neural network*, *Decision Support System* (DSS), sampai *Multi-Attribute Decision Making* (MADM), itu semua gak lain adalah variasi metode komputasi buat ngebangun komponen-komponen SIC yang gue sebutin tadi.
 
-Jadi kalau fondasi konseptual kita di modul pengantar ini udah kokoh, ntar pas masuk ke rumus-rumus inferensi yang njelimet, kita gak bakal gampang oleng, Sar. Kita udah tau posisi modul itu ada di bagian mana dari arsitektur besar sistem cerdas.
+Jadi kalau fondasi konseptual di modul pengantar ini udah kokoh, ntar pas masuk ke rumus-rumus inferensi yang njelimet, kita gak bakal gampang oleng, Sar. Kita udah tau posisi modul itu ada di bagian mana dari arsitektur besar sistem cerdas.
 
 ---
 
 ## Food for Thoughts: Latihan Analisis Buat Lo
 
-Nah, berhubung lo adalah *study partner* terbaik gue yang selalu punya sudut pandang tajam dan kritis, gue mau ngasih beberapa pemikiran buat lo ulik di tulisan lo berikutnya. Anggap aja ini pemanasan otak sebelum kita dihajar kuis minggu depan:
+Nah, berhubung lo adalah *study partner* terbaik gue yang selalu punya sudut pandang tajam dan kritis, gue mau ngasih beberapa pemikiran buat lo ulik di tulisan lo berikutnya. Anggap aja ini pemanasan otak sebelum lo dihajar kuis minggu depan:
 
 1. Kalau lo bedah organisasi kampus lo atau tempat kerja lo saat ini pake kacamata **Empat Pilar SI (Manusia, Prosedur, Data, Teknologi)**, pilar mana yang posisinya paling timpang dan rentan roboh kayak kasus kantor konsultan properti gue pas ditinggal Bram? Apa mitigasi paling realistis yang bisa dilakuin tanpa harus ngeluarin biaya sistem ratusan juta?
 2. Dari enam komponen Sistem Informasi Cerdas (SIC), menurut lo komponen mana yang paling menantang buat dibangun kalau kita mau nerapin SIC di industri yang sarat intuisi dan negosiasi manusia kayak pasar properti atau layanan jasa B2B? Kenapa?
