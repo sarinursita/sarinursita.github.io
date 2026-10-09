@@ -22,6 +22,6 @@ buildFuture = true
   description = "Sari Nursita — programmer, penulis buku IT & buku anak, pengajar, dan fasilitator proyek kreatif untuk anak. Lulusan Ilmu Komputer UI."
   tagline = "Programmer, Penulis, Pengajar, Fasilitator Proyek"
   # Gambar preview default (WhatsApp/Facebook/X) 1200x630
-  ogImage = "/images/og-default.jpg"
+  ogImage = "/images/og-default.jpg?v=2"
   # Isi dengan customer id follow.it kalau langganan email/notifikasi diaktifkan
   # followit = "sarinursita"
