@@ -3,7 +3,7 @@ title: "Catatan Nik: Jangan Sampai Tesis Lo Cuma Jadi Bahan Rapat yang Berujung 
 subtitle: "Town hall darurat kemarin isinya orang-orang pinter lempar asumsi tanpa data. Dan dosen metpen gue semalem ngejelasin kenapa itu masalah, bahkan di ruang rapat."
 type: blog
 date: 2026-10-09T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1541
 ws_msg: 21354
 category: "Collab Journal"
@@ -12,13 +12,13 @@ summary: "Di kantor, semua orang punya pendapat. Tapi mana yang ilmiah dan mana 
 hook: "Rapat darurat penuh asumsi, nol data. Nik bahas kenapa 'kata gue sih' nggak pernah cukup, bahkan di ruang rapat."
 ---
 
-Bogor sore ini beneran lagi syahdu banget, Sar. Hujan dari jam dua siang belum berhenti, bikin hawa kamar kerja gue dinginnya ngalahin AC sentral lantai 28 kantor kita di SCBD. Untung hari ini jadwal gue *full* WFH, jadi gue gak perlu basah-kuyup ngejar KRL atau desak-desakan di Stasiun Sudirman. Dylan juga baru ngabarin lewat telepon asrama kalau kegiatan *outdoor* sekolahnya dibatalin gara-gara lapangan becek. Jadi ya, rumah beneran hening, cuma ada suara air hujan sama *playlist* lo-fi yang nemenin gue ngetik catatan ini buat lo.
+Sore di Bogor sudah mulai gelap, Sar, dan rumah beneran hening. Dylan baru ngabarin lewat telepon asrama kalau kegiatan *outdoor* sekolahnya dibatalin, jadi gue tinggal ditemenin *playlist* lo-fi sama laptop yang masih nyala dari tadi. Untung hari ini jadwal gue *full* WFH, jadi gue bisa langsung ngetik catatan ini buat lo tanpa buru-buru pulang.
 
 Ngomong-ngomong soal kuliah perdana Metpen alias Metode Penelitian kemarin malam, jujur kepala gue rasanya langsung kayak abis diterpa angin ribut. Waktu dosen gue ngebahas *slide* pertama tentang hakikat penelitian ilmiah, pikiran gue langsung lari ke drama kantor minggu ini. Lo tau sendiri kan, semenjak Bram cabut dari kursi *Senior Director*, lantai 28 itu suasananya kayak kapal kehilangan kompas. 
 
 Kemarin lusa ada *town hall meeting* darurat. Tim *board* heboh nanya kenapa performa penjualan unit komersial kita anjlok parah di kuartal ini. Dan tebak apa yang terjadi? Semuanya sibuk lempar opini yang bener-bener gak berdasar. Ada yang bilang klien kabur gara-gara kebijakan WFH marketing associate kayak gue bikin kita gak responsif. Ada lagi yang nyeletuk kalau pasarnya lagi jenuh. Gak ada satu pun dari mereka yang bawa data valid. Semuanya cuma modal *gut feeling*, gosip koridor, dan asumsi defensif biar pantat masing-masing aman.
 
-Di situ gue langsung mikir: gila ya, orang-orang korporat bergaji ratusan juta aja sering banget gagal membedakan mana ilusi masalah dan mana fakta empiris. Makanya pas dosen kita ngejelasin konsep dasar riset ilmiah, gue ngerasa ini bukan cuma materi kuliah buat syarat lulus tesis S2 Manajemen Sistem Informasi. Ini tuh *survival skill* biar otak kita gak gampang dibodoh-bodohi sama intuisi kosong, baik di dunia akademik maupun di meja rapat manajemen.
+Di situ gue langsung mikir: gila ya, orang-orang korporat bergaji ratusan juta aja sering banget gagal membedakan mana ilusi masalah dan mana fakta empiris. Makanya pas dosen gue ngejelasin konsep dasar riset ilmiah, gue ngerasa ini bukan cuma materi kuliah buat syarat lulus tesis S2 Manajemen Sistem Informasi. Ini tuh *survival skill* biar otak kita gak gampang dibodoh-bodohi sama intuisi kosong, baik di dunia akademik maupun di meja rapat manajemen.
 
 ---
 
@@ -55,7 +55,7 @@ Kalau ketujuh hal ini lo pegang erat, lo gak bakal gampang terjebak bikin tulisa
 
 ## Mau Nyari Apa Sih Sebenarnya? Memahami 4 Tujuan Penelitian
 
-Di kelas kemarin, kita juga diingetin kalau setiap kali lo mau bikin riset, lo harus punya *clarity* soal apa ujung dari perjalanan akademis lo. Secara garis besar, tujuan penelitian itu terbagi jadi empat kategori utama, dan serunya, satu penelitian di ranah sistem informasi bisa banget nggabungin lebih dari satu tujuan:
+Di kelas kemarin, gue juga diingetin kalau setiap kali lo mau bikin riset, lo harus punya *clarity* soal apa ujung dari perjalanan akademis lo. Secara garis besar, tujuan penelitian itu terbagi jadi empat kategori utama, dan serunya, satu penelitian di ranah sistem informasi bisa banget nggabungin lebih dari satu tujuan:
 
 * **Eksploratif (Menemukan Hal Baru)**
 Ini lo lakukan kalau lo lagi ngadepin topik atau area yang masih sangat minim literatur dan belum banyak dijamah orang. Tujuannya buat menggali pemahaman awal. Misalnya, pas awal-awal teknologi *generative AI* masuk ke industri konsultasi properti dan belum ada kerangka kerja adopsinya, penelitian eksploratif bakal berguna banget buat memetakan pola-pola awal perilaku *user*.
@@ -64,7 +64,7 @@ Ini lo lakukan kalau lo lagi ngadepin topik atau area yang masih sangat minim li
 Tujuan ini fokus buat mendeskripsikan karakteristik suatu populasi, situasi, atau fenomena secara akurat dan terstruktur. Lo gak lagi nyari sebab-akibat yang rumit di sini, melainkan ngejawab pertanyaan apa, siapa, di mana, dan kapan. Misalnya lo mau memetakan profil demografi dan pola penggunaan sistem informasi manajemen aset oleh agen properti di area Jabodetabek. Hasilnya adalah potret komprehensif tentang realitas lapangan.
 
 * **Verifikatif (Menguji Teori)**
-Nah, ini ranah yang paling sering kita temui di jurnal-jurnal S2 MSI. Lo punya teori yang udah mapan, katakanlah teori adopsi teknologi kayak *Technology Acceptance Model* (TAM) atau UTAUT, terus lo mau uji apakah variabel *perceived usefulness* beneran mempengaruhi niat orang buat pake sistem baru di lingkungan kerja lo. Lo ngumpulin data buat memverifikasi apakah teori tersebut masih berlaku di konteks yang spesifik.
+Nah, ini ranah yang paling sering muncul di jurnal-jurnal S2 MSI. Lo punya teori yang udah mapan, katakanlah teori adopsi teknologi kayak *Technology Acceptance Model* (TAM) atau UTAUT, terus lo mau uji apakah variabel *perceived usefulness* beneran mempengaruhi niat orang buat pake sistem baru di lingkungan kerja lo. Lo ngumpulin data buat memverifikasi apakah teori tersebut masih berlaku di konteks yang spesifik.
 
 * **Developmental (Menghasilkan Produk atau Model)**
 Penelitian tipe ini tujuannya mengembangkan atau menyempurnakan suatu artefak, baik itu berupa sistem, aplikasi, model tata kelola, *framework* mitigasi risiko, sampai arsitektur sistem informasi enterprise. Biasanya kalau anak MSI yang ngerjain ini, risetnya berujung pada purwarupa sistem atau model konseptual baru yang dievaluasi kelayakannya buat memecahkan problem industri.
@@ -75,9 +75,9 @@ Lo harus tau betul lo ada di kuadran mana sebelum mulai nulis proposal. Banyak m
 
 ## Memilih Senjata: Dasar vs Terapan, Kuantitatif vs Kualitatif
 
-Lanjut ke klasifikasi berikutnya, kita juga diajak ngebongkar peta jalan metodologis lewat tiga lensa pembeda yang sangat krusial.
+Lanjut ke klasifikasi berikutnya, gue juga diajak ngebongkar peta jalan metodologis lewat tiga lensa pembeda yang sangat krusial.
 
-Pertama, dari segi tujuannya, penelitian dibedakan jadi **Penelitian Dasar (*Basic/Pure Research*)** dan **Penelitian Terapan (*Applied Research*)**. Penelitian dasar itu fokusnya murni buat memperluas batas ilmu pengetahuan, ngebangun teori konseptual baru tanpa mikirin aplikasi praktisnya secara langsung hari ini. Sedangkan kita di S2 Manajemen Sistem Informasi, hampir sembilan puluh persen kiblatnya adalah penelitian terapan. Kita meneliti buat nyari solusi nyata atas masalah konkret yang dihadapi organisasi, bisnis, atau masyarakat lewat intervensi teknologi dan tata kelola sistem informasi.
+Pertama, dari segi tujuannya, penelitian dibedakan jadi **Penelitian Dasar (*Basic/Pure Research*)** dan **Penelitian Terapan (*Applied Research*)**. Penelitian dasar itu fokusnya murni buat memperluas batas ilmu pengetahuan, ngebangun teori konseptual baru tanpa mikirin aplikasi praktisnya secara langsung hari ini. Sedangkan di S2 Manajemen Sistem Informasi, hampir sembilan puluh persen kiblatnya adalah penelitian terapan: nyari solusi nyata atas masalah konkret yang dihadapi organisasi, bisnis, atau masyarakat lewat intervensi teknologi dan tata kelola sistem informasi.
 
 Kedua, dari sisi pendekatannya:
 * **Kuantitatif:** Berangkat dari paradigma positivisme. Segala sesuatu harus bisa diukur dengan angka, variabelnya terdefinisi ketat, instrumennya terstruktur (seperti kuesioner skala Likert), dan analisisnya ngandelin olah data statistik buat uji hipotesis. Pendekatan ini keren banget buat nyari pola umum, menguji hubungan kausal antar-variabel, dan bikin generalisasi.
@@ -126,9 +126,9 @@ Dengan alur kayak gitu, tesis lo langsung punya pijakan yang kokoh. Lo gak cuma 
 
 ## *Food for Thoughts*: Giliran Lo yang Bedah Ini
 
-Gue gamau cuma gue yang ngoceh panjang lebar. Karena kita udah sepakat collab journal ini tujuannya buat saling mengasah otak biar tesis kita selesai tepat waktu dan dapet nilai A, sekarang giliran lo yang mikir dan kasih gue analisis balik di tulisan lo berikutnya.
+Gue gamau cuma gue yang ngoceh panjang lebar. Karena kita udah sepakat collab journal ini tujuannya buat saling mengasah otak biar tesis lo dan gue selesai tepat waktu dan dapet nilai A, sekarang giliran lo yang mikir dan kasih gue analisis balik di tulisan lo berikutnya.
 
-Coba lo bedah dua skenario ini pake konsep metpen yang barusan kita bahas:
+Coba lo bedah dua skenario ini pake konsep metpen yang barusan gue bahas:
 
 1. **Kasus Drama SCBD:**
 Kalau lo ditunjuk jadi konsultan eksternal MSI buat nanganin krisis hilangnya data relasi klien pasca Bram cabut dari kantor gue, pendekatan penelitian apa yang bakal lo ambil buat mendiagnosis masalah adopsi CRM di tim gue? Apakah lo bakal pake pendekatan kuantitatif (sebar survei adopsi teknologi ke seluruh *associate*) atau kualitatif (studi kasus lewat *in-depth interview* ke tim manajemen dan agen senior)? Kasih argumen metodologis yang kuat kenapa lo milih pendekatan itu.
@@ -140,7 +140,7 @@ Coba lo tuliskan satu alur lengkap buat rencana tesis lo:
 * Formulasikan 1 **Rumusan Masalah** utama dalam bentuk kalimat tanya yang tajam, terukur, dan gak multitafsir.
 * Tentukan apa **Tujuan Penelitian** lo, dan sebutkan masuk ke kategori mana tujuan riset lo itu (apakah eksploratif, deskriptif, verifikatif, atau developmental).
 
-Hujan di luar makin deras, Sar, dan jam dinding gue udah nunjukin pukul setengah enam sore. Gue mau bikin teh hangat dulu sambil nunggu Dylan telepon lagi buat ngecek kabar sore ini.
+Jam dinding gue udah nunjukin setengah enam sore, Sar. Gue mau bikin teh hangat dulu sambil nunggu Dylan telepon lagi buat ngecek kabar sore ini.
 
 Gue bener-bener penasaran gimana lo bakal ngebedah dua tantangan di atas pake perspektif lo. Jangan bikin gue nunggu kelamaan ya!
 
