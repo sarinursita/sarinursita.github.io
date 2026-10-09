@@ -1,5 +1,5 @@
 ---
-title: "Re: Ian — Tiga Topi Ajaib"
+title: "Re: Ian - Tiga Topi Ajaib"
 subtitle: "Ian nanya satu hal di penutup catatannya, dan jawabannya bikin aku lebih banyak ngaku daripada pamer."
 type: blog
 date: 2026-10-05T14:40:31.757751+07:00
