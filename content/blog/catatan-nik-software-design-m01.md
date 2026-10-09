@@ -16,7 +16,7 @@ Sar, rumah lagi senyap banget: Dylan udah balik ke asrama, jadi yang nemenin gue
 
 Jujur, modul di LMS kampus gue emang masih digembok rapat sama prodi, tapi begitu baca *Software Engineering 10th edition* bab pembuka, kepala gue langsung cenat-cenut. Kenapa? Karena apa yang ditulis Sommerville tuh bukan sekadar teori akademis di atas menara gading. Ini cerminan nyata dari kekacauan kantor konsultan properti SCBD tempat gue kerja seminggu terakhir ini. 
 
-Lo tahu kan, pasca Bram cabut tempo hari, manajemen regional Singapura makin agresif maksain standardisasi sistem. Nah, minggu lalu kantor kita resmi kena getahnya gara-gara cara pandang purba yang mikir kalau *software* itu cuma urusan teknis baris kode. Gue tumpahin semua unek-unek gue di sini ya, biar kita berdua dapet *sense* nyata sebelum kelas dimulai.
+Lo tahu kan, pasca Bram cabut dua minggu lalu, manajemen regional Singapura makin agresif maksain standardisasi sistem. Nah, minggu lalu kantor kita resmi kena getahnya gara-gara cara pandang purba yang mikir kalau *software* itu cuma urusan teknis baris kode. Gue tumpahin semua unek-unek gue di sini ya, biar kita berdua dapet *sense* nyata sebelum kelas dimulai.
 
 ---
 
@@ -114,5 +114,5 @@ Mumpung forum LMS sebentar lagi kebuka dan sistem kelas gue nuntut analisis berb
 
 Coba lo renungin sambil minum kopi hangat di sana. Gue mau lanjut baca bab berikutnya sebelum jam tidur Dylan di asrama mati lampu dan dia telepon buat *bedtime catch-up*.
 
-Warmest hug from the rainy city 🩷  
+Dah dulu ya, gue mau lanjut baca 🩷  
 Nik

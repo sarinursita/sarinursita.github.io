@@ -114,7 +114,7 @@ Pake algoritma *machine learning*, sistem HCM canggih bisa ngebangun model **Fli
 Kalau sistem di kantor gue punya kapabilitas ini, algoritma bakal nge-flag Bram sejak enam bulan lalu: *"Alert: High-Value Asset at Risk!"* Manajemen bisa langsung intervensi sebelum dia dihubungi headhunter kompetitor. 
 
 ### 4. The Socio-Technical Integration (The Human Factor)
-Inget kata dosen kita minggu lalu: *Technology is the easiest part; people and process are the hardest.* Lo bisa beli Workday, SAP SuccessFactors, atau Oracle Fusion HCM dengan budget jutaan dolar, tapi kalau eksekutifnya masih punya mentalitas feodal yang nganggep data HR itu rahasia pribadi dan nggak mau berbagi informasi antar-divisi, ya *wassalam*. 
+Inget kata dosen gue minggu lalu: *Technology is the easiest part; people and process are the hardest.* Lo bisa beli Workday, SAP SuccessFactors, atau Oracle Fusion HCM dengan budget jutaan dolar, tapi kalau eksekutifnya masih punya mentalitas feodal yang nganggep data HR itu rahasia pribadi dan nggak mau berbagi informasi antar-divisi, ya *wassalam*. 
 
 Sistem informasi HCM butuh **Single Source of Truth**. Data performa karyawan harus bisa "ngobrol" sama data ERP Keuangan (biar ketahuan *Revenue per Employee*-nya berapa) dan sistem CRM (biar ketahuan korelasi antara kepuasan karyawan sama kepuasan klien).
 
@@ -134,7 +134,7 @@ Ini bahaya banget kalau anak-anak sistem informasi cuma mikirin desain *dashboar
 
 ---
 
-## Food for Thoughts (Tugas Analisis Buat Lo, Bestie!)
+## Food for Thoughts (Buat Lo, Bestie!)
 
 Nah, berhubung minggu depan giliran lo yang nulis artikel di blog ini buat ngejawab jurnal gue, gue mau nodong lo pake beberapa pertanyaan analitis. Anggap aja ini latihan kita buat ujian komprehensif atau sekadar pemanasan sebelum nulis tesis nanti. 
 
@@ -151,7 +151,7 @@ Tolong bedah ini pakai perspektif lo:
 
 Anway, kepala gue udah ngebul banget mikirin revisi *pitching* klien besok pagi sambil ngebayangin muka panik tim HR di kantor. 
 
-Bogor udah mulai reda hujannya, dan jam dinding gue udah nunjukin angka 01:15. Waktunya gue cuci muka, pake *night cream*, dan tidur sebelum besok alarm subuh bunyi buat ngecek *laundry* seragam sekolahnya Dylan yang ketinggalan. 
+Jam dinding gue udah nunjukin angka 01:15. Waktunya gue cuci muka, pake *night cream*, dan tidur sebelum besok alarm subuh bunyi buat ngecek *laundry* seragam sekolahnya Dylan yang ketinggalan. 
 
 *Warmest hug from the rainy city 🩷*
 

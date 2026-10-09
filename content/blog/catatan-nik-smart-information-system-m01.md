@@ -13,13 +13,11 @@ hook: "Enterprise system tidak bisa gantiin orang yang pergi. Kantor Nik belajar
 publish_from: file
 ---
 
-# SCBD Panic Attack: Kenapa CRM Mewah Kita Mendadak Gak Berguna Pas Bram Cabut?
-
 Sar, lo pernah gak sih ngerasa sistem kerja di kantor lo tuh sebenernya cuma ilusi? Kayak panggung sandiwara yang keliatannya megah, rapi, dan canggih, tapi begitu satu tiang utamanya roboh, seluruh gedungnya langsung goyah?
 
 Gue nulis ini jam sembilan malam dari meja kerja gue di Bogor. Di luar hujan lagi deras banget khas kota hujan, dan gue baru aja selesai teleponan singkat sama Dylan sebelum jam malam asramanya mulai. Dia lagi sibuk-sibuknya adaptasi sama jadwal belajar malam di *boarding school*, sementara emaknya di sini lagi pusing tujuh keliling ngadepin sisa-sisa badai di SCBD semenjak Bram resmi cabut. 
 
-Lo inget kan cerita gue soal Bram di postingan pertama kemarin? Pas dia *resign*, manajemen pusat di Singapura santai banget bilang, *"Don't worry, our enterprise system will take care of everything."* Alah, omong kosong korporat! Kenyataannya minggu ini tim *marketing* bener-bener kayak ayam kehilangan induk. Klien korporat kelas kakap pada komplain karena *follow-up* lambat, data valuasi gedung perkantoran di TB Simatupang tumpang tindih, dan *leads* premium senilai miliaran rupiah mendadak lenyap ditelan bumi.
+Lo inget kan cerita gue soal Bram di postingan pertama kita? Pas dia *resign*, manajemen pusat di Singapura santai banget bilang, *"Don't worry, our enterprise system will take care of everything."* Alah, omong kosong korporat! Kenyataannya minggu ini tim *marketing* bener-bener kayak ayam kehilangan induk. Klien korporat kelas kakap pada komplain karena *follow-up* lambat, data valuasi gedung perkantoran di TB Simatupang tumpang tindih, dan *leads* premium senilai miliaran rupiah mendadak lenyap ditelan bumi.
 
 Sialnya, ini barengan banget sama kuliah perdana gue di mata kuliah *Smart Information System* (SIS) kemarin. Pas dosen gue mulai ngebongkar definisi sistem informasi sampai pengantar *Artificial Intelligence*, kepala gue langsung kayak ditampar bolak-balik. Gue baru sadar, kantor gue bukan kekurangan aplikasi mahal, tapi kita gagal paham esensi dari apa itu sistem, apalagi yang namanya Sistem Informasi Cerdas (*Smart Information System* atau SIC).
 
@@ -45,7 +43,7 @@ Sistem itu punya sembilan karakteristik dasar, Sar. Kalau satu aja pincang, jang
 
 Nah, selain sembilan karakteristik itu, gue juga diajarin soal enam blok pembangun (*building blocks*) sistem informasi konvensional: **blok masukan**, **blok model**, **blok keluaran**, **blok teknologi**, **blok basis data**, dan **blok kendali**.
 
-Kekacauan pasca Bram cabut kemarin ngebuktiin kalau **blok kendali** (*control block*) dan **blok model** di kantor gue bobrok parah. Blok model yang dipake di sistem CRM kita ternyata terlalu kaku, sementara blok kendalinya gak jalan karena selama ini Bram yang megang *approval* manual buat semua kalkulasi diskon sewa gedung. Begitu orangnya ilang, sistemnya langsung lumpuh.
+Kekacauan pasca Bram cabut dua minggu lalu ngebuktiin kalau **blok kendali** (*control block*) dan **blok model** di kantor gue bobrok parah. Blok model yang dipake di sistem CRM kita ternyata terlalu kaku, sementara blok kendalinya gak jalan karena selama ini Bram yang megang *approval* manual buat semua kalkulasi diskon sewa gedung. Begitu orangnya ilang, sistemnya langsung lumpuh.
 
 ---
 
@@ -108,7 +106,7 @@ Nah, buat mencapai kemampuan sekeren itu, sebuah Sistem Informasi Cerdas punya e
 * **Basis Data Cerdas (*Smart/Intelligent Database*):** Tempat penyimpanan data terstruktur dan gak terstruktur yang dirancang khusus biar gampang diakses dan dianalisis sama mesin inferensi secara efisien.
 * **Subsistem Penjelasan (*Explanation Subsystem*):** Ini komponen paling krusial yang sering dilupakan! SIC gak boleh jadi kotak hitam (*black box*). Subsistem ini bertugas ngejelasin ke *user* alur logika di balik keputusan atau rekomendasinya: *"Kenapa harga sewa gedung A gue rekomendasikan turun 15%?"* Sistem harus bisa ngebeberin argumennya langkah demi langkah.
 
-Coba bayangin kalau kantor gue punya SIC dengan subsistem penjelasan yang matang pas Bram cabut kemarin. Sistem gak bakal mati kutu. Kalo sistem ngerekomendasiin harga diskon sewa buat klien konglomerat gue di Sudirman, sistem bisa jelasin alasannya: *"Diskon 10% disarankan karena data historis 5 tahun menunjukkan okupansi area ini turun tiap kuartal akhir, ditambah kompetitor baru di radius 1 kilometer menawarkan biaya servis lebih murah."* Direktur baru gak bakal ragu nge-approve keputusan, dan gue gak perlu lembur sampai malam begini buat ngubek-ubek arsip lama.
+Coba bayangin kalau kantor gue punya SIC dengan subsistem penjelasan yang matang pas Bram cabut dua minggu lalu. Sistem gak bakal mati kutu. Kalo sistem ngerekomendasiin harga diskon sewa buat klien konglomerat gue di Sudirman, sistem bisa jelasin alasannya: *"Diskon 10% disarankan karena data historis 5 tahun menunjukkan okupansi area ini turun tiap kuartal akhir, ditambah kompetitor baru di radius 1 kilometer menawarkan biaya servis lebih murah."* Direktur baru gak bakal ragu nge-approve keputusan, dan gue gak perlu lembur sampai malam begini buat ngubek-ubek arsip lama.
 
 Penerapan SIC ini udah nyata banget di berbagai sektor lain:
 * **Kesehatan:** Sistem diagnosis medis yang bisa deteksi kanker kulit dari citra foto dan ngejelasin faktor risiko apa aja yang mendasari hasil tersebut.
@@ -137,5 +135,5 @@ Nah, berhubung lo adalah *study partner* terbaik gue yang selalu punya sudut pan
 
 Gue tunggu banget tulisan lo, Sar. Jangan lupa rehat, jangan begadang mulu lo mentang-mentang lagi semangat belajar. Gue mau matiin laptop dulu, nyiapin seragam Dylan buat akhir pekan depan pas dia izin pulang dari asrama, terus rebahan.
 
-Warmest hug from the rainy city 🩷  
+Malam, Sar. Tidur yang nyenyak 🩷  
 Nik

@@ -101,8 +101,8 @@ Nah, ini dia inti sari dari seluruh pertemuan pertama kemarin, yang dosen gue ul
 Gue mau ngajak lo ngeliat alur baku yang wajib ada di kepala kita:
 **Fenomena Lapangan → Identifikasi Masalah → Rumusan Masalah (Pertanyaan Riset yang Tajam) → Tujuan Penelitian.**
 
-Kembali ke drama kantor gue pasca ditinggal Bram kemarin. Mari kita bedah pakai alur ini biar lo paham bedanya gosip sama riset:
-* **Fenomena:** Angka *closing deals* unit properti komersial SCBD merosot 40% dalam dua bulan terakhir setelah kepergian Bram, sementara laporan aktivitas harian di sistem CRM mencatat bahwa *leads* yang masuk tetap stabil.
+Kembali ke drama kantor gue pasca ditinggal Bram dua minggu lalu. Mari kita bedah pakai alur ini biar lo paham bedanya gosip sama riset:
+* **Fenomena:** Angka *closing deals* unit properti komersial SCBD merosot 40% dalam dua minggu terakhir setelah kepergian Bram, sementara laporan aktivitas harian di sistem CRM mencatat bahwa *leads* yang masuk tetap stabil.
 * **Identifikasi Masalah:** Apakah penurunan ini disebabkan oleh agen yang malas? Bukan. Pas gue telusuri *log*, ternyata data riwayat interaksi klien korporat kelas kakap selama ini cuma disimpan di *notes* pribadi Bram dan gak pernah diintegrasikan ke basis data CRM perusahaan. Ada resistensi agen junior dalam mengoperasikan modul negosiasi di sistem yang ada karena UI/UX-nya terlalu ribet. Sistem informasinya ada, tapi *knowledge transfer* dan adopsi fiturnya gagal total.
 * **Rumusan Masalah:** Sejauh mana efektivitas integrasi modul *knowledge management* pada sistem CRM dalam memitigasi risiko kehilangan aset relasional klien ketika terjadi pergantian level pimpinan eksekutif?
 * **Tujuan Penelitian:** Menganalisis dan merancang model integrasi *knowledge management* berbasis CRM yang adaptif untuk mencegah hilangnya jejak interaksi klien korporat pada konsultan properti internasional.
@@ -142,7 +142,5 @@ Coba lo tuliskan satu alur lengkap buat rencana tesis lo:
 
 Jam dinding gue udah nunjukin setengah enam sore, Sar. Gue mau bikin teh hangat dulu sambil nunggu Dylan telepon lagi buat ngecek kabar sore ini.
 
-Gue bener-bener penasaran gimana lo bakal ngebedah dua tantangan di atas pake perspektif lo. Jangan bikin gue nunggu kelamaan ya!
-
-Warmest hug from the rainy city 🩷  
+Teh gue udah siap. Met malem, Sar 🩷  
 Nik

@@ -131,6 +131,7 @@ Semua koreksi di bawah ini **dari Sari langsung**, dipakai sebagai acuan ke depa
 | #4 | 28-09 00:45 | Hapus meta-framing ("gue nggak mau nulis ala buku teks…", "dan ternyata itu masalah"); nuke em dash; subjudul menarik/clickbait; bahasa obrolan Jakarta (bukan "kerja hibrida"); sebut sisi gelap langsung; "Tugas kecil (2 menit)" → "Try it yourself"; hapus CTA maksa; hapus disclaimer persona. |
 | #5 | 28-09 00:56 | Bold + emoji wajib (jangan monoton); judul pertanyaan = "Menurut lo gmn? 🤔", "Try it yourself" untuk tugas; "panic"→"panik", "kerja campur"→"kerja hybrid"; summary jangan sebut "dicatat Nik dengan bahasa sendiri"; catatan `09-...md` di msi-study jangan dihapus. |
 | #6 | 05-10 | **"Try it yourself" dihapus** dan **pertanyaan natural tambahan di penutup tidak perlu** — pertanyaan analisis di blok "Menurut lo gmn? 🤔" (1-3) sudah cukup jadi ajakan. Penutup = adegan singkat + tanda tangan. Ikut diterapkan di prompt produksi (`writing-repository/.../Catatan_Nik/PROMPT-generate.md`). |
+| #7 | 09-10 | Audit lintas 7 tulisan yang udah tayang: **judul Bram dikunci** ("Senior Director of Commercial Valuation", jangan pernah jadi "Senior Manager") dan ditulis ke prompt; **kalimat penutup divariasikan** (6 tulisan sebelumnya kembar semua); **hujan diselang-seling** aja, jangan tiap tulisan (musim panas, Bintaro jarang hujan); **lantai kantor Nik (28) jangan kembar** dengan lantai gedung klien; **hapus bagian yang nunjukin Nik nunggu balasan** di penutup Metpen; timeline kepergian Bram dikunci jadi "dua minggu lalu" di semua tulisan; HCM tetap boleh pakai "Dearest Sari," + "Google Docs" karena itu tulisan pertama; prosa buat daftar pertanyaan (SSS) boleh, yang dilarang cuma judul "Tugas". |
 
 ---
 
@@ -156,9 +157,17 @@ ATURAN WAJIB
 8. Sisi gelap atau sisi masalah topiknya disebut langsung, jangan digantung.
 9. Penutup:
    - heading "Menurut lo gmn? 🤔" berisi 1 sampai 3 pertanyaan analitis yang bisa dijawab 3 sampai 4 kalimat. Satu pertanyaan = satu keputusan atau rancangan, bukan pertanyaan definisi.
-   - tidak ada blok tugas kecil, dan tidak ada pertanyaan natural tambahan ke Sari di penutup.
-   - satu adegan singkat (jam, cuaca, kegiatan), lalu tanda tangan "Warmest hug from the rainy city 🩷" dan "Nik".
+   - tidak ada blok tugas kecil, tidak ada pertanyaan natural tambahan ke Sari di penutup, dan tidak ada kalimat yang nunjukin Nik nunggu balasan ("jangan bikin gue nunggu kelamaan", "ditunggu jawaban lo").
+   - satu adegan singkat (jam, cuaca, kegiatan), lalu tanda tangan. Kalimat penutupnya DIVARIASIKAN antar tulisan (jangan semua sama); "Warmest hug from the rainy city 🩷" salah satu opsi, bukan satu-satunya. Selalu tutup dengan nama "Nik".
 10. Panjang 1.200 sampai 1.500 kata.
+
+DAFTAR KARAKTER (pakai persis, jangan diganti antar tulisan)
+- Nik: narator. Perempuan Jakarta, tinggal di Bogor, single parent satu anak cowok (Dylan) 13 tahun di boarding school, marketing associate di konsultan properti internasional (kantor SCBD, lantai 28), WFH, kuliah S2 MMSI di kampus lain.
+- Sari: penerima surat, teman belajar MMSI (bukan satu kampus, bukan satu kelas).
+- Dylan: anak Nik. Detail suasana saja, bukan tokoh yang beraksi.
+- Bram: Senior Director of Commercial Valuation. Setelah disebut lengkap sekali, boleh ditulis "Senior Director" saja. JANGAN PERNAH diganti jadi "Senior Manager" atau jabatan lain.
+- Fakta tetap: kantor lantai 28 SCBD, klien/pemilik gedung di gedung LAIN (lantainya jangan kembar), Bram resign sekitar dua minggu sebelum tanggal tulisan dan bawa dua lead valuer + portofolio klien ke kompetitor.
+- Cuaca: hujan diselang-seling saja (kira-kira 1 dari 3 tulisan), jangan tiap tulisan. Sekarang musim panas, Bintaro jarang hujan.
 
 SUMBER MATERI (jangan menambah teori di luar ini)
 <TEMPEL CATATAN MATERI>

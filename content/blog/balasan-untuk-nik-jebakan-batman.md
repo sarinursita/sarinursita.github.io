@@ -1,5 +1,5 @@
 ---
-title: "Re: Nik — Jebakan Batman"
+title: "Re: Nik - Jebakan Batman"
 subtitle: "Nik nanya soal problem framing, dan aku jawab pakai pengalaman lamaku waktu masih jadi orang IT di perusahaan konsultan properti di Sudirman."
 type: blog
 date: 2026-10-05T23:06:33.077483+07:00

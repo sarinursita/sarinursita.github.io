@@ -14,7 +14,7 @@ hook: "\"Kenapa nggak bikin sistem AI aja?\" kata salah satu petinggi di rapat k
 ---
 
 
-Hujan di Bogor malam ini turun deras banget, Sar. Suara air yang nabrak kanopi jendela kamar kerja gue sampai ngalahin suara dosen di Zoom yang baru aja bubar jam sembilan malam tadi. Dylan sempat telepon kemarin sore dari asramanya, suaranya kedengeran capek sehabis latihan basket, tapi obrolan lima belas menit sama dia lumayan jadi *mood booster* sebelum gue harus menghadapi kenyataan: masuk semester baru, ketemu mata kuliah Analisis dan Perancangan Sistem Cerdas (*Smart System Analysis and Design* alias SSAD), dan sialnya, LMS kampus gue masih terkunci rapat.
+Malam ini kamar kerja gue sunyi banget, Sar. Dosen di Zoom baru aja bubar jam sembilan malam tadi. Dylan sempat telepon kemarin sore dari asramanya, suaranya kedengeran capek sehabis latihan basket, tapi obrolan lima belas menit sama dia lumayan jadi *mood booster* sebelum gue harus menghadapi kenyataan: masuk semester baru, ketemu mata kuliah Analisis dan Perancangan Sistem Cerdas (*Smart System Analysis and Design* alias SSAD), dan sialnya, LMS kampus gue masih terkunci rapat.
 
 Enam belas topik kuliah masih berstatus *locked*, cuma RPS tiga SKS ini yang bisa diakses. Dosen pengampu gue malam ini cuma ngasih kuliah pengantar satu setengah jam, terus ninggalin satu pesan sakral: *"Pertemuan pertama bobotnya lima persen ya, silakan pelajari definisinya baik-baik sebelum masuk ke perancangan arsitektur minggu depan."* 
 
@@ -151,4 +151,4 @@ Nik
 
 ---
 
-*Sari sudah balas catatan ini: [Re: Nik — Jebakan Batman](https://sarinursita.github.io/blog/balasan-untuk-nik-jebakan-batman/)*
+*Sari sudah balas catatan ini: [Re: Nik - Jebakan Batman](https://sarinursita.github.io/blog/balasan-untuk-nik-jebakan-batman/)*
