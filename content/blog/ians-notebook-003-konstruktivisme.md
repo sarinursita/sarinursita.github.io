@@ -1,15 +1,15 @@
 ---
 title: "Ian's Notebook: Berhenti Nyumpal Otak Orang Pakai Corong Minyak"
-subtitle: "Klien minta modul leadership isinya 80 slide teks, dan Ian jadi mikir keras kenapa cara ngajar begitu nggak pernah berhasil."
+subtitle: "Mas Hendra nunjukin deck itu tanpa noleh dari layar monitornya, terus nanya satu pertanyaan yang bikin gua cuma bisa berdehem."
 type: blog
-date: 2026-10-09T05:00:00+07:00
-draft: true
+date: 2026-10-09T08:16:54.895312+07:00
+draft: false
 ws_chat: 1537
 ws_msg: 21357
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "konstruktivisme"]
-summary: "Ian bedah teori konstruktivisme Piaget dan Vygotsky, lalu ngaku kelas korporatnya sendiri masih 80 persen guru-sentris dan dia pernah ngelempar murid ke kolam tanpa perancah."
-hook: "Pengetahuan nggak bisa ditransfer, harus dibangun sendiri oleh yang belajar. Dan itu artinya peran pengajar berubah."
+summary: "Dari Piaget sampai Vygotsky, gua bedah teori konstruktivisme buat ngejawab satu pertanyaan Mas Hendra, dan jawaban jujurnya bikin miris."
+hook: "Klien gua minta modul leadership 45 menit berisi 80 slide teks dan sepuluh soal pilihan ganda. Gua hampir ketawa, sampai sadar kelas gua sendiri juga begitu."
 ---
 
 Sar, lu pernah nggak sih kepikiran buat ngelempar laptop lu ke selokan waktu meeting? 
