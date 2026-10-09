@@ -11,7 +11,7 @@ title: "Sari Nursita"
 
 <p>Aku suka mencoba hal baru yang berkaitan dengan <strong>teknologi</strong> dan <strong>menulis</strong>. Aku menulis buku programming, buku LKS, dan buku teks Informatika untuk SMP dan SMA. Aku juga menulis buku fiksi untuk anak dan remaja.</p>
 
-<p>Aku suka mengajar. Di waktu luang aku mengadakan proyek kreatif untuk anak-anak di <a href="https://cerivitas.com" target="_blank" rel="noopener">Cerivitas</a>.</p>
+<p>Aku suka mengajar dan memfasilitasi proyek. Di waktu luang aku mengadakan proyek kreatif untuk anak-anak di <a href="https://cerivitas.com" target="_blank" rel="noopener">Cerivitas</a>.</p>
 
 <h2 class="wp-block-heading has-secondary-background-color has-background has-normal-font-size">Kontak</h2>
 
