@@ -8,7 +8,7 @@ ws_chat: 1576
 ws_msg: 21447
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system"]
-summary: "Materi SSAD pertemuan 2 soal CRISP-DM, jenis data, dan skala NOIR dijahit ke drama kantor Nik: manajemen mau lempar arsip valuasi 15 tahun langsung ke machine learning, padahal datanya belum pernah dibaca sebagai data."
+summary: "Materi SSAD pertemuan 2 soal CRISP-DM, jenis data, dan skala NOIR dijahit ke drama kantor Nik: manajemen mau lempar arsip valuasi sepuluh tahun langsung ke machine learning, padahal datanya belum pernah dibaca sebagai data."
 hook: "\"Kenapa nggak langsung lempar aja semua data itu ke model machine learning?\" kata salah satu petinggi di all-hands meeting. Nik tersedak kopi, karena materi pekan ini justru bilang: data bukan tujuan."
 ---
 
