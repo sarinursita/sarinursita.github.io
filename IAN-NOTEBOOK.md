@@ -112,12 +112,14 @@ subtitle: "<satu kalimat, bahasa obrolan>"
 type: blog
 date: YYYY-MM-DD
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "<topik>"]
+tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "<topik>"]
 summary: "<1 kalimat, jangan menyebut persona/rubrik secara meta>"
 hook: "<1 kalimat pancingan>"
 ```
 
 Slug = nama file: `ians-notebook-<topik>.md`.
+
+**Tag matkul (wajib sejak 12 Okt 2026).** `teknologi-pendidikan` = tag MATKUL Ian dan harus ada di **setiap** post Ian. Sari meminta tag matkul supaya dia bisa klik satu tag dan lihat cuma post untuk matkul itu (`/tags/teknologi-pendidikan/`); tag-nya dirender sebagai chip di halaman post + kartu daftar blog, dan nama tampilannya diatur di `data/tags.yaml`. Kalau seri persona baru dibuat, tag matkul-nya ikut wajib (mis. Jurnal Ana → tag matkul psikologinya).
 
 **Penamaan:** kategori tetap **`Collab Journal`** (sama seperti Catatan Nik) supaya semua tulisan persona kumpul di satu rubrik. Tag rubric khusus (`ian-notebook`) **belum perlu** — Catatan Nik juga nggak punya; di sana cukup `collab-journal` + tag topik. Kalau nanti sudah ada 3–4 tulisan Ian dan mau halaman seri sendiri, baru ditambah.
 
