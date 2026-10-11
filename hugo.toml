@@ -2,12 +2,20 @@ baseURL = "https://sarinursita.github.io/"
 languageCode = "id"
 title = "Sari Nursita"
 # sitemap/robots digenerate Hugo (static/robots.txt menimpa template robots bawaan)
-disableKinds = ["taxonomy", "term"]
+# taxonomy/term AKTIF: supaya badge "Kategori" bisa diklik → /category/<slug>/
+disableKinds = []
 enableGitInfo = false
 
 # Tampilkan konten bertanggal "hari ini" walau build jalan di UTC
 # (Sari di GMT+8 → tanggal hari ini bisa kelihatan "masa depan" di UTC).
 buildFuture = true
+
+# Kategori pakai field front matter `category` (mis. "Collab Journal", "Kuliah")
+# → URL: /category/<slug>/. Mendaftarkan `[taxonomies]` menimpa default Hugo,
+# jadi tag bawaan (tag=tags) otomatis mati — tidak perlu ditulis `tag = ""`.
+# CATATAN: tabel ini ditaruh paling bawah — key top-level jangan ditaruh setelahnya.
+[taxonomies]
+  category = "category"
 
 [markup]
   [markup.goldmark]

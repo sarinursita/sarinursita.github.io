@@ -1,0 +1,29 @@
+{{/* Dipakai untuk kind taxonomy (daftar kategori) DAN kind term (satu kategori)
+     — Hugo 0.150 memakai template ini untuk keduanya, dibedakan lewat .Kind. */}}
+{{ define "main" }}
+{{ if eq .Kind "taxonomy" }}
+	{{/* /category/ → daftar semua kategori */}}
+	<p class="taxo-intro">Kumpulan tulisan blog, dikelompokkan per kategori. Klik salah satu untuk melihat semua tulisan di kategori itu.</p>
+	{{ .Content }}
+	{{ if .Pages }}
+	<ul class="term-list">
+		{{ range .Pages.ByTitle }}
+		<li><a href="{{ .RelPermalink }}"><span class="term-name">{{ .Title }}</span><span class="term-count">{{ len .Pages }}</span></a></li>
+		{{ end }}
+	</ul>
+	{{ end }}
+	<p class="back-link"><a class="wp-block-button__link wp-element-button" href="{{ "/blog/" | relURL }}">← Semua tulisan</a></p>
+{{ else }}
+	{{/* /category/<slug>/ → semua tulisan dalam kategori ini */}}
+	<p class="taxo-count">{{ len .Pages }} tulisan</p>
+	{{ .Content }}
+	{{ if .Pages }}
+	<div class="blog-list">
+		{{ range .Pages.ByDate.Reverse }}{{ partial "blog-card.html" . }}{{ end }}
+	</div>
+	{{ else }}
+	<p class="empty-note">Belum ada tulisan di kategori ini.</p>
+	{{ end }}
+	<p class="back-link"><a class="wp-block-button__link wp-element-button" href="{{ "/blog/" | relURL }}">← Semua tulisan</a></p>
+{{ end }}
+{{ end }}

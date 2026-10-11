@@ -3,7 +3,7 @@
 <figure class="post-cover"><img src="{{ . }}" alt="{{ $.Title }}"></figure>
 {{ end }}
 <p class="blog-meta">
-	{{ with .Params.category }}<span class="pm-cat">{{ . }}</span> · {{ end }}
+	{{ with .Params.category }}<a class="pm-cat" href="{{ relURL (printf "category/%s/" (. | urlize)) }}">{{ . }}</a> · {{ end }}
 	{{ .Date.Format "2 January 2006" }}
 </p>
 {{ with .Params.subtitle }}<p class="story-subtitle">{{ . }}</p>{{ end }}

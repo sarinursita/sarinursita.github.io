@@ -220,3 +220,26 @@ h2.product-subtitle{text-align:center !important;display:block;width:100%;font-s
 .follow-box p{margin:0;}
 .post-related{text-align:center;margin:1.6em 0 0;font-size:.95rem;}
 .post-related a{color:#ab8353;}
+
+/* ==== Kategori (taxonomy) ================================================= */
+/* Kartu blog: seluruh kartu tetap bisa diklik (stretched link),
+   tapi badge kategori punya link sendiri ke halaman kategori. */
+.blog-card{position:relative;}
+.blog-card .bc-title-link{display:block;line-height:1.3;text-decoration:none;color:inherit;}
+.blog-card .bc-title-link::after{content:"";position:absolute;inset:0;z-index:0;}
+.blog-card .bc-cat{position:relative;z-index:1;text-decoration:none;}
+.blog-card .bc-cat:hover{filter:brightness(1.12);}
+.blog-meta .pm-cat{text-decoration:none;}
+.blog-meta .pm-cat:hover{text-decoration:underline;}
+
+/* Header + daftar kategori */
+.taxo-header{text-align:center;margin:1.5rem auto 1.8rem;width:min(58rem,100%);}
+.page-title{font-size:1.9rem;line-height:1.2;margin:.2em 0 .35em;}
+.taxo-kicker{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#cd2653;margin:0 0 .35rem;}
+.taxo-count{font-size:1.4rem;color:#787878;text-align:center;margin:0 auto 1.4rem;}
+.taxo-intro{text-align:center;color:#3a3a3a;max-width:44rem;margin:0 auto 1.6rem;}
+.term-list{list-style:none;padding:0;margin:0 auto 2rem;width:min(58rem,100%);display:flex;flex-wrap:wrap;gap:.7rem;justify-content:center;}
+.term-list a{display:inline-flex;align-items:center;gap:.6em;text-decoration:none;background:#fff;border:1px solid #e3e1dd;border-radius:99px;padding:.45em 1.05em;color:#161616;font-weight:600;box-shadow:0 1px 4px rgba(0,0,0,.05);transition:transform .15s ease,box-shadow .15s ease;}
+.term-list a:hover{transform:translateY(-2px);box-shadow:0 4px 14px rgba(0,0,0,.12);}
+.term-list .term-count{background:#cd2653;color:#fff;border-radius:99px;font-size:.72rem;font-weight:700;padding:.15em .6em;line-height:1.4;}
+.back-link{text-align:center;margin:1.4em 0 3em;}
