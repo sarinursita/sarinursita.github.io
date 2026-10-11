@@ -4,7 +4,7 @@ subtitle: "Gue baru aja liat satu kantor kehilangan valuernya yang paling berbak
 type: blog
 date: 2026-09-28
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "human-capital"]
+tags: ["study", "collab-journal", "MMSI", "human-capital", "kuliah-perdana-mmsi"]
 summary: "Bram resign bawa semua yang dia tahu. Di sinilah gue, di kamar kerja Bogor, mikir kenapa software HR mahal kita nggak bisa nangkep sinyal bahaya yang udah kelihatan dari tahun lalu."
 hook: "Software HR mahal kita nggak lihat tanda-tanda Bram mau pergi. Tapi di kamar kerja Bogor, gue baru nyadar: sistem itu emang nggak dirancang buat lihat."
 aliases: ["/blog/catatan-nik-hcm-smart-system/"]

@@ -1,0 +1,7 @@
+{{/* Chip tag yang bisa diklik → /tags/<slug>/.
+     Pakai: {{ partial "term-chip.html" (dict "term" "software-design" "plural" "tags") }} */}}
+{{ $term := .term }}
+{{ $plural := .plural }}
+{{ $name := index site.Data.tags (lower $term) }}
+{{ if not $name }}{{ $name = $term | humanize | title }}{{ end }}
+<a class="tag-chip" href="{{ relURL (printf "%s/%s/" $plural ($term | urlize)) }}">{{ $name }}</a>

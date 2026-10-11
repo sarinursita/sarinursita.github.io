@@ -1,12 +1,17 @@
 {{/* Kartu ringkas satu tulisan blog.
-     Dipakai di: blog/list.html, shortcode recentposts, dan halaman kategori (term). */}}
+     Dipakai di: blog/list.html, shortcode recentposts, dan halaman kategori/tag (term). */}}
 {{ $p := . }}
 <div class="blog-card">
 	{{ with $p.Params.cover }}<div class="bc-img"><img src="{{ . }}" alt="cover" loading="lazy"></div>{{ end }}
 	<div class="bc-body">
-		{{ with $p.Params.category }}<a class="bc-cat" href="{{ relURL (printf "category/%s/" (. | urlize)) }}">{{ . }}</a>{{ end }}
+		<div class="bc-badges">
+			{{ with $p.Params.category }}<a class="bc-cat" href="{{ relURL (printf "category/%s/" (. | urlize)) }}">{{ . }}</a>{{ end }}
+		</div>
 		<a class="bc-title-link" href="{{ $p.RelPermalink }}"><span class="bc-title">{{ $p.Title }}</span></a>
 		<span class="bc-date">{{ $p.Date.Format "2 January 2006" }}</span>
 		{{ with $p.Params.summary }}<span class="bc-excerpt">{{ . }}</span>{{ end }}
+		{{ with $p.Params.tags }}
+		<span class="bc-tags">{{ range . }}{{ partial "term-chip.html" (dict "term" . "plural" "tags") }}{{ end }}</span>
+		{{ end }}
 	</div>
 </div>

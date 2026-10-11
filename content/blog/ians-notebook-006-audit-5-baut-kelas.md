@@ -7,7 +7,7 @@ draft: true
 ws_chat: 1571
 ws_msg: 21430
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "sistem-pembelajaran"]
+tags: ["collab-journal", "kelas-online", "sistem-pembelajaran", "teknologi-pendidikan"]
 summary: "Lima baut sistem pembelajaran PTJJ (peserta, bahan, tutor, administrasi, evaluasi) dibedah dari kasus komplain yang melonjak padahal rating bagus, plus kerangka audit Five-Bolt Check."
 hook: "Rating tutor 4.8, materi dibilang komprehensif, tapi komplain di customer support malah naik tiga puluh persen."
 ---

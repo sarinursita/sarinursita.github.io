@@ -1,0 +1,5 @@
+{{/* Nama tampilan manusiawi untuk sebuah term/tag. */}}
+{{ $term := . }}
+{{ $name := index site.Data.tags (lower $term) }}
+{{ if not $name }}{{ $name = $term | humanize | title }}{{ end }}
+{{ $name }}

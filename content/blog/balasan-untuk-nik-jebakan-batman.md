@@ -7,7 +7,7 @@ draft: false
 ws_note: 1840
 ws_project: 156
 category: "Collab Journal"
-tags: ["balasan", "catatan-nik", "problem-framing", "valuasi-properti"]
+tags: ["balasan", "catatan-nik", "problem-framing", "valuasi-properti", "analisa-dan-desain-smart-system"]
 summary: "Balasanku buat Nik: kenapa yang menentukan AI valuasi properti itu datanya, dan kenapa data pembanding valuer nggak akan pernah dibagi gratis."
 hook: "Nik bilang problem framing itu jebakan pertama. Aku jawab dari sisi orang IT yang dulu kerja di perusahaan konsultan properti: datang ke valuasi properti, AI-nya bukan masalah utama. Datanya yang nggak ada yang mau sharing."
 reply_to: "https://sarinursita.github.io/blog/catatan-nik-analisa-dan-desain-smart-system-m01/"

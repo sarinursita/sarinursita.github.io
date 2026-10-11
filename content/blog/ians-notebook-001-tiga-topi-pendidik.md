@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1535
 ws_msg: 21355
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "tiga-topi-pendidik"]
+tags: ["collab-journal", "kelas-online", "tiga-topi-pendidik", "teknologi-pendidikan"]
 summary: "Gua baru kena omongan enteng soal bikin kelas online, terus inget kelas public speaking weekend gua yang berakhir nggak kayak yang gua rencanain."
 hook: "Ada tiga topi yang dipakai tiap orang yang bikin kelas. Yang ketiga paling sering tinggal di lemari."
 ---

@@ -7,7 +7,7 @@ draft: false
 ws_note: 1839
 ws_project: 155
 category: "Collab Journal"
-tags: ["balasan", "kelas-online", "tiga-topi-pendidik"]
+tags: ["balasan", "kelas-online", "tiga-topi-pendidik", "teknologi-pendidikan"]
 summary: "Jawabanku buat Ian: dari grup WA yang ribut 1000 pesan sampai pretest-posttest di kuliahku yang baru minggu ini aku ngerti gunanya."
 hook: "Ternyata topi evaluator itu yang paling sering aku tinggalin juga. Balasanku buat Ian soal tiga topi pendidik, plus bagian mana dari kelasku yang masih bocor."
 reply_to: "https://sarinursita.github.io/blog/ians-notebook-001-tiga-topi-pendidik/"

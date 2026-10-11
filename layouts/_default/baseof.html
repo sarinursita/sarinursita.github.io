@@ -185,7 +185,7 @@
 
 				<div class="entry-header-inner section-inner medium">
 
-					<h1 class="entry-title">{{ if .IsHome }}Sari Nursita{{ else if eq .Kind "taxonomy" }}Kategori{{ else }}{{ .Title }}{{ end }}</h1>
+					<h1 class="entry-title">{{ if .IsHome }}Sari Nursita{{ else if eq .Kind "taxonomy" }}{{ if eq .Data.Plural "tags" }}Tag{{ else }}Kategori{{ end }}{{ else if eq .Kind "term" }}{{ partial "term-name.html" .Data.Term }}{{ else }}{{ .Title }}{{ end }}</h1>
 
 				</div><!-- .entry-header-inner -->
 

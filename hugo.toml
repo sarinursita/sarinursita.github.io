@@ -11,11 +11,13 @@ enableGitInfo = false
 buildFuture = true
 
 # Kategori pakai field front matter `category` (mis. "Collab Journal", "Kuliah")
-# → URL: /category/<slug>/. Mendaftarkan `[taxonomies]` menimpa default Hugo,
-# jadi tag bawaan (tag=tags) otomatis mati — tidak perlu ditulis `tag = ""`.
+# → URL: /category/<slug>/.
+# Tag pakai field front matter `tags` (list) → /tags/<slug>/ — dipakai buat
+# mengelompokkan tulisan per matkul/topik.
 # CATATAN: tabel ini ditaruh paling bawah — key top-level jangan ditaruh setelahnya.
 [taxonomies]
   category = "category"
+  tag = "tags"
 
 [markup]
   [markup.goldmark]

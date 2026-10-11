@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ .Content }}
+<p class="blog-nav">Lihat per: <a href="{{ "category/" | relURL }}">Kategori</a> · <a href="{{ "tags/" | relURL }}">Tag (topik/matkul)</a></p>
 {{ $posts := sort (where .Site.RegularPages "Type" "blog") ".Date" "desc" }}
 {{ if $posts }}
 <div class="blog-list">

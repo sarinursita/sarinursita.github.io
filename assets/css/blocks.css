@@ -238,8 +238,19 @@ h2.product-subtitle{text-align:center !important;display:block;width:100%;font-s
 .taxo-kicker{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#cd2653;margin:0 0 .35rem;}
 .taxo-count{font-size:1.4rem;color:#787878;text-align:center;margin:0 auto 1.4rem;}
 .taxo-intro{text-align:center;color:#3a3a3a;max-width:44rem;margin:0 auto 1.6rem;}
+
+/* Chip tag (topik/matkul) — bisa diklik ke /tags/<slug>/ */
+.tag-chip{display:inline-block;font-size:1.2rem;line-height:1.5;color:#6f5527;background:#faf5ea;border:1px solid #dcc9a3;border-radius:99px;padding:.1em .8em;margin:.25em .3em 0 0;text-decoration:none;position:relative;z-index:1;}
+.tag-chip:hover{background:#f0e3c8;border-color:#cbb37f;color:#5c4519;}
+.bc-badges{display:flex;flex-wrap:wrap;gap:.4em;align-items:center;}
+.bc-tags{display:block;margin-top:.5em;}
+.post-tags{width:min(58rem,100%);margin:1.6rem auto 0;font-size:1.3rem;color:#787878;}
+.post-tags .pt-label{font-weight:700;margin-right:.2em;}
+.blog-nav{font-size:1.3rem;color:#787878;margin:-0.6rem 0 1.5rem;}
+.blog-nav a{display:inline-block;background:#fff;border:1px solid #dcc9a3;border-radius:99px;padding:.1em .8em;color:#6f5527;font-weight:600;text-decoration:none;margin:0 .15em;}
+.blog-nav a:hover{background:#f0e3c8;border-color:#cbb37f;}
 .term-list{list-style:none;padding:0;margin:0 auto 2rem;width:min(58rem,100%);display:flex;flex-wrap:wrap;gap:.7rem;justify-content:center;}
 .term-list a{display:inline-flex;align-items:center;gap:.6em;text-decoration:none;background:#fff;border:1px solid #e3e1dd;border-radius:99px;padding:.45em 1.05em;color:#161616;font-weight:600;box-shadow:0 1px 4px rgba(0,0,0,.05);transition:transform .15s ease,box-shadow .15s ease;}
 .term-list a:hover{transform:translateY(-2px);box-shadow:0 4px 14px rgba(0,0,0,.12);}
-.term-list .term-count{background:#cd2653;color:#fff;border-radius:99px;font-size:.72rem;font-weight:700;padding:.15em .6em;line-height:1.4;}
+.term-list .term-count{background:#cd2653;color:#fff;border-radius:99px;font-size:.78rem;font-weight:700;padding:.2em .7em;line-height:1.4;min-width:1.9em;text-align:center;}
 .back-link{text-align:center;margin:1.4em 0 3em;}

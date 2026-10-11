@@ -1,20 +1,26 @@
-{{/* Dipakai untuk kind taxonomy (daftar kategori) DAN kind term (satu kategori)
+{{/* Dipakai untuk kind taxonomy (daftar kategori/tag) DAN kind term (satu kategori/tag)
      — Hugo 0.150 memakai template ini untuk keduanya, dibedakan lewat .Kind. */}}
 {{ define "main" }}
+{{ $plural := .Data.Plural }}
+{{ $isTag := eq $plural "tags" }}
+{{ $label := cond $isTag "Tag" "Kategori" }}
 {{ if eq .Kind "taxonomy" }}
-	{{/* /category/ → daftar semua kategori */}}
-	<p class="taxo-intro">Kumpulan tulisan blog, dikelompokkan per kategori. Klik salah satu untuk melihat semua tulisan di kategori itu.</p>
+	{{/* /category/ atau /tags/ → daftar semua kategori/tag */}}
+	<p class="taxo-intro">
+		{{ if $isTag }}Semua tulisan dikelompokkan per <strong>tag</strong> (topik/matkul). Klik salah satu untuk melihat tulisan bertag itu.
+		{{ else }}Tulisan dikelompokkan per <strong>kategori</strong>. Klik salah satu untuk melihat semua tulisan di kategori itu.{{ end }}
+	</p>
 	{{ .Content }}
 	{{ if .Pages }}
 	<ul class="term-list">
 		{{ range .Pages.ByTitle }}
-		<li><a href="{{ .RelPermalink }}"><span class="term-name">{{ .Title }}</span><span class="term-count">{{ len .Pages }}</span></a></li>
+		<li><a href="{{ .RelPermalink }}"><span class="term-name">{{ partial "term-name.html" .Data.Term }}</span><span class="term-count">{{ len .Pages }}</span></a></li>
 		{{ end }}
 	</ul>
 	{{ end }}
 	<p class="back-link"><a class="wp-block-button__link wp-element-button" href="{{ "/blog/" | relURL }}">← Semua tulisan</a></p>
 {{ else }}
-	{{/* /category/<slug>/ → semua tulisan dalam kategori ini */}}
+	{{/* /category/<slug>/ atau /tags/<slug>/ → semua tulisan di term ini */}}
 	<p class="taxo-count">{{ len .Pages }} tulisan</p>
 	{{ .Content }}
 	{{ if .Pages }}
@@ -22,7 +28,7 @@
 		{{ range .Pages.ByDate.Reverse }}{{ partial "blog-card.html" . }}{{ end }}
 	</div>
 	{{ else }}
-	<p class="empty-note">Belum ada tulisan di kategori ini.</p>
+	<p class="empty-note">Belum ada tulisan di {{ lower $label }} ini.</p>
 	{{ end }}
 	<p class="back-link"><a class="wp-block-button__link wp-element-button" href="{{ "/blog/" | relURL }}">← Semua tulisan</a></p>
 {{ end }}

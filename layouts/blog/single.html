@@ -10,6 +10,9 @@
 <div class="post-body">
 	{{ .Content }}
 </div>
+{{ with .Params.tags }}
+<p class="post-tags"><span class="pt-label">Tag:</span> {{ range . }}{{ partial "term-chip.html" (dict "term" . "plural" "tags") }}{{ end }}</p>
+{{ end }}
 {{ partial "share.html" . }}
 {{ partial "comments.html" . }}
 <hr class="wp-block-separator">
