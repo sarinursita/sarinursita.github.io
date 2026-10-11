@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ketika Tumpukan Excel Warisan Bram Dianggap Big Data"
 subtitle: "Antara Ilusi AI dan Realitas CRISP-DM"
 type: blog
-date: 2026-10-12T05:00:00+07:00
-draft: true
+date: 2026-10-12T05:48:15.083096+07:00
+draft: false
 ws_chat: 1576
 ws_msg: 21447
 category: "Collab Journal"
