@@ -28,7 +28,7 @@ Dua rubrik ini satu alam: sesekali boleh saling menyebut (Nik nyindir "temen gue
 | Jalur | Penulis | Isi | Tanda tangan |
 |---|---|---|---|
 | Tulisan Sari | Sari, tanpa kostum | kabar proyek, opini, update kelas | — |
-| Catatan Nik | Nik | materi kuliah MMSI | *Warmest hug from the rainy city 🩷* |
+| Catatan Nik | Nik | materi kuliah MMSI | salam penutup bervariasi tiap tulisan, diakhiri nama *Nik* |
 | Ian's Notebook | Ian | kelas online & teknologi pendidikan | *— Ian* |
 
 Sari tuan rumahnya, Nik & Ian dua korespondennya. Nggak ada disclaimer persona di tulisan mana pun.
@@ -180,7 +180,7 @@ Cadangan (Lensa B, lebih formal): akreditasi & MoU sebelum kerja sama, atau kuri
 2. **Versi WA/teacherpreneur:** nunggu format blognya kelihatan dulu (job cron-nya masih paused sejak 2 Okt 2026).
 3. **Jadwal tayang:** masuk slot Wave 2 Kamis 10:00 (1 draft post/minggu) atau cadence sendiri?
 4. **Jalur suara Sari sendiri.** Persona ada supaya pembaca bisa bedain "ini bukan Sari". Jadi suara Sari sendiri **nggak perlu nama rubrik** — dia tuan rumahnya, dan itu justru jangkar manusianya. Kalau butuh label buat navigasi, pakai yang fungsional (misal kategori `Catatan Sari`), bukan nama bergaya persona seperti "Sari's Desk".
-5. **Penanda di tampilan.** Pembaca nggak perlu diberi disclaimer (dilarang). Pembedanya cukup dari tanda tangan: Nik (*Warmest hug from the rainy city 🩷*), Ian (*— Ian*), Sari (tanpa tanda tangan persona).
+5. **Penanda di tampilan.** Pembaca nggak perlu diberi disclaimer (dilarang). Pembedanya cukup dari tanda tangan: Nik (salam penutup yang divariasikan tiap tulisan, diakhiri nama *Nik*; jangan diikat ke satu kalimat tetap), Ian (*— Ian*), Sari (tanpa tanda tangan persona).
 
 ### Sudah dikunci (2 Okt 2026)
 

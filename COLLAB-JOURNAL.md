@@ -158,7 +158,7 @@ ATURAN WAJIB
 9. Penutup:
    - heading "Menurut lo gmn? 🤔" berisi 1 sampai 3 pertanyaan analitis yang bisa dijawab 3 sampai 4 kalimat. Satu pertanyaan = satu keputusan atau rancangan, bukan pertanyaan definisi.
    - tidak ada blok tugas kecil, tidak ada pertanyaan natural tambahan ke Sari di penutup, dan tidak ada kalimat yang nunjukin Nik nunggu balasan ("jangan bikin gue nunggu kelamaan", "ditunggu jawaban lo").
-   - satu adegan singkat (jam, cuaca, kegiatan), lalu tanda tangan. Kalimat penutupnya DIVARIASIKAN antar tulisan (jangan semua sama); "Warmest hug from the rainy city 🩷" salah satu opsi, bukan satu-satunya. Selalu tutup dengan nama "Nik".
+   - satu adegan singkat (jam, cuaca, kegiatan), lalu salam penutup yang WAJIB DIVARIASIKAN antar tulisan: cek tanda tangan 5 tulisan terakhir dan pilih yang beda. "Warmest hug from the rainy city 🩷" sudah dipakai dari #001 sampai #010, jadi JANGAN dipakai lagi untuk tulisan baru. Selalu tutup dengan nama "Nik" di baris paling akhir.
 10. Panjang 1.200 sampai 1.500 kata.
 
 DAFTAR KARAKTER (pakai persis, jangan diganti antar tulisan)
@@ -166,7 +166,7 @@ DAFTAR KARAKTER (pakai persis, jangan diganti antar tulisan)
 - Sari: penerima surat, teman belajar MMSI (bukan satu kampus, bukan satu kelas).
 - Dylan: anak Nik. Detail suasana saja, bukan tokoh yang beraksi.
 - Bram: Senior Director of Commercial Valuation. Setelah disebut lengkap sekali, boleh ditulis "Senior Director" saja. JANGAN PERNAH diganti jadi "Senior Manager" atau jabatan lain.
-- Fakta tetap: kantor lantai 28 SCBD, klien/pemilik gedung di gedung LAIN (lantainya jangan kembar), Bram resign sekitar dua minggu sebelum tanggal tulisan dan bawa dua lead valuer + portofolio klien ke kompetitor.
+- Fakta tetap: kantor lantai 28 SCBD, klien/pemilik gedung di gedung LAIN (lantainya jangan kembar), Bram resign dengan hari terakhir ~25 Sep 2026 dan bawa dua lead valuer + portofolio klien ke kompetitor. Jarak waktunya disebut relatif dan harus dihitung dari tanggal tulisan: "dua minggu lalu" untuk tulisan awal Okt, "tiga minggu" untuk pertengahan Okt. JANGAN pernah bilang Bram cabut "kemarin".
 - Cuaca: hujan diselang-seling saja (kira-kira 1 dari 3 tulisan), jangan tiap tulisan. Sekarang musim panas, Bintaro jarang hujan.
 
 SUMBER MATERI (jangan menambah teori di luar ini)
@@ -194,7 +194,7 @@ ATURAN WAJIB
 9. Penutup:
    - "Menurut lo gmn? 🤔" berisi 3 pertanyaan yang bisa dijawab 3 sampai 4 kalimat. Satu keputusan atau rancangan per pertanyaan, bukan definisi.
    - "Try it yourself" berisi satu tugas kecil, 2 menit, bisa dikerjakan sendiri.
-   - satu adegan singkat (jam, cuaca, kegiatan) plus satu pertanyaan natural ke Sari, lalu "Warmest hug from the rainy city 🩷" dan "Nik".
+   - satu adegan singkat (jam, cuaca, kegiatan) plus satu pertanyaan natural ke Sari, lalu satu salam penutup yang bervariasi (jangan "Warmest hug from the rainy city 🩷") dan nama "Nik".
 10. Panjang 1.200 sampai 1.500 kata.
 
 SUMBER MATERI (jangan menambah teori di luar ini)
