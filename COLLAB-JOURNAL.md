@@ -116,6 +116,7 @@ summary: <1 kalimat, jangan menyebut meta tentang persona>
 - Summary di halaman list blog **tidak boleh** berisi "dicatat Nik dengan bahasa sendiri" (itu meta, dan Sari keberatan).
 - Tulisan **tidak boleh makin pendek**. Versi paling lengkap catatan materi tetap disimpan di `msi-study/notes/09-artikel-bekal-kuliah-perdana.md` — **JANGAN DIHAPUS** (permintaan Sari).
 - Komentar pembaca via **giscus** (GitHub Discussions, kategori *Announcements*). CTA ke kolom komentar jangan dipaksa; cukup pertanyaan di akhir.
+- **Pembuka jangan satu formula (Sari, 12 Okt 2026).** Pola "rumah hening karena Dylan balik ke asrama"/"Bogor hujan, gue duduk di meja kerja" sudah dipakai berkali-kali dan Sari bosan; buka dari situasi yang beda tiap tulisan (ruang rapat, layar laptop, satu kalimat dari buku, obrolan kantor). Aturan ini juga ada di `PROMPT-generate.md` bagian guardrail.
 - **Tag matkul wajib di tiap tulisan (sejak 12 Okt 2026).** Satu tulisan Catatan Nik harus punya tepat satu tag matkul, sesuai MK hari itu: `analisa-dan-desain-smart-system` (Senin), `implementasi-artificial-intelligence` (Selasa), `software-design` (Rabu), `smart-information-system` (Kamis), `metodologi-penelitian` (Jumat). Tulisan dari blok Kuliah Perdana pakai `kuliah-perdana-mmsi`. Tag ini yang dipakai Sari buat filter: klik chip di halaman post → `/tags/<slug>/` cuma berisi tulisan matkul itu. Label manusiawinya di `data/tags.yaml` (tag baru tanpa label otomatis jadi Title Case). Post jawaban Sari ikut diberi tag matkul yang sama biar halaman tag-nya lengkap.
 
 ---

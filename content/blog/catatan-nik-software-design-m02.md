@@ -1,18 +1,18 @@
----
+------
 title: "Catatan Nik: Ketika Ambisi \"Pokoknya Langsung Bikin Aplikasi\" Berujung Boncos di SCBD"
 subtitle: "Bos gue bilang dokumen requirement itu birokrasi yang bikin lambat. Sommerville bilang justru di situ proyek mulai boncos."
 type: blog
 date: 2026-10-14T05:00:00+07:00
 draft: true
 ws_chat: 1577
-ws_msg: 21454
+ws_msg: 21455
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "software-design"]
 summary: "Materi Software Design pertemuan 2 soal software process: spesifikasi, desain, validasi, evolusi. Di kantor Nik, bos minta anak IT langsung ngoding tanpa dokumen requirement karena dikejar prototipe dua minggu."
 hook: "\"Gak usah kaku pake birokrasi dokumen requirement, yang penting anak IT langsung ngoding aja.\" Instruksi itu pas banget sama materi pekan ini: proses yang kacau bikin proyek boncos sebelum baris kode pertama jalan."
 ---
 
-Rumah di Bogor lagi hening banget malam ini, Sar. Dylan udah balik ke asramanya di Magelang sejak Minggu sore kemarin, jadi begitu cucian seragamnya kelar dan aroma minyak kayu putih di kamarnya mulai memudar, yang tersisa tinggal suara rintik gerimis di kanopi belakang sama tumpukan bacaan dari dosen gue. 
+Setengah jam setelah rapat siang tadi bubar, gue masih betah duduk di meja kerja gue di lantai 28, Sar. Bukan karena kerjaan numpuk, tapi karena satu instruksi yang baru aja gue denger di ruang rapat bikin gue pengen ngambil napas panjang dulu sebelum pulang. 
 
 Buat *Software Design*, bobot pertemuan pekan ini lumayan gede (sepuluh persen dari total nilai sub-CPMK), gue akhirnya mutusin buat langsung bedah referensi wajibnya: Bab 2 bukunya Ian Sommerville edisi ke-10, ditambah beberapa catatan perbandingan dari Roger Pressman. Fokusnya pekan ini bener-bener nancep di fondasi paling mendasar: *software process*, empat aktivitas utamanya, dan kenapa proses yang berantakan bakal otomatis ngehancurin proyek sebelum baris kode pertama sempat di-*deploy*.
 
@@ -117,8 +117,6 @@ Biar otak lo ikutan panas dan kita dapet bahan buat sesi belajar asinkronus sela
 1. Mengingat karakter industri konsultan properti di kantor gue yang ritmenya serba dinamis dan sering kali regulasi valuasinya berubah mendadak dari otoritas pemerintah, menurut lo, di antara aktivitas *software specification* dan *software validation*, mana yang membawa risiko finansial paling besar kalau dipangkas demi ngejar *deadline* peluncuran sistem?
 2. Kalau lo diposisikan sebagai manajer proyek di kantor gue yang lagi krisis pasca hengkangnya Bram, gimana argumen lo meyakinkan jajaran direksi bahwa langsung terjun ke penulisan kode tanpa dokumen spesifikasi yang tervalidasi justru bakal memperpanjang durasi proyek dan melipatgandakan anggaran?
 3. Sommerville bilang perangkat lunak gak aus secara fisik melainkan menua akibat modifikasi (*evolution*). Dalam konteks tata kelola enterprise, tanda-tanda konkret apa yang menunjukkan bahwa sistem warisan di sebuah perusahaan udah masuk fase kadaluarsa dan biayanya lebih murah dibangun ulang daripada terus-menerus dirawat?
-
-Tulis analisis lo di postingan jurnal berikutnya ya, Sar. Gue penasaran gimana lo ngeliat benang merah antara teori Sommerville ini sama kasus-kasus kekacauan sistem yang sering kita jumpai di lapangan.
 
 Sambil nyeduh teh chamomile kedua sebelum nyiapin bahan presentasi kantor buat besok subuh,
 
