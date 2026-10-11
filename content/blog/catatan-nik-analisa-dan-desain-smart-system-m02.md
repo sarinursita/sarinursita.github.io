@@ -12,7 +12,7 @@ summary: "Materi SSAD pertemuan 2 soal CRISP-DM, jenis data, dan skala NOIR dija
 hook: "\"Kenapa nggak langsung lempar aja semua data itu ke model machine learning?\" kata salah satu petinggi di all-hands meeting. Nik tersedak kopi, karena materi pekan ini justru bilang: data bukan tujuan."
 ---
 
-Rumah gue hening banget sore ini, Sar. Sejak Dylan balik ke asrama hari Minggu kemarin, nggak ada lagi suara dia yang bolak-balik buka kulkas nyari camilan atau ribut nyari kaos basketnya yang nyelip. Hening kayak gini justru ngasih gue waktu buat selonjoran di sofa ruang tengah, ditemani secangkir *earl grey* hangat, sambil buka modul pekan kedua mata kuliah Analisis dan Perancangan Sistem Cerdas (*Smart System Analysis and Design* / SSAD). Di luar, hujan udah turun deras dari jam dua siang, dan itu makin bikin gue nggak punya alasan buat beranjak dari posisi ini.
+Rumah gue hening banget sore ini, Sar. Sejak Dylan balik ke asrama hari Minggu kemarin, nggak ada lagi suara dia yang bolak-balik buka kulkas nyari camilan atau ribut nyari kaos basketnya yang nyelip. Hening kayak gini justru ngasih gue waktu buat selonjoran di sofa ruang tengah, ditemani secangkir *earl grey* hangat, sambil nyicil materi mata kuliah Analisis dan Perancangan Sistem Cerdas (*Smart System Analysis and Design* / SSAD). Di luar, hujan udah turun deras dari jam dua siang, dan itu makin bikin gue nggak punya alasan buat beranjak dari posisi ini.
 
 Gue beneran butuh *grounding* akademis ini, Sar. Soalnya kalau nggak, kepala gue bisa meledak ngeliat kelakuan orang-orang kantor di SCBD sepanjang minggu ini.
 
@@ -155,7 +155,7 @@ Gue punya tiga pertanyaan analitis buat lo renungkan:
 2. Terkait UU PDP dan etika bisnis, langkah konkret apa yang harus diambil tim data saat menemukan tumpukan data transaksi masa lalu yang memuat informasi finansial privat klien korporat dan individu, sementara manajemen menolak menghapus data tersebut karena dianggap sebagai fitur penentu akurasi model valuasi?
 3. Di *dataset* tesis lo (atau kasus analitik buku digital yang kita bahas tadi), ada atribut nominal (seperti nama penulis) yang jumlah kategori uniknya bisa mencapai ribuan (*high-cardinality nominal features*). Dari perspektif persiapan data untuk sistem cerdas, tantangan analitis apa yang bakal muncul kalau variabel nominal dengan kardinalitas tinggi seperti ini dipaksakan masuk ke model prediktif, dan bagaimana lo membedakan perlakuannya dengan variabel rasio murni?
 
-Gerimis di luar udah mulai reda nih, hujannya cuma sambil lewat haha... Gue mau siap-siap bikin mi instan kuah dulu sambil nunggu kelas asinkronus berikutnya dibuka di LMS.
+Gerimis di luar udah mulai reda nih, hujannya cuma sambil lewat haha... Gue mau siap-siap bikin mi instan kuah dulu, lanjut ngerapiin sisa catatan ini.
 
 Warmest hug from the rainy city 🩷  
 Nik
