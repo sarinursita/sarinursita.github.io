@@ -1,4 +1,4 @@
-------
+---
 title: "Catatan Nik: Ketika Tumpukan Excel Warisan Bram Dianggap Big Data"
 subtitle: "Antara Ilusi AI dan Realitas CRISP-DM"
 type: blog
