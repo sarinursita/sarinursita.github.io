@@ -1,11 +1,11 @@
----
+------
 title: "Catatan Nik: Ketika Dashboard Puluhan Juta Cuma Jadi Pajangan Pemadam Kebakaran"
 subtitle: "Managing Director tanya dashboard di rapat pagi, dan Nobody bisa jawab: dari BI yang cuma spion sampai SIC yang jadi radar, plus empat sektor yang udah kepake beneran."
 type: blog
 date: 2026-10-15T05:00:00+07:00
 draft: true
 ws_chat: 1573
-ws_msg: 21438
+ws_msg: 21450
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "smart-information-system"]
 summary: "Materi SIS pertemuan 2 soal BI, SIC, dan Augmented Intelligence dijahit ke drama kantor Nik: dashboard mahal jadi pajangan, dan bedah empat sektor pemakai sistem cerdas."
@@ -155,5 +155,5 @@ Nah, Sar, ngeliat materi pertemuan kedua ini dipadukan sama realita lapangan yan
 
 Gue mau lanjut beresin draf tanggapan buat si bos dulu sebelum meeting evaluasi portofolio nanti sore. Kabarin gue kalau lo udah sempet bedah tiga poin di atas ya.
 
-Warmest hug from the rainy city 🩷  
+Gue balik ke draf tanggapan itu dulu. Doain meeting sore ini nggak jadi drama baru.
 Nik

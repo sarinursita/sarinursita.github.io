@@ -1,11 +1,11 @@
----
+------
 title: "Catatan Nik: Antara Kuesioner Ngawur Manajemen dan Seni Merancang Desain Penelitian"
 subtitle: "Anak magang mau ngeblast Google Forms ke 10.000 kontak, dan Nik nyamber rapat itu pakai bekal materi Metpen: desain penelitian, populasi vs sampel, sampai ilusi big data."
 type: blog
 date: 2026-10-16T05:00:00+07:00
 draft: true
 ws_chat: 1574
-ws_msg: 21440
+ws_msg: 21451
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian"]
 summary: "Materi Metpen pertemuan 2 soal desain penelitian dan teknik sampling dijahit ke drama kantor Nik: rapat panik pasca Bram cabut yang mau bikin survei ngawur, dan bedah kuantitatif vs kualitatif."
@@ -166,5 +166,5 @@ Mumpung lo lagi ngereview materi yang sama di kampus lo, coba lo bedah beberapa 
 
 Tolong bedah seobjektif mungkin ya. Gue butuh perspektif lo biar argumen gue di rapat lanjutan besok lusa bisa langsung ngebungkam ide-ide instan anak magang dan manajemen yang suka bikin pusing kepala.
 
-Warmest hug from the rainy city 🩷  
+Yang tenang ya, Sar. Rapat besok lusa biar gue yang hadepin.
 Nik

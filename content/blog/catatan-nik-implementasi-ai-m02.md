@@ -1,11 +1,11 @@
----
+------
 title: "Catatan Nik: Panik Massal di Slack, Hantu Pengangguran, dan Dongeng Mesin Kiamat"
 subtitle: "Satu draf slide bocor, Slack panik, dan Nik tiba-tiba jadi saksi drama otomasi paling nyata: dari operator lift sampai cerita mesin yang bisa ninggalin manusia."
 type: blog
 date: 2026-10-13T05:00:00+07:00
 draft: true
 ws_chat: 1572
-ws_msg: 21448
+ws_msg: 21449
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"]
 summary: "Materi IAI pertemuan 2 soal etika dan dampak sosial AI dijahit ke drama kantor Nik: draf penilaian otomatis bocor, kantor panik, lalu bedah soal hilangnya pekerjaan, robot tax, UBI, sampai superintelligence."
@@ -126,5 +126,5 @@ Dari seluruh kekacauan di kantor gue dan poin-poin materi kuliah kita di pertemu
 
 Tolong bantu urai ini dengan pisau analisa lo yang biasanya jauh lebih terstruktur daripada kepala gue yang lagi gampang kepancing emosi kantor.
 
-Warmest hug from the rainy city 🩷  
+Gue mau bikin kopi ulang dulu sebelum balik ke log variabel itu.
 Nik
