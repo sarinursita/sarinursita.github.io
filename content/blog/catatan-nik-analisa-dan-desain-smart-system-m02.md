@@ -1,11 +1,11 @@
----
+------
 title: "Catatan Nik: Ketika Tumpukan Excel Warisan Bram Dianggap Big Data"
 subtitle: "Antara Ilusi AI dan Realitas CRISP-DM"
 type: blog
 date: 2026-10-12T05:00:00+07:00
 draft: true
 ws_chat: 1576
-ws_msg: 21446
+ws_msg: 21447
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system"]
 summary: "Materi SSAD pertemuan 2 soal CRISP-DM, jenis data, dan skala NOIR dijahit ke drama kantor Nik: manajemen mau lempar arsip valuasi 15 tahun langsung ke machine learning, padahal datanya belum pernah dibaca sebagai data."
@@ -16,7 +16,7 @@ Rumah gue hening banget sore ini, Sar. Sejak Dylan balik ke asrama hari Minggu k
 
 Gue beneran butuh *grounding* akademis ini, Sar. Soalnya kalau nggak, kepala gue bisa meledak ngeliat kelakuan orang-orang kantor di SCBD sepanjang minggu ini.
 
-Lo inget kan cerita gue kemarin pas Bram cabut mendadak sambil bawa dua *lead valuer* andalannya? Nah, kepanikan manajemen bukannya mereda, malah makin absurd. Di *all-hands meeting* kemarin lusa, salah satu petinggi dengan entengnya bilang di depan semua orang: *"Kita kan punya arsip penilaian properti lima belas tahun terakhir di server. Kenapa nggak langsung kita lempar aja semua data itu ke model machine learning? Bikin automated valuation engine minggu depan, biar kita nggak tergantung sama orang lagi."*
+Lo inget kan cerita gue beberapa minggu lalu pas Bram cabut mendadak sambil bawa dua *lead valuer* andalannya? Nah, kepanikan manajemen bukannya mereda, malah makin absurd. Di *all-hands meeting* kemarin lusa, salah satu petinggi dengan entengnya bilang di depan semua orang: *"Kita kan punya arsip penilaian properti sepuluh tahun terakhir di server. Kenapa nggak langsung kita lempar aja semua data itu ke model machine learning? Bikin automated valuation engine minggu depan, biar kita nggak tergantung sama orang lagi."*
 
 Gue yang lagi nyeruput kopi langsung tersedak di depan layar Zoom. Rasanya pengen banget gue interupsi dan teriak: *"Pak, lo pikir machine learning itu panci presto yang tinggal lo cemplungin bahan mentah acak-acakan terus mateng sendiri jadi gulai?"*
 
@@ -46,7 +46,7 @@ Di sinilah berlaku hukum abadi: *garbage in, garbage out* (GIGO). Kualitas input
 
 ## Skala NOIR dan Tragedi Menghitung Rata-Rata Kode Pos
 
-Kemarin tim internal sempat narik data mentah dari *database* peninggalan timnya Bram. Salah satu anak analis yang baru masuk dikasih tugas buat bikin ringkasan awal portofolio properti komersial kita. Pas gue liat draf laporannya, gue hampir pingsan. Di lembar *summary*, dia ngitung nilai rata-rata (*mean*) dan standar deviasi dari kolom kode pos gedung dan kelas zonasi wilayah.
+Beberapa hari lalu tim internal sempat narik data mentah dari *database* peninggalan timnya Bram. Salah satu anak analis yang baru masuk dikasih tugas buat bikin ringkasan awal portofolio properti komersial kita. Pas gue liat draf laporannya, gue hampir pingsan. Di lembar *summary*, dia ngitung nilai rata-rata (*mean*) dan standar deviasi dari kolom kode pos gedung dan kelas zonasi wilayah.
 
 Gue elus dada. Ini materi dasar statistik tingkat satu yang sering banget dilupain orang pas udah megang *tools* canggih kayak Python atau Tableau. Kita nggak bisa asal hajar semua operasi matematika ke sembarang kolom data. Skala pengukuran menentukan operasi statistik apa yang sah dan boleh dilakukan secara ilmiah.
 

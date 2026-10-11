@@ -1,11 +1,11 @@
----
+------
 title: "Catatan Nik: Panik Massal di Slack, Hantu Pengangguran, dan Dongeng Mesin Kiamat"
 subtitle: "Satu draf slide bocor, Slack panik, dan Nik tiba-tiba jadi saksi drama otomasi paling nyata: dari operator lift sampai cerita mesin yang bisa ninggalin manusia."
 type: blog
 date: 2026-10-13T05:00:00+07:00
 draft: true
 ws_chat: 1572
-ws_msg: 21435
+ws_msg: 21448
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"]
 summary: "Materi IAI pertemuan 2 soal etika dan dampak sosial AI dijahit ke drama kantor Nik: draf penilaian otomatis bocor, kantor panik, lalu bedah soal hilangnya pekerjaan, robot tax, UBI, sampai superintelligence."
@@ -16,7 +16,7 @@ Gelas kopi kedua gue belum juga habis pas Slack di laptop tiba-tiba berisik buka
 
 Isi slidenya? Sebuah diagram arsitektur sistem baru bertuliskan *Automated Valuation & Market Intelligence Engine*, lengkap dengan estimasi penghematan biaya operasional sebesar empat puluh persen untuk *regional branches* dalam dua tahun ke depan.
 
-Efeknya langsung instan. Anak-anak *research* dan analis junior langsung kalap. Ruang obrolan pribadi gue mendadak penuh sama pesan panik. Mereka mikir, setelah kemarin Bram cabut bawa dua *lead valuer* dan ninggalin lubang gede di divisi, manajemen bukannya rekrut pengganti, malah mau sekalian ngegantiin sisa tim yang ada pakai otomasi AI. 
+Efeknya langsung instan. Anak-anak *research* dan analis junior langsung kalap. Ruang obrolan pribadi gue mendadak penuh sama pesan panik. Mereka mikir, setelah Bram cabut beberapa minggu lalu sambil bawa dua *lead valuer* dan ninggalin lubang gede di divisi, manajemen bukannya rekrut pengganti, malah mau sekalian ngegantiin sisa tim yang ada pakai otomasi AI. 
 
 Gue cuma bisa geleng-geleng kepala sambil ngabisin kopi yang udah mulai dingin. Ironisnya, drama panik di kantor ini pas banget sama topik kuliah kita di materi Implementasi AI minggu kedua kemarin: etika, disrupsi pekerjaan, sampai paranoia ancaman eksistensial mesin. 
 
