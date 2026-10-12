@@ -1,4 +1,4 @@
-------
+---
 title: "Catatan Nik: Panik Massal di Slack, Hantu Pengangguran, dan Dongeng Mesin Kiamat"
 subtitle: "Satu draf slide bocor, Slack panik, dan Nik tiba-tiba jadi saksi drama otomasi paling nyata: dari operator lift sampai cerita mesin yang bisa ninggalin manusia."
 type: blog

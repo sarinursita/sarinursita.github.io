@@ -1,4 +1,4 @@
-------
+---
 title: "Catatan Nik: Ketika Dashboard Puluhan Juta Cuma Jadi Pajangan Pemadam Kebakaran"
 subtitle: "Managing Director tanya dashboard di rapat pagi, dan Nobody bisa jawab: dari BI yang cuma spion sampai SIC yang jadi radar, plus empat sektor yang udah kepake beneran."
 type: blog

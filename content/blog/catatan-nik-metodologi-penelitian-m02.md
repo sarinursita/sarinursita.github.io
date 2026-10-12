@@ -1,4 +1,4 @@
-------
+---
 title: "Catatan Nik: Antara Kuesioner Ngawur Manajemen dan Seni Merancang Desain Penelitian"
 subtitle: "Anak magang mau ngeblast Google Forms ke 10.000 kontak, dan Nik nyamber rapat itu pakai bekal materi Metpen: desain penelitian, populasi vs sampel, sampai ilusi big data."
 type: blog
