@@ -6,13 +6,13 @@
 	{{ with .Params.category }}<a class="pm-cat" href="{{ relURL (printf "category/%s/" (. | urlize)) }}">{{ . }}</a> · {{ end }}
 	{{ .Date.Format "2 January 2006" }}
 </p>
+{{ with .Params.tags }}
+<p class="post-tags post-tags-top"><span class="pt-label">Tag:</span> {{ range . }}{{ partial "term-chip.html" (dict "term" . "plural" "tags") }}{{ end }}</p>
+{{ end }}
 {{ with .Params.subtitle }}<p class="story-subtitle">{{ . }}</p>{{ end }}
 <div class="post-body">
 	{{ .Content }}
 </div>
-{{ with .Params.tags }}
-<p class="post-tags"><span class="pt-label">Tag:</span> {{ range . }}{{ partial "term-chip.html" (dict "term" . "plural" "tags") }}{{ end }}</p>
-{{ end }}
 {{ partial "share.html" . }}
 {{ partial "comments.html" . }}
 <hr class="wp-block-separator">

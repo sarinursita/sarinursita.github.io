@@ -3,6 +3,7 @@ title: "It All Started with a Dream"
 type: blog
 date: 2026-09-26
 category: "Kuliah"
+tags: ["kuliah", "s2", "mimpi"]
 summary: "Hari pertama orientasi S2 — dan kenapa semuanya dimulai dari sebuah mimpi."
 hook: "Berat mengakui kalau kita masih punya mimpi. Tapi ternyata itu langkah pertama untuk mewujudkannya. Cerita hari pertama kuliah S2-ku."
 ---
