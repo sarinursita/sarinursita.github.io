@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1540
 ws_msg: 21344
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "smart-information-system"]
+tags: ["study", "collab-journal", "MMSI", "smart-information-system", "catatan-nik"]
 summary: "CRM sewa gedung SCBD tiba-tiba gak berguna pas Bram cabut. Bukan karena aplikasinya rusak, tapi karena empat pilar sistem informasinya pincang sejak awal."
 hook: "Enterprise system tidak bisa gantiin orang yang pergi. Kantor Nik belajar itu dengan cara yang pahit."
 publish_from: file

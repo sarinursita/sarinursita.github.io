@@ -7,7 +7,7 @@ draft: true
 ws_chat: 1569
 ws_msg: 21426
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "pendidikan-jarak-jauh", "teknologi-pendidikan"]
+tags: ["collab-journal", "kelas-online", "pendidikan-jarak-jauh", "teknologi-pendidikan", "ians-notebook"]
 summary: "Gua bedah Pendidikan Tinggi Jarak Jauh dan sinkron-asinkron: dari klien yang minta Zoom empat jam sehari, teori Moore dan Keegan, sampai resep Sandwich Learning buat kelas proyek lu."
 hook: "Di mata cici gua, kerjaan gua bikin materi online kelihatan kayak jualan angin di internet: buka Zoom, ngomong dua jam, kirim slide, selesai."
 ---

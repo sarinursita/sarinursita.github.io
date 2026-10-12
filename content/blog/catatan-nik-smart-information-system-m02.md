@@ -7,7 +7,7 @@ draft: true
 ws_chat: 1573
 ws_msg: 21450
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "smart-information-system"]
+tags: ["study", "collab-journal", "MMSI", "smart-information-system", "catatan-nik"]
 summary: "Materi SIS pertemuan 2 soal BI, SIC, dan Augmented Intelligence dijahit ke drama kantor Nik: dashboard mahal jadi pajangan, dan bedah empat sektor pemakai sistem cerdas."
 hook: "Dashboard puluhan juta yang cuma nyala kalau ada audit itu bukan BI gagal, itu perusahaan yang belum ngerti buat apa datanya."
 ---

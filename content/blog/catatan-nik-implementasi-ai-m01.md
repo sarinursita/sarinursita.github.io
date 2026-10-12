@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1539
 ws_msg: 21358
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"]
+tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence", "catatan-nik"]
 summary: "Dari rule-based yang rapuh ke tiga cara mesin belajar: spreadsheet Bram jebol bukan karena error, tapi karena jaman udah bergeser dan sistem itu nggak bisa ikut bergeser."
 hook: "Sistem kantor Nik jebol bukan karena error, tapi karena aturan kaku nggak sanggup nampung kenyataan lapangan."
 ---

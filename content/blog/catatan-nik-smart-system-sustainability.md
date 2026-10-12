@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1527
 ws_msg: 21284
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "smart-system", "kuliah-perdana-mmsi"]
+tags: ["study", "collab-journal", "MMSI", "smart-system", "kuliah-perdana-mmsi", "catatan-nik"]
 summary: "Vendor bilang smart system-nya bisa belajar. Nyatanya dia belajar dari data yang salah, dan satu gedung ikut kacau dalam satu sore."
 hook: "Gedung yang katanya paling canggih di Jakarta itu mati AC-nya di ruangan yang penuh orang, dan menyalakan pendingin kencang di ruangan yang isinya tiga orang."
 ---

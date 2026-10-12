@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1541
 ws_msg: 21354
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian"]
+tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian", "catatan-nik"]
 summary: "Di kantor, semua orang punya pendapat. Tapi mana yang ilmiah dan mana yang cuma asumsi? Semalem gue belajar bedanya, dan ternyata nggak semua rapat butuh itu."
 hook: "Rapat darurat penuh asumsi, nol data. Nik bahas kenapa 'kata gue sih' nggak pernah cukup, bahkan di ruang rapat."
 ---

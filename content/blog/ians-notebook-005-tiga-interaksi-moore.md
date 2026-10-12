@@ -7,7 +7,7 @@ draft: true
 ws_chat: 1570
 ws_msg: 21431
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "interaksi-pembelajaran", "teknologi-pendidikan"]
+tags: ["collab-journal", "kelas-online", "interaksi-pembelajaran", "teknologi-pendidikan", "ians-notebook"]
 summary: "Tiga interaksi Moore (murid-materi, murid-guru, murid-teman) dijelasin pake metafora kursi bakso: kasus program korporat yang ditinggal 75 persen pesertanya dan pelajaran dari Nadia."
 hook: "Webinar dua jam di depan 30 kotak hitam tanpa video dan tanpa suara, dan pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie."
 ---

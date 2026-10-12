@@ -7,7 +7,7 @@ draft: true
 ws_chat: 1574
 ws_msg: 21451
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian"]
+tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian", "catatan-nik"]
 summary: "Materi Metpen pertemuan 2 soal desain penelitian dan teknik sampling dijahit ke drama kantor Nik: rapat panik pasca Bram cabut yang mau bikin survei ngawur, dan bedah kuantitatif vs kualitatif."
 hook: "Mau ngeblast kuesioner itu gampang; yang susah ialah jawab dulu mau nanya apa. Rapat kantor Nik kemarin adalah kelas besar soal itu."
 ---

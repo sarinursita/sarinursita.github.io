@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1569
 ws_msg: 21426
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "PTJJ", "distance-education"]
+tags: ["collab-journal", "kelas-online", "PTJJ", "distance-education", "ians-notebook"]
 summary: "Dari obrolan sama Mas Hendra soal onboarding online 4 jam sehari, gua sadar kelas-kelas yang gua bikin selama ini sebenernya praktik pendidikan jarak jauh. Dan ternyata gua sering salah ngatur porsi nonton langsung vs kerja mandiri."
 hook: "Di mata cici gua, kerjaan gua bikin materi online kelihatan kayak jualan angin di internet: buka Zoom, ngomong dua jam, kirim slide, selesai."
 ---

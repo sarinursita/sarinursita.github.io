@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1537
 ws_msg: 21357
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "konstruktivisme", "teknologi-pendidikan"]
+tags: ["collab-journal", "kelas-online", "konstruktivisme", "teknologi-pendidikan", "ians-notebook"]
 summary: "Dari Piaget sampai Vygotsky, gua bedah teori konstruktivisme buat ngejawab satu pertanyaan Mas Hendra, dan jawaban jujurnya bikin miris."
 hook: "Klien gua minta modul leadership 45 menit berisi 80 slide teks dan sepuluh soal pilihan ganda. Gua hampir ketawa, sampai sadar kelas gua sendiri juga begitu."
 ---

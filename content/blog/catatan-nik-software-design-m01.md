@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1546
 ws_msg: 21364
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "software-design"]
+tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: "Kode yang jalan belum tentu software. Dari empat atribut kualitas Sommerville sampai vendor yang milih bungkam soal celah keamanan demi termin pembayaran."
 hook: "\"Sistem sudah selesai 100%, semua fiturnya bisa diklik.\" Sistem mahal itu sekarang terbengkalai, dan bukan karena error."
 ---

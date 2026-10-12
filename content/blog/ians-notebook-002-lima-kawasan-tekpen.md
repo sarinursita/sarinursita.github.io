@@ -7,7 +7,7 @@ draft: false
 ws_chat: 1536
 ws_msg: 21356
 category: "Collab Journal"
-tags: ["collab-journal", "kelas-online", "5-kawasan-tekpen", "teknologi-pendidikan"]
+tags: ["collab-journal", "kelas-online", "5-kawasan-tekpen", "teknologi-pendidikan", "ians-notebook"]
 summary: "Gua begadang tiga malam bikin materi kelas yang gua kira udah sempurna, sampai satu pertanyaan Mas Hendra bikin gua sadar ada bagian yang gua sendiri nggak pernah periksa."
 hook: "Slide rapi, kuis jalan, completion rate 90 persen. Terus satu pertanyaan pendek dari atasan gua bikin semua angka itu jadi nggak ada artinya."
 ---

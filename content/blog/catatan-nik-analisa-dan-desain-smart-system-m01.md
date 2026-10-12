@@ -8,7 +8,7 @@ ws_chat: 1542
 ws_msg: 21352
 publish_from: file
 category: "Collab Journal"
-tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system"]
+tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system", "catatan-nik"]
 summary: "Manajemen pengen gantiin valuer senior yang cabut pake AI. Tapi dari materi SSAD pertemuan 1 gue baru ngerti: problem pertama bukan di algoritmanya, di framing-nya."
 hook: "\"Kenapa nggak bikin sistem AI aja?\" kata salah satu petinggi di rapat kantor Nik. Dosen SSAD-nya bilang justru di situ jebakan pertamanya."
 ---
