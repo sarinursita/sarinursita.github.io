@@ -114,6 +114,3 @@ Gua mau balik ngecek tugas rekaman anak-anak kelas *weekend* gua dulu pake topi 
 
 — Ian
 
----
-
-*Sari replied to this post: [Re: Ian - Tiga Topi Ajaib](https://sarinursita.github.io/blog/balasan-untuk-ian-tiga-topi-ajaib/)*
