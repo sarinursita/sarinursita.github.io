@@ -7,7 +7,9 @@ title: "Sari Nursita"
 
 <figure class="wp-block-image size-large profile-photo"><img src="/images/sari.png" alt="Sari Nursita"></figure>
 
-<p>Halo, namaku <strong>Sari Nursita</strong>. Aku lulusan Fakultas Ilmu Komputer Universitas Indonesia dan bekerja sebagai <strong>programmer</strong>.</p>
+<p>Halo, salam kenal namaku <strong>Sari</strong> :)</p>
+
+<p>Aku lulusan Fakultas Ilmu Komputer Universitas Indonesia dan saat ini sedang mengambil program Magister Manajemen Sistem Informasi di Universitas Gunadarma. Aku bekerja sebagai <strong>programmer</strong>.</p>
 
 <p>Aku suka mencoba hal baru yang berkaitan dengan <strong>teknologi</strong> dan <strong>menulis</strong>. Aku menulis buku programming, buku LKS, dan buku teks Informatika untuk SMP dan SMA. Aku juga menulis buku fiksi untuk anak dan remaja.</p>
 
