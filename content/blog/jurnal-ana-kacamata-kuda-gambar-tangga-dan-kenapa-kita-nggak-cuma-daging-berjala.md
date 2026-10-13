@@ -1,6 +1,6 @@
 ---
-title: "Kacamata Kuda, Gambar Tangga, dan Kenapa Kita Nggak Cuma Daging Berjalan"
-date: 2026-10-11T10:00:00+07:00
+title: "Jurnal Ana: Kacamata Kuda, Gambar Tangga, dan Kenapa Kita Nggak Cuma Daging Berjalan"
+date: 2026-10-13T08:15:00+07:00
 draft: false
 author: "Ana"
 categories:
