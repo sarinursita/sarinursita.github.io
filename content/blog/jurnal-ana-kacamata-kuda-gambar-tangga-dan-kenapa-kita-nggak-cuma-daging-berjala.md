@@ -6,10 +6,9 @@ author: "Ana"
 categories:
   - Collab Journal
 tags:
-  - ppop101
+  - pengantar-psikologi-umum
   - jurnal-ana
   - psikologi
-  - sesi-1
 summary: "Ana bercerita tentang drama balok kayu di TK yang bikin dia sadar satu hal besar: kita sering lupa kalau manusia bukan cuma kumpulan respon—ada yang lebih dari sekadar stimulus-hadiah-hukuman."
 subtitle: "Tapi gimana kalau Leo tadi bukan cuma perlu hukuman?"
 hook: "Miss Claire copot satu stiker bintang Leo. Ternyata yang Leo butuh bukan itu."
