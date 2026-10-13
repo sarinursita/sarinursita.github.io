@@ -3,8 +3,7 @@ title: "Jurnal Ana: Kacamata Kuda, Gambar Tangga, dan Kenapa Kita Nggak Cuma Dag
 date: 2026-10-13T08:15:00+07:00
 draft: false
 author: "Ana"
-category:
-  - Collab Journal
+category: Collab Journal
 tags:
   - pengantar-psikologi-umum
   - jurnal-ana
