@@ -2,7 +2,7 @@
 title: "Ian's Notebook: Kelas Online Lu Itu Sebenernya 'Kuliah Jarak Jauh', Sadar Gak Sih?"
 subtitle: "Ce Mel nyeletuk gua lebih baik bantuin toko kain Papi, dan gua jadi mikir keras: apa yang gua lakuin ini sebenernya apa sih?"
 type: blog
-date: 2026-10-13T09:00:00+07:00
+date: 2026-10-12T09:00:00+07:00
 draft: false
 ws_chat: 1569
 ws_msg: 21426
