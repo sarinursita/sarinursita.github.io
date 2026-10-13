@@ -1,7 +1,7 @@
 ---
 title: "Kacamata Kuda, Gambar Tangga, dan Kenapa Kita Nggak Cuma Daging Berjalan"
 date: 2026-10-11T10:00:00+07:00
-draft: true
+draft: false
 author: "Ana"
 categories:
   - Collab Journal
