@@ -1,15 +1,15 @@
 ---
 title: "Ian's Notebook: Kursi Bakso Patah Kaki: Kenapa Kelas Online Lu Sepi Kayak Kuburan Pas Minggu Ketiga"
-subtitle: "Dasbor retensi program klien Mas Hendra anjlok, dan teori tiga interaksi Moore bikin gua ngerti kenapa kelas yang cuma guru-ngomong selalu ditinggal pesertanya."
+subtitle: "Mas Hendra nunjukin dasbor retensi yang anjlok, dan gua nyadar: kelas yang gua bikin cuma punya satu interaksi, padahal butuh tiga."
 type: blog
-date: 2026-10-14T05:00:00+07:00
-draft: true
+date: 2026-10-14T13:58:38.705460+07:00
+draft: false
 ws_chat: 1570
 ws_msg: 21431
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "interaksi-pembelajaran", "teknologi-pendidikan", "ians-notebook"]
-summary: "Tiga interaksi Moore (murid-materi, murid-guru, murid-teman) dijelasin pake metafora kursi bakso: kasus program korporat yang ditinggal 75 persen pesertanya dan pelajaran dari Nadia."
-hook: "Webinar dua jam di depan 30 kotak hitam tanpa video dan tanpa suara, dan pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie."
+summary: "Gua jelasin tiga interaksi Moore pake metafora kursi bakso, dari kasus program korporat yang ditinggal 75 persen pesertanya sampai kenapa Nadia ilang di minggu kelima."
+hook: "Webinar dua jam di depan 30 kotak hitam. Pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie." dan pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie."
 ---
 
 Sar, lu pernah nggak ikut *webinar* atau kelas *online* yang dari awal sampai akhir rasanya kayak disuruh dengerin khotbah bapak-bapak lurah pas upacara bendera? 
