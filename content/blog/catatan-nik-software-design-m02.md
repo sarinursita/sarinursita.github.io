@@ -8,7 +8,7 @@ ws_chat: 1577
 ws_msg: 21457
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
-summary: "Materi Software Design pertemuan 2 soal software process: spesifikasi, desain, validasi, evolusi. Di kantor Nik, bos minta anak IT langsung ngoding tanpa dokumen requirement karena dikejar prototipe dua minggu."
+summary: "Materi Software Design pekan ini soal software process: spesifikasi, desain, validasi, evolusi. Di kantor, bos minta anak IT langsung ngoding tanpa dokumen requirement—langsung gue sadar itu resep proyek boncos."
 hook: "\"Gak usah kaku pake birokrasi dokumen requirement, yang penting anak IT langsung ngoding aja.\" Instruksi itu pas banget sama materi pekan ini: proses yang kacau bikin proyek boncos sebelum baris kode pertama jalan."
 ---
 

@@ -8,7 +8,7 @@ ws_chat: 1572
 ws_msg: 21449
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence", "catatan-nik"]
-summary: "Materi IAI pertemuan 2 soal etika dan dampak sosial AI dijahit ke drama kantor Nik: draf penilaian otomatis bocor, kantor panik, lalu bedah soal hilangnya pekerjaan, robot tax, UBI, sampai superintelligence."
+summary: "Draf penilaian otomatis bocor di Slack dan kantor panik. Pas banget sama materi minggu ini: etika AI, hilangnya pekerjaan, robot tax, UBI, sampai superintelligence. Serem-serem seru."
 hook: "Satu draf bocor bikin kantor panik, dan panik itu persis cermin dari pertanyaan besar materi minggu ini: pekerjaan mana yang bakal diambil mesin?"
 ---
 
