@@ -1,11 +1,11 @@
----
+------
 title: "Catatan Nik: Ketika Ambisi \"Pokoknya Langsung Bikin Aplikasi\" Berujung Boncos di SCBD"
 subtitle: "Bos gue bilang dokumen requirement itu birokrasi yang bikin lambat. Sommerville bilang justru di situ proyek mulai boncos."
 type: blog
 date: 2026-10-14T05:00:00+07:00
 draft: true
 ws_chat: 1577
-ws_msg: 21455
+ws_msg: 21457
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: "Materi Software Design pertemuan 2 soal software process: spesifikasi, desain, validasi, evolusi. Di kantor Nik, bos minta anak IT langsung ngoding tanpa dokumen requirement karena dikejar prototipe dua minggu."
@@ -14,11 +14,11 @@ hook: "\"Gak usah kaku pake birokrasi dokumen requirement, yang penting anak IT 
 
 Setengah jam setelah rapat siang tadi bubar, gue masih betah duduk di meja kerja gue di lantai 28, Sar. Bukan karena kerjaan numpuk, tapi karena satu instruksi yang baru aja gue denger di ruang rapat bikin gue pengen ngambil napas panjang dulu sebelum pulang. 
 
-Buat *Software Design*, bobot pertemuan pekan ini lumayan gede (sepuluh persen dari total nilai sub-CPMK), gue akhirnya mutusin buat langsung bedah referensi wajibnya: Bab 2 bukunya Ian Sommerville edisi ke-10, ditambah beberapa catatan perbandingan dari Roger Pressman. Fokusnya pekan ini bener-bener nancep di fondasi paling mendasar: *software process*, empat aktivitas utamanya, dan kenapa proses yang berantakan bakal otomatis ngehancurin proyek sebelum baris kode pertama sempat di-*deploy*.
+Berhubung bobot materi pekan ini lumayan gede (sepuluh persen dari total nilai sub-CPMK), gue akhirnya mutusin buat langsung bedah referensi wajibnya: Bab 2 bukunya Ian Sommerville edisi ke-10, ditambah beberapa catatan perbandingan dari Roger Pressman. Fokusnya pekan ini bener-bener nancep di fondasi paling mendasar: *software process*, empat aktivitas utamanya, dan kenapa proses yang berantakan bakal otomatis ngehancurin proyek sebelum baris kode pertama sempat di-*deploy*.
 
 Lucunya, pas gue lagi baca konsep Sommerville soal *repeatability* dan *coping with change*, gue malah ngelamun miris ngeliat situasi di lantai kantor SCBD. Drama operasional pasca cabutnya Bram tiga minggu lalu ternyata berbuntut panjang dan mulai merembet ke mana-mana. 
 
-Lo tahu sendiri kan, kepergian Bram bareng dua *lead valuer* andalannya bikin manajemen kebakaran jenggot. Portofolio valuasi komersial kita goyang, dan divisi operasional mulai panik kehilangan kapasitas hitung cepat yang selama ini ada di kepalanya Bram. Akhir pekan lalu, manajemen ngambil jalan pintas yang sangat khas korporat panik: mereka manggil konsultan *software house* pihak ketiga buat bikin *platform internal automated valuation workflow*. 
+Eh Sar, lo ingat kan drama tender platform *automated valuation workflow* yang gue ceritain tempo hari? Nah, proyeknya ternyata udah dimulai minggu ini. Konsultan *software house*-nya dateng, presentasi roadmap, tapi pas gue baca dokumen proposalnya, gue baru sadar: mereka paham masalah valuasi properti komersial setengah-setengah banget. *Scope* yang mereka tawarkan ngawur—campur aduk antara *market trend dashboard*, kalkulator NPV, dan *customer portal* yang sebenernya bukan kebutuhan inti divisi gue. Dan manajemen? Mereka udah tanda tangan kontrak. 
 
 Instruksi bos gue ke tim pengembang bener-bener bikin gue elus dada: *"Gak usah kaku pake birokrasi dokumen requirement segala macem. Waktu kita sempit, yang penting anak IT langsung ngoding aja. Pokoknya dua minggu lagi prototipe jalan udah bisa dites."*
 
