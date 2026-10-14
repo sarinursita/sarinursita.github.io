@@ -14,11 +14,11 @@ hook: "\"Gak usah kaku pake birokrasi dokumen requirement, yang penting anak IT 
 
 Setengah jam setelah rapat siang tadi bubar, gue masih betah duduk di meja kerja gue di lantai 28, Sar. Bukan karena kerjaan numpuk, tapi karena satu instruksi yang baru aja gue denger di ruang rapat bikin gue pengen ngambil napas panjang dulu sebelum pulang. 
 
-Berhubung bobot materi pekan ini lumayan gede (sepuluh persen dari total nilai sub-CPMK), gue akhirnya mutusin buat langsung bedah referensi wajibnya: Bab 2 bukunya Ian Sommerville edisi ke-10, ditambah beberapa catatan perbandingan dari Roger Pressman. Fokusnya pekan ini bener-bener nancep di fondasi paling mendasar: *software process*, empat aktivitas utamanya, dan kenapa proses yang berantakan bakal otomatis ngehancurin proyek sebelum baris kode pertama sempat di-*deploy*.
+Berhubung bobot materi pekan ini lumayan gede, gue akhirnya mutusin buat langsung bedah referensi wajibnya: Bab 2 bukunya Ian Sommerville edisi ke-10, ditambah beberapa catatan perbandingan dari Roger Pressman. Fokusnya pekan ini bener-bener nancep di fondasi paling mendasar: *software process*, empat aktivitas utamanya, dan kenapa proses yang berantakan bakal otomatis ngehancurin proyek sebelum baris kode pertama sempat di-*deploy*.
 
 Lucunya, pas gue lagi baca konsep Sommerville soal *repeatability* dan *coping with change*, gue malah ngelamun miris ngeliat situasi di lantai kantor SCBD. Drama operasional pasca cabutnya Bram tiga minggu lalu ternyata berbuntut panjang dan mulai merembet ke mana-mana. 
 
-Eh Sar, lo ingat kan drama tender platform *automated valuation workflow* yang gue ceritain tempo hari? Nah, proyeknya ternyata udah dimulai minggu ini. Konsultan *software house*-nya dateng, presentasi roadmap, tapi pas gue baca dokumen proposalnya, gue baru sadar: mereka paham masalah valuasi properti komersial setengah-setengah banget. *Scope* yang mereka tawarkan ngawur—campur aduk antara *market trend dashboard*, kalkulator NPV, dan *customer portal* yang sebenernya bukan kebutuhan inti divisi gue. Dan manajemen? Mereka udah tanda tangan kontrak. 
+Eh Sar, lo ingat kan drama tender platform *automated valuation workflow* yang gue ceritain tempo hari? Nah, proyeknya ternyata udah dimulai minggu ini. Konsultan *software house*-nya dateng, presentasi roadmap, tapi pas gue baca dokumen proposalnya, gue baru sadar: mereka paham masalah valuasi properti komersial setengah-setengah banget. *Scope* yang mereka tawarkan ngawur, campur aduk antara *market trend dashboard*, kalkulator NPV, dan *customer portal* yang sebenernya bukan kebutuhan inti divisi gue. Dan manajemen? Mereka udah tanda tangan kontrak. 
 
 Instruksi bos gue ke tim pengembang bener-bener bikin gue elus dada: *"Gak usah kaku pake birokrasi dokumen requirement segala macem. Waktu kita sempit, yang penting anak IT langsung ngoding aja. Pokoknya dua minggu lagi prototipe jalan udah bisa dites."*
 
@@ -45,7 +45,7 @@ Gak ada satu proses tunggal yang berlaku buat semua jenis proyek di dunia ini. P
 
 ## Empat Aktivitas Fundamental yang Gak Boleh Lo Langkahi
 
-Nah, ini inti bahasan pekan kedua kita, Sar. Mau lo pake pendekatan tradisional yang kaku atau pendekatan modern yang serba lincah, Sommerville menegaskan kalau semua model proses rekayasa perangkat lunak di dunia ini pasti bertumpu pada empat aktivitas fundamental. Empat aktivitas ini bukan fase sekuensial yang sekali jalan langsung ditinggal, melainkan siklus berulang yang saling mengikat.
+Nah, ini inti bahasan pekan kedua, Sar. Mau lo pake pendekatan tradisional yang kaku atau pendekatan modern yang serba lincah, Sommerville menegaskan kalau semua model proses rekayasa perangkat lunak di dunia ini pasti bertumpu pada empat aktivitas fundamental. Empat aktivitas ini bukan fase sekuensial yang sekali jalan langsung ditinggal, melainkan siklus berulang yang saling mengikat.
 
 ```
        +---------------------------------------------+
@@ -106,18 +106,18 @@ Kalau keempat aktivitas utama tadi gak dirangkai dalam proses yang disiplin, fen
 
 Ini juga kenapa ada konsep *process improvement* kayak kerangka CMMI (*Capability Maturity Model Integration*). Perusahaan yang dewasa gak cuma mengandalkan kejeniusan individu tertentu (kayak ketergantungan kantor gue ke sosok Bram). Ketergantungan ke satu orang itu rapuh banget. Organisasi yang sehat bakal nerapin siklus **measure -> analyze -> change** secara berkala. Kualitas kerja tim distandarkan lewat proses yang bisa diulang (*repeatable*), sehingga siapa pun yang masuk atau keluar, mutu perangkat lunak yang dihasilkan perusahaan tetap terjamin dan terprediksi jadwalnya.
 
-Pekan depan, pas kita masuk ke Pertemuan 3, kita bakal ngeliat gimana aktivitas-aktivitas fundamental ini disusun dalam berbagai bentuk pola arketipe, mulai dari *Waterfall* yang linier kaku, pendekatan *Agile* yang fleksibel adaptif, sampai model *Spiral* yang berorientasi mitigasi risiko. Tapi lo gak bakal bisa milih model proses yang pas kalau lo belum paham anatomi dari empat aktivitas dasarnya hari ini.
+Pekan depan kita bakal ngeliat gimana aktivitas-aktivitas fundamental ini disusun dalam berbagai bentuk pola arketipe, mulai dari *Waterfall* yang linier kaku, pendekatan *Agile* yang fleksibel adaptif, sampai model *Spiral* yang berorientasi mitigasi risiko. Tapi lo gak bakal bisa milih model proses yang pas kalau lo belum paham anatomi dari empat aktivitas dasarnya hari ini.
 
 ---
 
 ## Bahan Diskusi Buat Catatan Lo Berikutnya
 
-Biar otak lo ikutan panas dan kita dapet bahan buat sesi belajar asinkronus selanjutnya, gue mau ninggalin beberapa pertanyaan analitis nih buat lo. Coba lo bedah pakai perspektif manajemen sistem informasi:
+Biar otak lo ikutan panas dan kita bisa lanjut diskusi pekan depan, gue mau ninggalin beberapa pertanyaan analitis nih buat lo. Coba lo bedah pakai perspektif manajemen sistem informasi:
 
 1. Mengingat karakter industri konsultan properti di kantor gue yang ritmenya serba dinamis dan sering kali regulasi valuasinya berubah mendadak dari otoritas pemerintah, menurut lo, di antara aktivitas *software specification* dan *software validation*, mana yang membawa risiko finansial paling besar kalau dipangkas demi ngejar *deadline* peluncuran sistem?
 2. Kalau lo diposisikan sebagai manajer proyek di kantor gue yang lagi krisis pasca hengkangnya Bram, gimana argumen lo meyakinkan jajaran direksi bahwa langsung terjun ke penulisan kode tanpa dokumen spesifikasi yang tervalidasi justru bakal memperpanjang durasi proyek dan melipatgandakan anggaran?
 3. Sommerville bilang perangkat lunak gak aus secara fisik melainkan menua akibat modifikasi (*evolution*). Dalam konteks tata kelola enterprise, tanda-tanda konkret apa yang menunjukkan bahwa sistem warisan di sebuah perusahaan udah masuk fase kadaluarsa dan biayanya lebih murah dibangun ulang daripada terus-menerus dirawat?
 
-Sambil nyeduh teh chamomile kedua sebelum nyiapin bahan presentasi kantor buat besok subuh,
+Sambil nyeduh teh chamomile kedua sebelum nyiapin bahan presentasi kantor buat besok pagi,
 
 Nik
