@@ -8,7 +8,7 @@ ws_chat: 1573
 ws_msg: 21450
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "smart-information-system", "catatan-nik"]
-summary: "Dashboard mahal jadi pajangan di SCBD. Dari materi SIS minggu ini gue bedah BI, SIC, dan Augmented Intelligence—dan empat pilar yang masih pincang."
+summary: "Dashboard mahal jadi pajangan di SCBD. Dari materi SIS minggu ini gue bedah BI, SIC, dan Augmented Intelligence, dan empat pilar yang masih pincang."
 hook: "Dashboard puluhan juta yang cuma nyala kalau ada audit itu bukan BI gagal, itu perusahaan yang belum ngerti buat apa datanya."
 ---
 
