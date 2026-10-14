@@ -1,4 +1,4 @@
-------
+---
 title: "Catatan Nik: Ketika Ambisi \"Pokoknya Langsung Bikin Aplikasi\" Berujung Boncos di SCBD"
 subtitle: "Bos gue bilang dokumen requirement itu birokrasi yang bikin lambat. Sommerville bilang justru di situ proyek mulai boncos."
 type: blog
