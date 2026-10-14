@@ -9,7 +9,7 @@ ws_msg: 21431
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "interaksi-pembelajaran", "teknologi-pendidikan", "ians-notebook"]
 summary: "Gua jelasin tiga interaksi Moore pake metafora kursi bakso, dari kasus program korporat yang ditinggal 75 persen pesertanya sampai kenapa Nadia ilang di minggu kelima."
-hook: "Webinar dua jam di depan 30 kotak hitam. Pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie." dan pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie."
+hook: "Webinar dua jam di depan 30 kotak hitam. Pas minggu ketiga tinggal lima orang yang masuk Zoom sambil ditinggal masak indomie."
 ---
 
 Sar, lu pernah nggak ikut *webinar* atau kelas *online* yang dari awal sampai akhir rasanya kayak disuruh dengerin khotbah bapak-bapak lurah pas upacara bendera? 
