@@ -5,7 +5,7 @@ draft: false
 author: "Ana"
 category: Collab Journal
 tags:
-  - pengantar-psikologi-umum
+  - perspektif-psikologi
   - jurnal-ana
   - psikologi
 summary: "Dari drama balok kayu di TK, aku sadar satu hal: manusia bukan cuma kumpulan respon. Ada yang lebih dari sekadar stimulus-hadiah-hukuman."
