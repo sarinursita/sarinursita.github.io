@@ -1,9 +1,9 @@
 ---
 title: "Catatan Nik: Ketika Dashboard Puluhan Juta Cuma Jadi Pajangan Pemadam Kebakaran"
-subtitle: "Managing Director tanya dashboard di rapat pagi, dan Nobody bisa jawab: dari BI yang cuma spion sampai SIC yang jadi radar, plus empat sektor yang udah kepake beneran."
+subtitle: "Managing Director tanya dashboard di rapat pagi, dan nggak ada satu pun yang bisa jawab: dari BI yang cuma spion sampai SIC yang jadi radar, plus empat sektor yang udah kepake beneran."
 type: blog
-date: 2026-10-15T05:00:00+07:00
-draft: true
+date: 2026-10-15T11:41:44.802503+07:00
+draft: false
 ws_chat: 1573
 ws_msg: 21450
 category: "Collab Journal"
@@ -20,7 +20,7 @@ Gue buka dokumennya sambil ngelus dada. Isinya grafik batang warna-warni, *pie c
 
 Ini penyakit klasik korporat yang bikin gue gemas setengah mati, Sar. Bos-bos panik ngeliat data historis, terus nuntut tim buat ngasih solusi instan hari ini juga. Mereka pikir dengan beli lisensi *software* visualisasi jutaan rupiah per *user*, kantor otomatis jadi *smart*. Padahal, yang mereka punya itu cuma spion mobil: jernih banget ngeliat lobang jalanan yang barusan kita tabrak, tapi gelap gulita soal tikungan tajam di depan.
 
-Pas banget materi kuliah *Smart Information System* minggu ini ngebahas tuntas soal batasan *Business Intelligence* (BI) konvensional dan gimana Sistem Informasi Cerdas (SIC) masuk buat nambal kelemahan itu. Gue langsung merasa materi ini ditulis khusus buat nyindir kantor gue sendiri.
+Pas banget materi kuliah minggu ini ngebahas tuntas soal batasan *Business Intelligence* (BI) konvensional dan gimana Sistem Informasi Cerdas (SIC) masuk buat nambal kelemahan itu. Gue langsung merasa materi ini ditulis khusus buat nyindir kantor gue sendiri.
 
 ---
 
@@ -108,7 +108,7 @@ Supaya pemahaman kita gak melulu bias ke dunia konsultan properti komersial temp
 
 ## Menghubungkan Sistem dengan Tingkatan Manajemen
 
-Materi kuliah kita juga ngebedah gimana SIC melayani setiap level manajemen secara berbeda. Kalau arsitektur sistem gak selaras sama struktur organisasi, sistemnya bakal ditolak karena dianggap nambah beban kerja alih-alih ngebantu.
+Materi kuliah minggu ini juga ngebedah gimana SIC melayani setiap level manajemen secara berbeda. Kalau arsitektur sistem gak selaras sama struktur organisasi, sistemnya bakal ditolak karena dianggap nambah beban kerja alih-alih ngebantu.
 
 ```
        ▲  /===========================\
