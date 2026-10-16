@@ -1,14 +1,14 @@
 ---
 title: "Ian's Notebook: Audit 5 Baut Tiap Kelas: Mana yang Bikin Mesin Lu Ngebul Diam-diam?"
-subtitle: "Rating tutor 4.8 tapi komplain customer support naik tiga puluh persen: ternyata yang kendur bukan materinya, tapi baut administrasi yang nggak pernah kita kencangkan."
+subtitle: "Mas Hendra nunjukin angka komplain yang naik terus padahal rating tutornya 4.8. Dan gua baru sadar yang kendur sebenernya bukan materinya."
 type: blog
-date: 2026-10-16T05:00:00+07:00
-draft: true
+date: 2026-10-16T10:53:00.512428+07:00
+draft: false
 ws_chat: 1571
-ws_msg: 21430
+ws_msg: 21499
 category: "Collab Journal"
 tags: ["collab-journal", "kelas-online", "sistem-pembelajaran", "teknologi-pendidikan", "ians-notebook"]
-summary: "Lima baut sistem pembelajaran PTJJ (peserta, bahan, tutor, administrasi, evaluasi) dibedah dari kasus komplain yang melonjak padahal rating bagus, plus kerangka audit Five-Bolt Check."
+summary: "Gua bedah lima baut sistem pembelajaran PTJJ pakai kerangka Five-Bolt Check, dari kasus komplain klien yang melonjak sampai murid gua sendiri yang berhenti gara-gara urusan administrasi."
 hook: "Rating tutor 4.8, materi dibilang komprehensif, tapi komplain di customer support malah naik tiga puluh persen."
 ---
 
@@ -28,7 +28,7 @@ Kalau lu ibaratkan kelas lu itu mobil, lima komponen ini adalah baut rodanya. Ba
 
 ## Ilusi "Yang Penting Materinya Daging"
 
-*Ancene* ya, penyakit menahun kita yang hobi bikin kelas adalah narsis materi. Gua sering banget terjebak di sini, Sar. Gua bisa begadang sampai jam tiga pagi cuma buat nyari font yang pas, ngerapikan transisi slide, atau bikin diagram visual yang estetik di Canva. Kita mikir kalau materi kita sudah selevel kurikulum dewa, otomatis kelasnya bakal sukses dan peserta bakal tercerahkan.
+*Pancen* ya, penyakit menahun kita yang hobi bikin kelas adalah narsis materi. Gua sering banget terjebak di sini, Sar. Gua bisa begadang sampai jam tiga pagi cuma buat nyari font yang pas, ngerapikan transisi slide, atau bikin diagram visual yang estetik di Canva. Kita mikir kalau materi kita sudah selevel kurikulum dewa, otomatis kelasnya bakal sukses dan peserta bakal tercerahkan.
 
 *Bullshit.*
 
@@ -57,7 +57,7 @@ Bukan cuma soal kuis atau tugas akhir buat ngasih nilai ke peserta, tapi juga ev
 
 Dari lima baut tadi, coba tebak mana yang paling sering bikin kelas *side gig* gua megap-megap? Jawabannya jelas: baut nomor empat, **administrasi**.
 
-Gua inget banget kasus Nadia di kelas *public speaking* gua beberapa waktu lalu. Nadia menghilang di minggu kelima bukan karena dia nggak mampu ngomong di depan publik, dan bukan karena materi gua jelek. Nadia cabut karena alur administrasi tugas di grup WhatsApp gua semrawut kayak pasar keputran pas subuh. Tugasnya ketumpuk chat obrolan santai, format pengumpulan file nggak seragam, dan dia nggak dapat kepastian apakah tugasnya sudah gua terima atau belum. Nadia panik, merasa diabaikan, lalu milih mundur teratur.
+Gua inget banget kasus Dimas di kelas *public speaking* gua tahun lalu. Dia berhenti di minggu ketujuh, dan waktu itu gua sempat ngira dia sekadar kehabisan waktu. Padahal bukan. Cicilan keduanya udah masuk tapi nggak pernah gua konfirmasi, link rekaman sesi gua kirim ke email lama yang udah dia tinggalin, dan jadwal yang digeser gara-gara hari libur cuma gua tempel di grup WhatsApp yang notifikasinya udah dia mute sejak lama. Tiga minggu dia ngerasa jalan sendiri tanpa ada yang ngecek. Akhirnya dia milih berhenti daripada harus nanya-nanya terus dan kelihatan bego.
 
 Baut administrasinya lepas, dan rodanya langsung copot.
 
