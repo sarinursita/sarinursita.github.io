@@ -1,20 +1,20 @@
 ---
 title: "Catatan Nik: Antara Kuesioner Ngawur Manajemen dan Seni Merancang Desain Penelitian"
-subtitle: "Anak magang mau ngeblast Google Forms ke 10.000 kontak, dan Nik nyamber rapat itu pakai bekal materi Metpen: desain penelitian, populasi vs sampel, sampai ilusi big data."
+subtitle: "Anak magang mau ngeblast Google Forms ke 10.000 kontak, dan gue nyamber rapat itu pakai bekal materi Metpen: desain penelitian, populasi vs sampel, sampai ilusi big data."
 type: blog
-date: 2026-10-16T05:00:00+07:00
-draft: true
+date: 2026-10-16T11:10:48.226780+07:00
+draft: false
 ws_chat: 1574
 ws_msg: 21451
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian", "catatan-nik"]
-summary: "Rapat panik pasca Bram cabut mau bikin kajian ceoat. Tapi dari materi Metpen pekan ini gue belajar: desain penelitian yang asal-asalan cuma bakal ngulang drama dashboard SCBD."
-hook: "Mau ngeblast kuesioner itu gampang; yang susah ialah jawab dulu mau nanya apa. Rapat kantor Nik kemarin adalah kelas besar soal itu."
+summary: "Rapat panik pasca Bram cabut mau bikin kajian cepat. Tapi dari materi Metpen pekan ini gue belajar: desain penelitian yang asal-asalan cuma bakal ngulang drama dashboard SCBD."
+hook: "Mau ngeblast kuesioner itu gampang; yang susah ialah jawab dulu mau nanya apa. Rapat kantor Nik pagi tadi adalah kelas besar soal itu."
 ---
 
 Kopi gue tumpah tepat di atas catatan kuliah pas *dashboard* Teams mendadak kedip-kedip merah jam delapan pagi tadi. Bukan, bukan Dylan yang bikin rusuh, anak itu udah tertib baris buat apel pagi di Magelang dari jam tujuh tadi setelah sempat video call lima menit pamer nilai olahraganya. Yang bikin kopi gue tumpah adalah *invitation* mendadak dari anak magang baru di divisi *corporate strategy*, judul rapatnya bikin elus dada: *"Sync Up: Survey Kepuasan 10.000 Investor Properti se-Indonesia via Google Forms"*.
 
-Gue langsung narik napas panjang. Begitu gue masuk *room*, ruang rapat virtual itu udah penuh sama pejabat kantor yang mukanya kusut. Efek kepergian Bram masih berasa banget sampai detik ini. Tiga minggu setelah Bram cabut bawa dua *lead valuer* dan gerbong klien korporat kelas kakap, manajemen mulai panik nggak karuan. Mereka ngerasa *market sentiment* lagi anjlok, klien mulai ragu sama kapabilitas kita, dan solusinya apa coba? Mereka minta anak magang bikin Google Forms sepuluh pertanyaan dengan skala Likert ngasal, terus mau dibom ke seluruh *database* kontak kantor dari zaman tahun 2010.
+Gue langsung narik napas panjang. Begitu gue masuk *room*, ruang rapat virtual itu udah penuh sama pejabat kantor yang mukanya kusut. Efek kepergian Bram masih berasa banget sampai detik ini. Sejak Bram cabut bawa dua *lead valuer* dan gerbong klien korporat kelas kakap, manajemen mulai panik nggak karuan. Mereka ngerasa *market sentiment* lagi anjlok, klien mulai ragu sama kapabilitas kita, dan solusinya apa coba? Mereka minta anak magang bikin Google Forms sepuluh pertanyaan dengan skala Likert ngasal, terus mau dibom ke seluruh *database* kontak kantor dari zaman tahun 2010.
 
 Gue cuma bisa diam sambil nahan ketawa miris. Pas sesi kuliah Metpen semalam bareng dosen gue, kita baru aja ngebahas tuntas soal desain penelitian dan teknik sampling. Duduk di rapat tadi berasa kayak lagi nonton orang mau bangun *penthouse* tiga lantai tapi pondasinya cuma modal kardus mi instan. Semua orang sibuk nanya kuesionernya mau disebar lewat WhatsApp blast atau LinkedIn, padahal nggak ada satu pun yang tahu mereka itu sebenarnya lagi mau jawab masalah apa.
 
