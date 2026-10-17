@@ -8,6 +8,7 @@ tags:
   - perspektif-psikologi
   - jurnal-ana
   - psikologi
+  - collab-journal
 summary: "Dari drama balok kayu di TK, aku sadar satu hal: manusia bukan cuma kumpulan respon. Ada yang lebih dari sekadar stimulus-hadiah-hukuman."
 subtitle: "Tapi gimana kalau Leo tadi bukan cuma perlu hukuman?"
 hook: "Miss Claire copot satu stiker bintang Leo. Ternyata yang Leo butuh bukan itu."

@@ -8,6 +8,7 @@ tags:
   - psikologi-anak
   - jurnal-ana
   - psikologi
+  - collab-journal
 summary: "Ada dosen baru di kelas Psikologi Anak malam ini, dan pertanyaan pertamanya sederhana sekali: apa itu anak? Aku nggak nyangka jawabannya bisa sejauh itu."
 subtitle: "Aku kira aku sudah tahu apa itu anak kecil. Ternyata jawaban pertanyaan itu berubah dari zaman ke zaman."
 hook: "Satu mahasiswa mempertanyakan kenapa kelas psikologi masih membahas Al-Qur'an. Jawaban dosennya bikin aku terdiam."

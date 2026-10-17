@@ -8,6 +8,7 @@ tags:
   - psikologi-perkembangan-masa-hidup
   - jurnal-ana
   - psikologi
+  - collab-journal
 summary: "Modul pertamaku semester ini soal psikologi perkembangan masa hidup, dan dosen kami membukanya dengan Surah Nuh ayat 13-14. Sejak itu aku nggak bisa berhenti mikirin anak empat tahun yang tadi pagi diprotes orang tuanya."
 subtitle: "Ada orang tua yang marah karena anaknya umur empat tahun belum bisa membaca lancar. Yang bikin aku sedih, patokannya bukan anaknya."
 hook: "Anak umur empat tahun dituntut menulis satu jam penuh. Kata psikologi perkembangan, yang lagi dilukai bukan tangannya."
