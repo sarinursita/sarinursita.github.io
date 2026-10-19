@@ -2,8 +2,8 @@
 title: "Catatan Nik: Perang Dingin CRM Baru vs Warisan SQL"
 subtitle: "Enam dimensi kualitas data itu kedengeran kayak istilah akademik. Gue nemu empat di antaranya cuma dalam satu sore."
 type: "blog"
-date: "2026-10-19T05:00:00+07:00"
-draft: true
+date: 2026-10-19T09:09:05.042959+07:00
+draft: false
 ws_chat: 1601
 ws_msg: 21534
 category: "Collab Journal"
@@ -11,6 +11,7 @@ tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system", "ca
 summary: "Materi pekan ini soal kualitas data dan EDA. Di kantor gue, sistem SQL warisan dan CRM baru ngasih angka beda buat klien yang sama, dan dua divisi saling tunjuk sambil nyalahin data orang lain."
 hook: "\"Datanya yang salah, bukan sistem kita.\" Dua divisi ngomong kalimat yang sama di rapat yang sama, dan gue yang harus nebak angka mana yang bener sebelum presentasi ke klien."
 ---
+
 Gelas kopi susu gula aren di meja gue udah tinggal es batu yang mencair, rasanya hambar mirip suasana *townhall* dadakan tadi siang. 
 
 Gue baru aja cabut dari *meeting room* virtual yang isinya dua puluh orang saling todong di kolom *chat*. Gara-garanya sederhana tapi bikin tensi sekantor naik sampai ubun-ubun: angka total nilai transaksi properti komersial kuartal ini beda hampir empat puluh miliar rupiah antara laporan tim *business development* dan tim *finance operations*. 
