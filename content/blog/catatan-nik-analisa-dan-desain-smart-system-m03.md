@@ -11,20 +11,19 @@ tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system", "ca
 summary: "Materi pekan ini soal kualitas data dan EDA. Di kantor gue, sistem SQL warisan dan CRM baru ngasih angka beda buat klien yang sama, dan dua divisi saling tunjuk sambil nyalahin data orang lain."
 hook: "\"Datanya yang salah, bukan sistem kita.\" Dua divisi ngomong kalimat yang sama di rapat yang sama, dan gue yang harus nebak angka mana yang bener sebelum presentasi ke klien."
 ---
-
 Gelas kopi susu gula aren di meja gue udah tinggal es batu yang mencair, rasanya hambar mirip suasana *townhall* dadakan tadi siang. 
 
 Gue baru aja cabut dari *meeting room* virtual yang isinya dua puluh orang saling todong di kolom *chat*. Gara-garanya sederhana tapi bikin tensi sekantor naik sampai ubun-ubun: angka total nilai transaksi properti komersial kuartal ini beda hampir empat puluh miliar rupiah antara laporan tim *business development* dan tim *finance operations*. 
 
 Tim BD dengan bangga pamer angka fantastis dari CRM *cloud* berbasis SaaS yang baru kelar *rollout* dua bulan lalu. Sementara tim *finance*, yang masih setia megang *pipeline* SQL gabungan lembar kerja lawas peninggalan era Bram dulu, langsung menyanggah sambil melempar tabel rekapitulasi tandingan. Dua kubu saling tunjuk hidung. Tim sales nuduh *finance* kolot dan nggak bisa *move on* dari sistem purba, sedangkan *finance* ngamuk bilang tim sales halusinasi karena masukin *deal* fiktif. 
 
-Melihat kekacauan itu, gue mendadak teringat materi kuliah SSAD pertemuan ketiga kita minggu ini tentang *Data Understanding* dan *Exploratory Data Analysis* (EDA). Fenomena lempar batu sembunyi tangan kayak gini klasik banget di korporat: manajemen buru-buru pasang *dashboard* keren dan migrasi ke *tools* serba modern, tapi begitu dua sistem ditautkan, datanya tabrakan parah. Nggak ada yang pernah bener-bener duduk buat ngecek kualitas data dasarnya apalagi ngelakuin eksplorasi yang benar.
+Melihat kekacauan itu, gue mendadak teringat materi kuliah pertemuan ketiga minggu ini tentang *Data Understanding* dan *Exploratory Data Analysis* (EDA). Fenomena lempar batu sembunyi tangan kayak gini klasik banget di korporat: manajemen buru-buru pasang *dashboard* keren dan migrasi ke *tools* serba modern, tapi begitu dua sistem ditautkan, datanya tabrakan parah. Nggak ada yang pernah bener-bener duduk buat ngecek kualitas data dasarnya apalagi ngelakuin eksplorasi yang benar.
 
 ---
 
 ## Membongkar Enam Dosa Kualitas Data (*Data Quality Dimensions*)
 
-Sebelum kita latah ngomongin algoritma canggih, *machine learning*, atau bikin grafik warna-warni yang bikin takjub bos, fondasi paling dasar yang wajib diberesin adalah audit kualitas data (*data quality assessment*). Kalau datanya sampah, hasil akhirnya cuma halusinasi yang dipoles rapi (*garbage in, garbage gospel*). 
+Sebelum kita latah ngomongin algoritma canggih, *machine learning*, atau bikin grafik warna-warni yang bikin takjub bos, fondasi paling dasar yang wajib diberesin adalah audit kualitas data (*data quality assessment*). Kalau datanya sampah, hasil akhirnya cuma halusinasi yang dipoles rapi (*garbage in, garbage out*). 
 
 Di kasus kantor gue tadi siang, setelah gue bedah bareng tim analitik, kita nemu borok dari enam dimensi kualitas data yang selama ini diabaikan:
 
