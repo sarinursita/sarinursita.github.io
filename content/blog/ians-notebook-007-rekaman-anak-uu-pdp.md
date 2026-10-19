@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Rekaman Anak Masuk YouTube: Edukasi Keren atau Bom Waktu UU PDP?"
 subtitle: "Tim marketing kantor gua ngunggah muka anak SD ke YouTube tanpa izin, dan somasi pertama datang dari wali murid yang kebetulan konsultan hukum korporat."
 type: blog
-date: 2026-10-19T05:00:00+07:00
-draft: true
+date: 2026-10-19T09:35:15.206479+07:00
+draft: false
 ws_chat: 1598
 ws_msg: 21528
 category: "Collab Journal"
