@@ -69,17 +69,9 @@ Tanpa strategi *data mining* yang jelas buat ngejinakin 5V ini, janji Vina ke kl
 
 Biar Sari makin gampang ngebayangin fondasi teori modul 3 ini buat kerangka GPBSales lo, gue bedah tiga tipe utama *machine learning* yang kita pelajari di kampus:
 
-```
-                    ┌───────────────────────────────┐
-                    │       MACHINE LEARNING        │
-                    └───────────────┬───────────────┘
-            ┌───────────────────────┼───────────────────────┐
-            ▼                       ▼                       ▼
-   [ SUPERVISED ]           [ UNSUPERVISED ]       [ REINFORCEMENT ]
-   Data Berlabel            Tanpa Label            Agent vs Environment
-   • Prediksi Harga (Reg)   • Segmentasi Gedung    • Dynamic Pricing
-   • Klasifikasi Tenant       (Clustering)         • Reward / Penalty
-```
+![Tiga tipe machine learning: supervised, unsupervised, reinforcement](/images/catatan-nik/implementasi-ai-m03-ml-types.png)
+
+*Tiga mazhab belajar mesin, versi gambar.*
 
 ### 1. Supervised Learning (Belajar Terbimbing)
 Ini tipe yang paling banyak dipakai di dunia korporat dan paling relevan buat kasus prediksi valuasi kantor gue (serta tesis lo). Di sini, mesin dikasih data latih yang udah punya **label** (*ground truth*). Komputer dikasih soal ujian sekaligus kunci jawabannya, biar dia belajar ngenalin polanya.
