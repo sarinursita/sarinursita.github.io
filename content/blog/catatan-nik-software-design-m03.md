@@ -2,8 +2,8 @@
 title: 'Catatan Nik: Ketika Prototype Figma Dianggap Aplikasi Jadi dan Ilusi "Agile" SCBD'
 subtitle: "Gue kira masalahnya cuma demo yang terlalu bagus. Ternyata masalahnya model proses yang dipilih dari awal."
 type: blog
-date: 2026-10-21T07:15:00+07:00
-draft: true
+date: 2026-10-21T06:41:22.210943+07:00
+draft: false
 ws_chat: 1609
 ws_msg: 21566
 category: "Collab Journal"
@@ -11,8 +11,6 @@ tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: "Demo Figma dianggap sistem jadi, padahal database belum ada. Dari situ gue belajar lima model proses dan kenapa pilihan model harus ikut stabilitas kebutuhan, risiko, dan keterlibatan pengguna."
 hook: "\"Sistem ini udah 90 persen siap,\" kata Vina di depan klien. Padahal yang dia tunjukin baru mock-up Figma tanpa database."
 ---
-
-# Catatan Nik: Ketika Prototype Figma Dianggap Aplikasi Jadi dan Ilusi "Agile" SCBD
 
 Tadi siang layar monitor gue mendadak heboh gara-gara rekaman demo *client portal* yang diputar ulang di grup chat komersial. Lo harus lihat ekspresi mukanya Vina pas presentasi ke salah satu klien konglomerat kemarin lusa. Dengan gaya *pitching* andalannya yang super meyakinkan, Vina ngeklik-ngeklik purwarupa di Figma yang dibikin anak magang UI/UX, navigasinya mulus banget, ada animasi transisi grafik valuasi gedung perkantoran, lengkap sama tombol *instant PDF export*. Kliennya tepuk tangan, Vina senyum lebar, terus dengan santainya dia bilang: *"Sistem ini udah 90 persen siap, akhir bulan depan kita udah bisa go-live buat seluruh portofolio aset Bapak."*
 
