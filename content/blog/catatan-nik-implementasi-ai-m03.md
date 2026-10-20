@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ketika Sales Jual Dongeng AI dan Realitas Machine Learning Menampar SCBD"
 subtitle: "Gue kira bagian tersulit dari bikin model itu ngoding. Ternyata yang bikin pusing justru milih metrik yang nggak bisa dibohongin orang bisnis."
 type: "blog"
-date: "2026-10-20T05:00:00+07:00"
-draft: true
+date: 2026-10-20T10:30:50.665141+07:00
+draft: false
 ws_chat: "1602"
 ws_msg: 21536
 category: "Collab Journal"
@@ -11,6 +11,7 @@ tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence"
 summary: "Materi pekan ini soal machine learning: Big Data 5V, data mining, tiga tipe belajar mesin, sampai metrik evaluasi. Di kantor gue, tim sales udah nawarin fitur prediksi ke klien sebelum tim data sempat bangun apa pun."
 hook: "\"Bisa demo dashboard-nya minggu depan?\" Klien nanya gitu di ujung presentasi, dan satu-satunya orang di ruangan yang tahu model itu belum ada sama sekali cuma gue."
 ---
+
 Layar proyektor di *meeting room* lantai 28 masih nampilin slide nomor 14 pas kepala gue mendadak berdenyut kencang. Di slide itu, terpampang diagram lingkaran warna neon dengan tulisan mentereng: *"Next-Gen AI Predictive Valuation Engine: Real-Time Commercial Forecasting"*. 
 
 Klien kami, salah satu grup konglomerat pengembang terbesar di Jakarta, langsung pasang tampang antusias. Salah satu direktur mereka condongin badan ke depan, natap tim *commercial leasing* kantor gue, lalu nanya hal paling fatal yang bikin lidah gue kelu: *"Menarik banget ini. Jadi algoritma prediksinya udah ditraining pakai data transaksi sewa riil kuartal lalu, ya? Bisa demo dashboard-nya minggu depan?"*
