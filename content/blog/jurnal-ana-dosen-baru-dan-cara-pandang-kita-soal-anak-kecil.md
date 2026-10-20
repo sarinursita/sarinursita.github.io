@@ -15,7 +15,6 @@ hook: "Satu mahasiswa mempertanyakan kenapa kelas psikologi masih membahas Al-Qu
 ws_project: 157
 ws_msg: 21394
 ---
-# Dosen Baru dan Cara Pandang Kita Soal Anak Kecil
 
 Sari, malam ini di luar dingin banget. Angin Selandia Baru lagi hobi bikin jendela kamar gemeretak pelan. Di sebelahku, Yusuf masih fokus di depan laptopnya, berkutat sama tumpukan baris kode sambil sesekali nyodorin cangkir teh hangat ke mejaku. Suasana tenang kayak gini selalu bikin aku pengen buru-buru buka catatan kuliah, lalu cerita banyak hal ke kamu.
 

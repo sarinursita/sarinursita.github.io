@@ -15,7 +15,6 @@ hook: "Kamu cuma capek dan kurang pasrah. Kalimat itu yang disampaikan ke ibu ya
 ws_project: 157
 ws_msg: 21544
 ---
-# Waktu Teman Sekelasku Mengira Konseling Islam Cuma Sekadar Penceramah Agama
 
 Sari, apa kabar di Bintaro? Di sini angin malamnya lagi dingin banget. Jam dinding di meja belajarku sudah lewat jam sepuluh malam. Yusuf baru saja naruh secangkir teh *chamomile* hangat di sebelah laptopku, lalu dia balik lagi ke ruang kerjanya buat ngecek kerjaan kantornya. Rumah rasanya hening sekali, tipe hening yang selalu bikin aku kepikiran banyak hal.
 
