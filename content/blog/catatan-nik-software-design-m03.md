@@ -12,11 +12,13 @@ summary: "Demo Figma dianggap sistem jadi, padahal database belum ada. Dari situ
 hook: "\"Sistem ini udah 90 persen siap,\" kata Vina di depan klien. Padahal yang dia tunjukin baru mock-up Figma tanpa database."
 ---
 
+# Catatan Nik: Ketika Prototype Figma Dianggap Aplikasi Jadi dan Ilusi "Agile" SCBD
+
 Tadi siang layar monitor gue mendadak heboh gara-gara rekaman demo *client portal* yang diputar ulang di grup chat komersial. Lo harus lihat ekspresi mukanya Vina pas presentasi ke salah satu klien konglomerat kemarin lusa. Dengan gaya *pitching* andalannya yang super meyakinkan, Vina ngeklik-ngeklik purwarupa di Figma yang dibikin anak magang UI/UX, navigasinya mulus banget, ada animasi transisi grafik valuasi gedung perkantoran, lengkap sama tombol *instant PDF export*. Kliennya tepuk tangan, Vina senyum lebar, terus dengan santainya dia bilang: *"Sistem ini udah 90 persen siap, akhir bulan depan kita udah bisa go-live buat seluruh portofolio aset Bapak."*
 
 Gue yang lagi nyeruput kopi langsung tersedak. Tim *engineer* yang ikut *join call* tanpa buka kamera mendadak hening seketika. Pas *meeting* bubar, *engineering lead* kantor gue langsung nge-ping gue di Slack: *"Mbak Nik, itu tadi cuma interaktif mock-up visual di Figma, databasenya aja belum dibikin, skema auth-nya belum disentuh, kok dibilang udah 90 persen jadi?"*
 
-Gue cuma bisa ngelus dada. Fenomena klasik di SCBD: orang bisnis ngira kalau tampilan layarnya udah bisa diklik, berarti *software*-nya tinggal dicolok ke stopkontak. Ini nyambung banget sama materi kuliah minggu ini, Sar. Pekan lalu gue udah babak belur ngebahas empat aktivitas inti rekayasa perangkat lunak: *specification*, *design & implementation*, *validation*, dan *evolution*. Sekarang pertanyaannya naik kelas: gimana caranya keempat aktivitas itu diurutkan, diulang, dan diorganisir biar proyek nggak berujung bunuh diri massal kayak janjinya Vina tadi?
+Gue cuma bisa ngelus dada. Fenomena klasik di SCBD: orang bisnis ngira kalau tampilan layarnya udah bisa diklik, berarti *software*-nya tinggal dicolok ke stopkontak. Ini nyambung banget sama materi kuliah gue minggu ini, Sar. Pekan lalu gue udah babak belur ngebahas empat aktivitas inti rekayasa perangkat lunak: *specification*, *design & implementation*, *validation*, dan *evolution*. Sekarang pertanyaannya naik kelas: gimana caranya keempat aktivitas itu diurutkan, diulang, dan diorganisir biar proyek nggak berujung bunuh diri massal kayak janjinya Vina tadi?
 
 Jawabannya ada di **model proses**.
 
@@ -26,7 +28,7 @@ Jawabannya ada di **model proses**.
 
 Sar, lo pasti sering nemu bos atau kolega yang alergi sama istilah metodologi. Buat mereka, model proses itu birokrasi teoritis kampus yang ngabisin waktu. Padahal sederhananya, model proses itu cuma peta jalan: representasi tentang cara tahapan *software process* disusun dan dijalankan di dunia nyata. Tanpa model, tim lo cuma sekelompok orang yang lari maraton tanpa garis rute, masing-masing sibuk tapi nggak ada yang tahu arah finis.
 
-Di materi kuliah minggu ini, ada tiga sumbu utama yang ngebedain satu model sama model lainnya:
+Di materi kuliah gue minggu ini, ada tiga sumbu utama yang ngebedain satu model sama model lainnya:
 
 1. **Urutan vs. Iterasi**: Apakah prosesnya linear sekali jalan dari hulu ke hilir kayak air terjun, atau berulang (*iterative/incremental*) dalam putaran-putaran kecil?
 2. **Cara menangani perubahan**: Apakah perubahan dianggap musuh yang bikin biaya bengkak sehingga ditekan sekaku mungkin, atau justru diterima sebagai keniscayaan yang ditampung rapi di iterasi berikutnya?
