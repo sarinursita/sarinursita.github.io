@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Ditawari Bikin Program D1: Jebakan Batman Regulasi Vokasi yang Nyaris Bikin Gua Amsyong"
 subtitle: "Politeknik nawarin kelas public speaking gua jadi program D1. Yang bikin gua mundur bukan soal duit, tapi angka 36 SKS dan satu draf MoU yang bolong-bolong."
 type: blog
-date: 2026-10-21T05:00:00+07:00
-draft: true
+date: 2026-10-21T07:55:25.862937+07:00
+draft: false
 ws_chat: 1599
 ws_msg: 21530
 category: "Collab Journal"
