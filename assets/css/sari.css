@@ -86,3 +86,18 @@
 @media (max-width: 959px) {
 	.table-wrap > table { font-size: 1.45rem; }
 }
+
+/* Tabel lebar dibolehkan melebar keluar kolom teks (aturan theme lebih spesifik,
+   jadi butuh !important biar menang), biar 6 kolom muat di laptop */
+@media (min-width: 960px) {
+	.entry-content > .table-wrap {
+		width: min(112rem, calc(100vw - 8rem)) !important;
+		max-width: none !important;
+		margin-left: calc((100% - min(112rem, 100vw - 8rem)) / 2);
+		margin-right: 0;
+	}
+}
+.table-wrap > table { font-size: 1.5rem; }
+@media (max-width: 959px) {
+	.table-wrap > table { font-size: 1.4rem; }
+}
