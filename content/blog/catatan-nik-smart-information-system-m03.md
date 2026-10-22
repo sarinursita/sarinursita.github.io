@@ -2,8 +2,8 @@
 title: "Catatan Nik: Layar Merah Audit Internal"
 subtitle: "Gue kira masalahnya cuma bug biasa. Ternyata mesin itu nggak pernah dirancang buat data yang jawabannya nggak hitam-putih."
 type: "blog"
-date: "2026-10-22T05:00:00+07:00"
-draft: true
+date: 2026-10-22T11:01:37.979320+07:00
+draft: false
 ws_chat: "1603"
 ws_msg: 21538
 category: "Collab Journal"
