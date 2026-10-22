@@ -79,3 +79,10 @@
 	transition: background .12s ease, border-color .12s ease;
 }
 .follow-block .follow-links a:hover, .follow-block .follow-links a:focus { background: #cd2653; border-color: #cd2653; color: #fff; }
+
+/* ── Tabel lebar: biar bisa digeser, jangan kepotong ───── */
+.table-wrap { max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.table-wrap > table { margin: 4rem 0; width: max-content; min-width: 100%; max-width: none; }
+@media (max-width: 959px) {
+	.table-wrap > table { font-size: 1.45rem; }
+}
