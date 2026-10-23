@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ketika Titah Regional Menabrak Realita Lapangan"
 subtitle: "Empat ratus responden dalam sepuluh hari, pakai kuesioner yang kayaknya disusun orang yang belum pernah ke Sudirman. Gue buka ulang modul Metpen sambil nahan napas."
 type: blog
-date: "2026-10-23T05:00:00+07:00"
-draft: true
+date: 2026-10-23T07:50:28.346477+07:00
+draft: false
 ws_chat: 1604
 ws_msg: 21540
 category: "Collab Journal"
@@ -18,7 +18,7 @@ Gue sempat tertegun membaca draf kuesionernya. Pertanyaan nomor empat belas misa
 
 Dulu waktu divisi valuasi masih dipegang kendali penuh secara tradisional sebelum kepergian Bram, titah konyol dari kantor regional seperti ini biasanya cuma diiyakan di rapat, lalu dilupakan begitu saja sambil ditutup dengan laporan basa-basi. Sekarang eranya sudah beda. Regional mengunci akses pelaporan dan menuntut pertanggungjawaban metodologis yang rigid. Masalahnya, mereka ingin data ilmiah, tapi memaksakan instrumen yang sama sekali cacat nalar.
 
-Momen ini pas banget dengan bahan kuliah Metpen pertemuan ketiga kemarin, Sar. Kita masuk lebih dalam ke Modul Dua Kegiatan Belajar Dua, membahas soal teknik sampling, validitas, reliabilitas, sampai formulasi hipotesis. Begitu gue menatap draf survei regional itu, semua teori di modul mendadak jadi cermin yang menelanjangi betapa berantakannya cara orang korporat mengumpulkan data lapangan.
+Momen ini pas banget dengan bahan kuliah Metpen gue, pertemuan ketiga, Sar. Di kelas gue kami masuk lebih dalam ke Modul Dua Kegiatan Belajar Dua, bahas soal teknik sampling, validitas, reliabilitas, sampai formulasi hipotesis. Begitu gue menatap draf survei regional itu, semua teori di modul mendadak jadi cermin yang menelanjangi betapa berantakannya cara orang korporat mengumpulkan data lapangan.
 
 ---
 
