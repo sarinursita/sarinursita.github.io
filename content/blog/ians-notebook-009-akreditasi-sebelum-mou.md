@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Kampus Nawarin MoU? Cek Akreditasi Dulu, atau Ijazahnya Cuma Kertas Bungkus"
 subtitle: "Mas Hendra cuma ngelirik layar laptop gua sekilas, tapi celetukannya bikin gua ngecek PDDikti, BAN-PT, dan LAM sampai jam sebelas malam."
 type: blog
-date: 2026-10-23T05:00:00+07:00
-draft: true
+date: 2026-10-23T08:02:03.522757+07:00
+draft: false
 ws_chat: 1600
 ws_msg: 21532
 category: "Collab Journal"
