@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ketika Semua Orang Setuju Butuh AI tapi Nggak Ada yang Tahu Masalahnya Apa"
 subtitle: "Rapat dua jam, sembilan orang mengangguk, dan sebulan kemudian nol progres. Yang nggak pernah ada bukan anggaran atau niat, tapi rumusan masalah yang bisa gagal."
 type: blog
-date: 2026-10-26T05:00:00+07:00
-draft: true
+date: 2026-10-26T07:28:46.999399+07:00
+draft: false
 ws_chat: 1628
 ws_msg: 21639
 category: "Collab Journal"
