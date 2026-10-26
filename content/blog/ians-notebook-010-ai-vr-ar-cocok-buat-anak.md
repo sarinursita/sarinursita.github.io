@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Jangan Kemakan Brosur Metaverse: Kenapa VR Mending Lu Skip dan AI Prompt Gambar Justru Paling Masuk Akal Buat Anak"
 subtitle: "Yang bikin gua nggak nyaman bukan harga headset-nya, tapi sadar badan anak-anak lu yang bakal jadi taruhannya."
 type: blog
-date: 2026-10-26T05:00:00+07:00
-draft: true
+date: 2026-10-26T07:37:17.675303+07:00
+draft: false
 ws_chat: 1612
 ws_msg: 21607
 category: "Collab Journal"
