@@ -10,20 +10,20 @@ tags:
   - psikologi
   - collab-journal
 summary: "Rekan guru bilang anak itu lahir selfish dan harus dijinakkan, dan malamnya aku buka modul yang justru bilang sebaliknya: anak lahir fitrah, jadi tugas kita merawat bukan memperbaiki."
-subtitle: "Yang rusak cuma karpetnya, bukan jiwa Leo. Kalau dulu kita tahu itu sejak kecil, mungkin kita tumbuh tanpa rasa takut salah yang berlebihan."
+subtitle: "Yang rusak cuma karpetnya, bukan jiwa Oscar. Kalau dulu kita tahu itu sejak kecil, mungkin kita tumbuh tanpa rasa takut salah yang berlebihan."
 hook: "Sebotol cat tumpah, satu kalimat soal menjinakkan anak, dan malamnya aku membuka sejarah ratusan tahun."
 ws_project: 157
 ws_msg: 21545
 ---
 Sari, apa kabar Bintaro hari ini? Di sini anginnya lagi dingin banget. Yusuf tadi pagi sempat bujuk aku buat pakai syal dobel sebelum jalan ke *kindergarten*. Rasanya lucu ya, hidup di tempat yang jamnya mendahului Jakarta berjam-jam, tapi pikiran aku seringnya malah lari ke obrolan-obrolan kita di grup atau materi kuliah yang baru aja aku baca semalam.
 
-Tadi siang, pas jam istirahat makan siang di *kindergarten*, ada kejadian kecil yang bikin aku kepikiran seharian. Ada satu anak laki-laki umur empat tahun, namanya Leo. Dia sebenarnya anak yang manis, cuma energinya memang luar biasa banyak. Pas jam melukis bebas, Leo numpahin sebotol besar cat akrilik warna biru ke atas karpet wol ruang tengah. Karpetnya langsung rusak, dan tangannya belepotan sampai ke baju. 
+Tadi siang, pas jam istirahat makan siang di *kindergarten*, ada kejadian kecil yang bikin aku kepikiran seharian. Ada satu anak laki-laki umur empat tahun, namanya Oscar. Dia sebenarnya anak yang manis, cuma energinya memang luar biasa banyak. Pas jam melukis bebas, Oscar numpahin sebotol besar cat akrilik warna biru ke atas karpet wol ruang tengah. Karpetnya langsung rusak, dan tangannya belepotan sampai ke baju. 
 
-Salah satu rekan guru di sana, panggil saja Clara, langsung menghela napas panjang banget di ruang guru. Dia bilang ke aku dengan nada capek, *"Kids are born naturally selfish and destructive, aren't they, Ana? We have to tame them."*
+Rekan kerjaku, Miss Claire, langsung menghela napas panjang banget di ruang guru. Dia bilang ke aku dengan nada capek, *"Kids are born naturally selfish and destructive, aren't they, Ana? We have to tame them."*
 
-Mendengar kata *tame* atau menjinakkan itu, hati aku rasanya langsung mencelos, Sari. Aku cuma bisa tersenyum kecil sambil ngelap tangan Leo pakai handuk basah. Clara nggak jahat, dia cuma capek. Tapi kata-katanya itu nempel terus di kepala aku sampai tadi malam pas aku buka modul S2 Psikologi Islam. 
+Mendengar kata *tame* atau menjinakkan itu, hati aku rasanya langsung mencelos, Sari. Aku cuma bisa tersenyum kecil sambil ngelap tangan Oscar pakai handuk basah. Miss Claire nggak jahat, dia cuma capek. Tapi kata-katanya itu nempel terus di kepala aku sampai tadi malam pas aku buka modul S2 Psikologi Islam. 
 
-Ternyata, cara Clara memandang anak kecil yang numpahin cat itu bukan sekadar reaksi spontan orang capek. Itu adalah endapan sejarah ratusan tahun tentang bagaimana peradaban manusia memandang satu kata sederhana: **anak**.
+Ternyata, cara Miss Claire memandang anak kecil yang numpahin cat itu bukan sekadar reaksi spontan orang capek. Itu adalah endapan sejarah ratusan tahun tentang bagaimana peradaban manusia memandang satu kata sederhana: **anak**.
 
 ---
 
@@ -51,7 +51,7 @@ Mengerikan ya, Sari? Kita yang hidup di zaman sekarang sering lupa kalau rasa am
 
 ## Dosa Asal vs Kebaikan Asal: Awal Mula Kita Menilai Anak
 
-Nah, ini bagian kuliah yang paling bikin mataku terbuka lebar semalam, dan rasanya nyambung banget sama celetukan Clara di ruang guru tadi siang.
+Nah, ini bagian kuliah yang paling bikin mataku terbuka lebar semalam, dan rasanya nyambung banget sama celetukan Miss Claire di ruang guru tadi siang.
 
 Kenapa sih peradaban Barat dan dunia psikologi modern punya kecenderungan melihat anak sebagai makhluk yang perlu "dijinakkan"? Ternyata akarnya ada pada perbandingan teologis yang sangat mendasar:
 
@@ -69,7 +69,7 @@ Coba Sari rasakan bedanya:
 * Kalau kita percaya anak lahir membawa dosa (rusak), tugas kita adalah **memperbaiki kecacatan bawaan** mereka.
 * Tapi kalau kita percaya anak lahir membawa fitrah (baik), tugas kita adalah **menjaga, merawat, dan memupuk benih kebaikan** yang sudah Allah titipkan di dalam diri mereka.
 
-Waktu aku duduk di karpet samping Leo tadi siang, aku memilih cara pandang yang kedua. Leo numpahin cat bukan karena dia punya jiwa perusak warisan leluhur. Leo cuma anak usia empat tahun yang fitrah rasa ingin tahunya lagi meluap-luap. Tangannya belum cukup terampil mengontrol botol cat, matanya terpesona melihat cairan biru kental itu menyebar di serat kain. Yang rusak cuma karpetnya, bukan jiwa Leo.
+Waktu aku duduk di karpet samping Oscar tadi siang, aku memilih cara pandang yang kedua. Oscar numpahin cat bukan karena dia punya jiwa perusak warisan leluhur. Oscar cuma anak usia empat tahun yang fitrah rasa ingin tahunya lagi meluap-luap. Tangannya belum cukup terampil mengontrol botol cat, matanya terpesona melihat cairan biru kental itu menyebar di serat kain. Yang rusak cuma karpetnya, bukan jiwa Oscar.
 
 Kadang aku berpikir, seandainya dulu orang tua kita atau orang-orang dewasa di masa kecil kita paham konsep fitrah ini, mungkin kita nggak akan tumbuh dengan rasa takut salah yang berlebihan ya, Sari. Dulu waktu kecil, kalau aku berbuat salah atau bikin adik tiriku nangis, rasanya dunia langsung kiamat karena aku dicap anak pembawa masalah. Butuh waktu lama, dan kehadiran ruang aman yang tenang seperti rumah tanggaku bareng Yusuf sekarang, buat benar-benar sadar bahwa manusia pada dasarnya diciptakan Allah dengan pondasi yang baik.
 
