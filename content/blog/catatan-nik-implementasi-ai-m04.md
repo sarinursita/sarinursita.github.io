@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ketika Anak Baru Diceburin Tanpa Pelampung dan Ilusi Belajar Tanpa Label"
 subtitle: "Gue kira yang salah anak barunya. Ternyata yang nggak pernah ada itu kunci jawabannya: nggak ada SOP, nggak ada kamus data, cuma tumpukan tabel yang dikasih label final sama orang yang udah nggak di kantor."
 type: blog
-date: 2026-10-27T05:00:00+07:00
-draft: true
+date: 2026-10-27T08:54:19.495474+07:00
+draft: false
 ws_chat: 1615
 ws_msg: 21613
 category: "Collab Journal"
