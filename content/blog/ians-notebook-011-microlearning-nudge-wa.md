@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Modul Tebel Kayak Bantal Cuma Bikin Pusing: Trik Microlearning WhatsApp Biar Bocah Gak Ngilang Pas Liburan"
 subtitle: "Yang bikin gua nggak enak bukan angka empat belas persennya, tapi sadar modul tebel itu gua sendiri yang ngerancang."
 type: blog
-date: 2026-10-28T05:00:00+07:00
-draft: true
+date: 2026-10-28T07:23:07.326369+07:00
+draft: false
 ws_chat: 1613
 ws_msg: 21609
 category: "Collab Journal"
