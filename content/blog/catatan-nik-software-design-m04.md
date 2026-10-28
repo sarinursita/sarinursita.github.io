@@ -1,8 +1,8 @@
 ---
 title: 'Catatan Nik: Kardus Pindahan di Koridor SCBD dan Ilusi Agile yang Cuma Nempel di Post-it'
-subtitle: 'Gue berdiri di lorong lantai 28 yang penuh kardus, dengerin kata Agile dipakai buat nutupin rencana relokasi kantor yang sejak awal belum matang.'
+subtitle: 'Gue berdiri di lorong lantai 28 yang penuh kardus, dengerin kata Agile dipakai buat nutupin rencana renovasi kantor yang sejak awal belum matang.'
 type: blog
-date: 2026-10-28T07:54:48.064732+07:00
+date: 2026-10-28T07:54:48+07:00
 draft: false
 ws_chat: 1631
 ws_msg: 21651
@@ -10,17 +10,9 @@ category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: 'Materi pekan ini soal Agile: empat nilai manifesto, dua belas prinsip, praktik XP, manajemen proyek, sampai cara scaling di enterprise. Di kantor gue, renovasi separuh lantai bikin jaringan dan jadwal valuasi kacau, dan semua orang tiba-tiba nyebut Agile sebagai alasan buat kerja serampangan.'
 hook: 'Pernah nggak lo denger kata Agile dipakai buat nutupin rencana yang sebenarnya belum matang, lalu yang disalahin tetap tim teknis?'
-
+---
 
 # Kardus Pindahan di Koridor SCBD dan Ilusi Agile yang Cuma Nempel di Post-it
-
-Tumpukan kardus cokelat berlabel spidol hitam masih menggunung di lorong lantai 28, sementara kabel *local area network* menjuntai dari plafon akustik yang belum tertutup rapat. Jam sembilan pagi tadi, suasana kantor bukan cuma berisik karena suara bor tukang, tapi juga jeritan panik Vina. Proyek renovasi separuh lantai 28 kantor kita yang katanya sudah dirancang berbulan-bulan oleh tim operasional ternyata lumpuh total begitu dihadapkan pada realita: jalur fiber optik di area kerja baru belum diuji tim gedung, sistem *whitelisting* IP untuk server data valuasi lokal belum didaftarkan ulang, dan printer jaringan yang biasa dipakai buat mencetak dokumen legal valuasi menolak merespons. 
-
-Di tengah kekacauan itu, Vina berdiri di dekat jendela sambil memegang map berkas, menatap Aris yang duduk di atas kardus monitor sambil memangku laptop. Vina dengan entengnya bilang, "Ayo dong tim teknis, harusnya kalian *agile*. Pindahan kan cuma geser meja, masa sistem kita *down* seharian padahal klien korporat jam dua siang butuh *update* portofolio?" 
-
-Aris cuma bisa menghela napas panjang, wajahnya pucat menatap terminal layar hitam yang penuh pesan *connection timed out*. Di situ gue langsung teringat materi pertemuan keempat mata kuliah *Software Design* di kampus gue. Orang-orang bisnis sering banget memakai kata "Agile" sebagai tiket gratis buat bersikap serampangan, melempar tanggung jawab perencanaan, atau menuntut tim kerja rodi tanpa arah yang jelas. Padahal, Agile dalam rekayasa perangkat lunak punya disiplin yang luar biasa ketat. Agile bukan berarti kerja tanpa rencana, apalagi kerja tanpa dokumen.
-
----
 
 Tumpukan kardus cokelat berlabel spidol hitam masih menggunung di lorong lantai 28, sementara kabel *local area network* menjuntai dari plafon akustik yang belum tertutup rapat. Jam sembilan pagi tadi, suasana kantor bukan cuma berisik karena suara bor tukang, tapi juga jeritan panik Vina. Proyek renovasi separuh lantai 28 kantor kita yang katanya sudah dirancang berbulan-bulan oleh tim operasional ternyata lumpuh total begitu dihadapkan pada realita: jalur fiber optik di area kerja baru belum diuji tim gedung, sistem *whitelisting* IP untuk server data valuasi lokal belum didaftarkan ulang, dan printer jaringan yang biasa dipakai buat mencetak dokumen legal valuasi menolak merespons. 
 
