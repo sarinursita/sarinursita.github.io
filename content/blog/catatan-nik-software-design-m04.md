@@ -1,6 +1,6 @@
 ---
 title: 'Catatan Nik: Kardus Pindahan di Koridor SCBD dan Ilusi Agile yang Cuma Nempel di Post-it'
-subtitle: 'Gue berdiri di lorong lantai 22 yang penuh kardus, dengerin kata Agile dipakai buat nutupin rencana relokasi kantor yang sejak awal belum matang.'
+subtitle: 'Gue berdiri di lorong lantai 28 yang penuh kardus, dengerin kata Agile dipakai buat nutupin rencana relokasi kantor yang sejak awal belum matang.'
 type: blog
 date: 2026-10-28T05:00:00+07:00
 draft: true
@@ -8,13 +8,13 @@ ws_chat: 1631
 ws_msg: 21651
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
-summary: 'Materi pekan ini soal Agile: empat nilai manifesto, dua belas prinsip, praktik XP, manajemen proyek, sampai cara scaling di enterprise. Di kantor gue, proyek pindah lantai bikin jaringan dan jadwal valuasi kacau, dan semua orang tiba-tiba nyebut Agile sebagai alasan buat kerja serampangan.'
+summary: 'Materi pekan ini soal Agile: empat nilai manifesto, dua belas prinsip, praktik XP, manajemen proyek, sampai cara scaling di enterprise. Di kantor gue, renovasi separuh lantai bikin jaringan dan jadwal valuasi kacau, dan semua orang tiba-tiba nyebut Agile sebagai alasan buat kerja serampangan.'
 hook: 'Pernah nggak lo denger kata Agile dipakai buat nutupin rencana yang sebenarnya belum matang, lalu yang disalahin tetap tim teknis?'
----
+
 
 # Kardus Pindahan di Koridor SCBD dan Ilusi Agile yang Cuma Nempel di Post-it
 
-Tumpukan kardus cokelat berlabel spidol hitam masih menggunung di lorong lantai 22, sementara kabel *local area network* menjuntai dari plafon akustik yang belum tertutup rapat. Jam sembilan pagi tadi, suasana kantor bukan cuma berisik karena suara bor tukang, tapi juga jeritan panik Vina. Proyek relokasi kantor kita dari lantai 18 ke lantai 22 yang katanya sudah dirancang berbulan-bulan oleh tim operasional ternyata lumpuh total begitu dihadapkan pada realita: jalur fiber optik belum diuji tim gedung, sistem *whitelisting* IP untuk server data valuasi lokal belum didaftarkan ulang, dan printer jaringan yang biasa dipakai buat mencetak dokumen legal valuasi menolak merespons. 
+Tumpukan kardus cokelat berlabel spidol hitam masih menggunung di lorong lantai 28, sementara kabel *local area network* menjuntai dari plafon akustik yang belum tertutup rapat. Jam sembilan pagi tadi, suasana kantor bukan cuma berisik karena suara bor tukang, tapi juga jeritan panik Vina. Proyek renovasi separuh lantai 28 kantor kita yang katanya sudah dirancang berbulan-bulan oleh tim operasional ternyata lumpuh total begitu dihadapkan pada realita: jalur fiber optik di area kerja baru belum diuji tim gedung, sistem *whitelisting* IP untuk server data valuasi lokal belum didaftarkan ulang, dan printer jaringan yang biasa dipakai buat mencetak dokumen legal valuasi menolak merespons. 
 
 Di tengah kekacauan itu, Vina berdiri di dekat jendela sambil memegang map berkas, menatap Aris yang duduk di atas kardus monitor sambil memangku laptop. Vina dengan entengnya bilang, "Ayo dong tim teknis, harusnya kalian *agile*. Pindahan kan cuma geser meja, masa sistem kita *down* seharian padahal klien korporat jam dua siang butuh *update* portofolio?" 
 
@@ -151,7 +151,7 @@ Untuk sistem korporat seperti yang ada di kantor konsultan kita, jalan paling bi
 
 ---
 
-Jam tangan gue menunjukkan pukul lima sore lewat sepuluh menit. Suara bor tukang akhirnya berhenti, digantikan dengungan pendingin ruangan kantor yang mulai mendinginkan tumpukan debu partikel di lantai 22. Di meja seberang, Aris akhirnya berhasil memetakan ulang subnet jaringan lokal untuk dua laptop tim penilai, sementara Vina buru-buru merapikan blazernya sebelum berangkat menemui klien di lobi bawah. Dari jendela kaca, langit Jakarta mulai temaram, lampu-lampu jalanan kawasan Sudirman mulai menyala satu per satu, dan jalur kereta komuter arah selatan sudah menanti perjalanan pulang gue ke pinggiran kota.
+Jam tangan gue menunjukkan pukul lima sore lewat sepuluh menit. Suara bor tukang akhirnya berhenti, digantikan dengungan pendingin ruangan kantor yang mulai mendinginkan tumpukan debu partikel di lantai 28. Di meja seberang, Aris akhirnya berhasil memetakan ulang subnet jaringan lokal untuk dua laptop tim penilai, sementara Vina buru-buru merapikan blazernya sebelum berangkat menemui klien di lobi bawah. Dari jendela kaca, langit Jakarta mulai temaram, lampu-lampu jalanan kawasan Sudirman mulai menyala satu per satu, dan jalur kereta komuter arah selatan sudah menanti perjalanan pulang gue ke pinggiran kota.
 
 Semoga catatan ringkas dari ruang kerja yang masih bau cat baru ini bisa jadi bahan obrolan renyah buat sesi belajar lo malam ini.
 
