@@ -2,8 +2,8 @@
 title: 'Catatan Nik: Tagihan Siluman Vendor dan Dongeng "Sistem Pakar" yang Hilang Akal'
 subtitle: 'Gue lagi nahan emosi liat invoice per user yang mendadak melambung tinggi, padahal engine yang dijual ke kantor cuma susunan IF-THEN kopong tanpa nalar.'
 type: blog
-date: 2026-10-29T05:00:00+07:00
-draft: true
+date: 2026-10-29T11:06:37.823263+07:00
+draft: false
 ws_chat: 1616
 ws_msg: 21615
 category: "Collab Journal"
