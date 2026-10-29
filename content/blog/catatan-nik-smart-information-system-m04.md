@@ -18,9 +18,9 @@ Gue langsung manggil Aris ke meja kerja gue lewat panggilan video singkat. Muka 
 
 "Mbak Nik," suara Aris kedengeran putus asa, "ini sistem beneran nggak masuk akal. Masa ada satu aset ruko tiga lantai di koridor TB Simatupang dinilai drop tiga puluh persen cuma gara-gara variabel lebar jalan gue isi sembilan koma delapan meter, padahal batas standarnya sepuluh meter? Pas gue cari tau logikanya di menu sistem, nggak ada keterangan apa pun. Nggak ada audit *trail*, nggak ada alasan logis."
 
-Gue narik napas panjang. Fenomena klasik SCBD: Vina, *head of sales* kita yang super persuasif itu, beberapa waktu lalu kepincut demo vendor yang presentasinya serba mengkilap. Waktu demo, vendor itu nunjukin *dashboard* interaktif dengan animasi grafik futuristik dan bilang kalau sistem ini berhasil meng-encode intuisi dan penalaran penilai senior ke dalam algoritma pintar. Katanya, kepergian penilai senior kaliber Bram yang dulu sempat bikin kantor limbung nggak bakal kerasa lagi karena "otak" sang pakar sudah dipindahkan ke dalam basis data komputer. Vina langsung setuju buat *rollout* ke tim valuasi komersial.
+Gue narik napas panjang. Fenomena klasik SCBD: Vina, *head of sales* kantor gue yang super persuasif itu, beberapa waktu lalu kepincut demo vendor yang presentasinya serba mengkilap. Waktu demo, vendor itu nunjukin *dashboard* interaktif dengan animasi grafik futuristik dan bilang kalau sistem ini berhasil meng-encode intuisi dan penalaran penilai senior ke dalam algoritma pintar. Katanya, kepergian penilai senior kaliber Bram yang dulu sempat bikin kantor limbung nggak bakal kerasa lagi karena "otak" sang pakar sudah dipindahkan ke dalam basis data komputer. Vina langsung setuju buat *rollout* ke tim valuasi komersial.
 
-Tapi kenyataan di lapangan berkata lain. Pas tagihan lisensi per *seat* melonjak gila-gilaan bulan ini, gue sama Aris baru nyadar kalau kita bukan lagi beli sistem pakar modern. Kita cuma lagi diperas buat bayar ribuan baris aturan kaku *hardcoded* yang ditulis amatir, dibungkus antarmuka web yang cantik, dan sama sekali nggak punya kemampuan bernalar layaknya seorang pakar sejati. 
+Tapi kenyataan di lapangan berkata lain. Pas tagihan lisensi per *seat* melonjak gila-gilaan bulan ini, gue sama Aris baru nyadar kalau kami bukan lagi beli sistem pakar modern. Kami cuma lagi diperas buat bayar ribuan baris aturan kaku *hardcoded* yang ditulis amatir, dibungkus antarmuka web yang cantik, dan sama sekali nggak punya kemampuan bernalar layaknya seorang pakar sejati. 
 
 Materi kuliah modul minggu ini di kampus gue kebetulan banget lagi ngebahas tuntas soal *Expert System* atau Sistem Pakar. Dan makin gue dalami materinya, makin keliatan betapa parahnya penipuan label "AI" yang sering dijual vendor-vendor nakal ke manajemen perusahaan.
 
@@ -50,34 +50,9 @@ Sebaliknya, pada sistem pakar sejati, arsitekturnya dirancang terpisah secara el
 
 ## Anatomi Inti: Komponen yang Wajib Ada di Bawah Kap Mesin
 
-Pas gue bedah arsitektur sistem dari modul kuliah gue bareng catatan kerjaan kantor, makin jelas komponen apa aja yang mestinya ada di dalam sebuah sistem pakar yang utuh. Ada lima pilar utama yang saling mengunci:
+Pas gue bedah arsitektur sistem dari modul kuliah gue bareng catatan kerjaan kantor, makin jelas komponen apa aja yang mestinya ada di dalam sebuah sistem pakar yang utuh. Modul nyebut empat komponen intinya: basis pengetahuan, mesin inferensi, antarmuka pengguna, dan fasilitas penjelasan. Gue tampilin di sini enam bagian yang saling mengunci, biar pas ujian tengah semester lo tinggal narik satu peta ini aja:
 
-```
-+-------------------+
-|   USER INTERFACE  |
-+-------------------+
-     ^         |
-input|         |rekomendasi
-     |         v
-+----------+  +----------+
-|EXPLANATION|<-| WORKING |
-| FACILITY  |  | MEMORY  |
-+----------+  +----------+
-        ^         |
-        | fakta   |
-        v         v
-+-------------------+
-|  INFERENCE ENGINE |
-| forward/backward  |
-+-------------------+
-        ^
-        | aturan
-        v
-+-------------------+
-|  KNOWLEDGE BASE   |
-|   aturan IF-THEN  |
-+-------------------+
-```
+![Anatomi inti sistem pakar: antarmuka pengguna, memori kerja, mesin inferensi, basis pengetahuan, fasilitas penjelasan, dan fasilitas akuisisi pengetahuan](/images/catatan-nik/smart-information-system-m04-anatomi-sistem-pakar.png)
 
 ### 1. Basis Pengetahuan (*Knowledge Base*)
 Ini adalah jantung dari sistem pakar. Isinya bukan cuma sekadar tabel data mentah kayak database SQL, tapi representasi pengetahuan dalam bentuk fakta dan aturan (*production rules*). Format standarnya biasanya berbentuk pasangan kondisi dan aksi: 
@@ -98,16 +73,19 @@ Nah, ini dia biang kerok yang bikin gue naik darah ke vendor tadi siang! Fasilit
 * **Pertanyaan "Why":** Kenapa sistem menanyakan informasi tertentu ke pengguna? Pengguna berhak tahu alasan di balik pertanyaan sistem di tengah-tengah sesi penginputan data.
 * **Pertanyaan "How":** Bagaimana sistem bisa sampai pada kesimpulan atau angka rekomendasi akhir tersebut? Sistem harus bisa membeberkan rantai penalaran (*reasoning chain*) yang dilewatinya dari fakta awal sampai vonis akhir.
 
-Sistem valuasi kantor yang dibeli Vina sama sekali nggak punya fasilitas penjelasan ini. Pas nilainya drop tiga puluh persen, sistemnya cuma nampilin angka dingin tanpa argumen pendukung. Padahal dalam dunia korporat, klien kita butuh laporan audit yang bisa dipertanggungjawabkan di mata hukum dan perbankan. Lo nggak bisa bilang ke klien, "Ya nilainya segini karena AI-nya bilang begitu." Bisa ditertawakan asosiasi penilai se-Indonesia kita kalau jawab begitu!
+Sistem valuasi kantor yang dibeli Vina sama sekali nggak punya fasilitas penjelasan ini. Pas nilainya drop tiga puluh persen, sistemnya cuma nampilin angka dingin tanpa argumen pendukung. Padahal dalam dunia korporat, klien gue butuh laporan audit yang bisa dipertanggungjawabkan di mata hukum dan perbankan. Lo nggak bisa bilang ke klien, "Ya nilainya segini karena AI-nya bilang begitu." Bisa ditertawakan asosiasi penilai se-Indonesia kalau jawab begitu!
 
 ### 5. Fasilitas Akuisisi Pengetahuan (*Knowledge Acquisition Facility*)
 Ini adalah antarmuka khusus yang dipakai oleh *knowledge engineer* bareng pakar domain buat memperbarui, menambah, atau memvalidasi basis pengetahuan. Mengambil pengetahuan dari kepala seorang ahli (*tacit knowledge*) buat diubah jadi aturan formal (*explicit knowledge*) itu salah satu pekerjaan paling rumit di dunia sistem informasi. Proses ini dikenal sebagai *knowledge engineering*, dan alat bantu akuisisi inilah yang memfasilitasi proses transfer tersebut supaya nggak terjadi kontradiksi logika di dalam sistem.
+
+### 6. Antarmuka Pengguna (*User Interface*)
+Komponen satu ini yang paling kelihatan dan paling sering dipamerin vendor. Fungsinya cuma dua arah: nerima input fakta dan pertanyaan dari pengguna, terus nampilin keluaran sistem berupa rekomendasi, diagnosis, plus penjelasan dari fasilitas penjelasan. Dashboard animasi yang bikin Vina kepincut waktu demo dulu ya bagian ini. Tapi antarmuka cuma wajahnya: yang bikin sistem ini pakar atau cuma kalkulator mahal ada di bawah kap, di basis pengetahuan dan mesin inferensinya.
 
 ---
 
 ## Mesin Penalaran: Duel Forward Chaining vs Backward Chaining
 
-Bagian paling seru di materi kuliah minggu ini adalah waktu ngebahas cara kerja mesin inferensi dalam menelusuri aturan. Ada dua strategi utama yang punya karakteristik berlawanan: *Forward Chaining* dan *Backward Chaining*. Memahami dua pendekatan ini bikin mata gue terbuka lebar soal kenapa sistem kantor kita saat ini berantakan parah.
+Bagian paling seru di materi kuliah minggu ini adalah waktu ngebahas cara kerja mesin inferensi dalam menelusuri aturan. Ada dua strategi utama yang punya karakteristik berlawanan: *Forward Chaining* dan *Backward Chaining*. Memahami dua pendekatan ini bikin mata gue terbuka lebar soal kenapa sistem kantor gue saat ini berantakan parah.
 
 ```
 FORWARD CHAINING (data-driven):
@@ -139,7 +117,7 @@ Mesin inferensi bakal milih satu tujuan dulu (misalnya: *Apakah aset ini layak d
 * Situasi di mana data yang relevan harus dicari secara selektif, bukan dikumpulkan semuanya di muka.
 * Kasus di mana pengguna sudah punya dugaan awal atau pilihan hipotesis yang jumlahnya terbatas.
 
-Kelemahan sistem kantor kita yang dibeli Vina adalah si vendor mencoba memaksakan logika *forward chaining* kaku pada masalah valuasi yang hakikatnya butuh pembuktian *backward chaining*. Penilai manusia yang berpengalaman biasanya berangkat dari hipotesis kelayakan nilai pasar wajar berdasarkan properti komparabel terdekat, lalu bekerja mundur memverifikasi atribut fisik, legalitas sertifikat, dan kepatuhan zonasi untuk menguji hipotesis nilai tersebut. Karena vendor mencampuradukkan kedua logika ini tanpa mesin inferensi yang benar, hasilnya jadi acak-acakan.
+Kelemahan sistem kantor gue yang dibeli Vina adalah si vendor mencoba memaksakan logika *forward chaining* kaku pada masalah valuasi yang hakikatnya butuh pembuktian *backward chaining*. Penilai manusia yang berpengalaman biasanya berangkat dari hipotesis kelayakan nilai pasar wajar berdasarkan properti komparabel terdekat, lalu bekerja mundur memverifikasi atribut fisik, legalitas sertifikat, dan kepatuhan zonasi untuk menguji hipotesis nilai tersebut. Karena vendor mencampuradukkan kedua logika ini tanpa mesin inferensi yang benar, hasilnya jadi acak-acakan.
 
 ---
 
@@ -159,7 +137,7 @@ Sistem pakar itu luar biasa tajam dan presisi selama masalah yang dihadapi berad
 
 Manusia punya akal sehat. Kalau seorang penilai manusia nemu jalan raya lebarnya sembilan koma delapan meter alih-alih sepuluh meter, akal sehatnya bakal ngomong: "Dua puluh sentimeter ini nggak signifikan karena trotoarnya lebar dan truk kontainer tetep bisa papasan dengan leluasa." Tapi sistem pakar yang rapuh bakal langsung memotong valuasi secara brutal karena aturan *IF lebar < 10 THEN diskon 30%* tereksekusi tanpa kompromi akal sehat. 
 
-Ini yang bikin gue geregetan banget sama klaim vendor kantor kita. Mereka menjual sistem yang kaku dan rapuh ini dengan label "AI Revolusioner". Padahal sistem pakar generasi simbolik (*Symbolic AI*) punya batas toleransi yang sangat jelas dan nggak boleh dipasarkan sebagai entitas yang serba bisa beradaptasi sendiri layaknya model pembelajaran mesin probabilistik modern.
+Ini yang bikin gue geregetan banget sama klaim vendor kantor gue. Mereka menjual sistem yang kaku dan rapuh ini dengan label "AI Revolusioner". Padahal sistem pakar generasi simbolik (*Symbolic AI*) punya batas toleransi yang sangat jelas dan nggak boleh dipasarkan sebagai entitas yang serba bisa beradaptasi sendiri layaknya model pembelajaran mesin probabilistik modern.
 
 ---
 
@@ -204,13 +182,13 @@ Biar gambaran di kepala kita berdua makin jernih buat bahan ujian tengah semeste
 | **Biaya & Tantangan Pemeliharaan** | *Knowledge acquisition bottleneck*; sulit memperbarui aturan secara massal tanpa konflik logika. | Ketergantungan tinggi pada kualitas dan kebersihan data (*Garbage in, garbage out*). |
 | **Paling Optimal Digunakan Untuk** | Domain dengan regulasi ketat, aturan deterministik, dan butuh akuntabilitas audit hukum. | Pengenalan pola kompleks, prediksi citra/suara, estimasi probabilitas tren dinamis. |
 
-Melihat tabel ini, gue makin yakin kalau langkah vendor kantor kita yang mematok harga selangit sambil menyamarkan sistem *rule-based* dangkal sebagai mesin kognitif modern adalah tindakan yang nggak etis secara bisnis teknologi informasi. Sistem mereka nggak punya transparansi sistem pakar sejati, tapi juga nggak punya fleksibilitas statistik dari *machine learning*. Jadinya cuma produk nanggung yang bikin tim operasional kita makan hati.
+Melihat tabel ini, gue makin yakin kalau langkah vendor kantor gue yang mematok harga selangit sambil menyamarkan sistem *rule-based* dangkal sebagai mesin kognitif modern adalah tindakan yang nggak etis secara bisnis teknologi informasi. Sistem mereka nggak punya transparansi sistem pakar sejati, tapi juga nggak punya fleksibilitas statistik dari *machine learning*. Jadinya cuma produk nanggung yang bikin tim operasional gue makan hati.
 
 ---
 
 ## Refleksi dan Pertanyaan Buat Diskusi Kita
 
-Gue tadi sore sempet debat kecil sama Vina di ruang rapat lantai empat kantor kita di SCBD sebelum gue balik ke Bogor. Vina masih keukeuh membela vendor itu dengan dalih: "Tapi Nik, sistem ini udah memangkas waktu kerja tim valuasi sampai empat puluh persen di fase penginputan awal!"
+Gue tadi sore sempet debat kecil sama Vina di ruang rapat lantai 28 kantor gue di SCBD sebelum gue balik ke Bogor. Vina masih keukeuh membela vendor itu dengan dalih: "Tapi Nik, sistem ini udah memangkas waktu kerja tim valuasi sampai empat puluh persen di fase penginputan awal!"
 
 Gue cuma bisa membalas tenang: "Iya Vin, memangkas waktu input empat puluh persen, tapi kita ngabisin waktu tiga ratus persen lebih banyak buat benerin anomali angka yang nggak bisa dijelasin asal-usulnya pas klien kita nanya rincian metodologinya." Vina langsung diem, nggak bisa bantah lagi.
 
