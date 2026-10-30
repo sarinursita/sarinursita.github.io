@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Anak SD vs Remaja SMA: Ngajar Satu Cohort Usia 8 sampai 16 Tahun Bikin Lu Jadi Pawang Kebun Binatang"
 subtitle: "Gua ketawa dulu pas Mas Hendra nyebut pawang kebun binatang, baru belakangan sadar kesalahan yang sama pernah gua bikin sendiri."
 type: blog
-date: 2026-10-30T05:00:00+07:00
-draft: true
+date: 2026-10-30T07:58:46.805995+07:00
+draft: false
 ws_chat: 1614
 ws_msg: 21611
 category: "Collab Journal"
