@@ -2,8 +2,8 @@
 title: 'Catatan Nik: Panik Kebocoran Data Vendor dan Ilusi Riset Bab Dua'
 subtitle: 'Kantor minta dokumen kajian kilat sebelum bursa buka. Yang balik ke gue setebal lima belas halaman: kliping abstrak, nggak ada sintesis, nggak ada kritik metodologi, nggak ada benang merah.'
 type: blog
-date: 2026-10-30T05:00:00+07:00
-draft: true
+date: 2026-10-30T08:00:27.827079+07:00
+draft: false
 ws_chat: 1617
 ws_msg: 21617
 category: "Collab Journal"
