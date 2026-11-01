@@ -1,7 +1,9 @@
 ---
-title: "Jurnal Ana: Waktu Dosenku Bilang Manusia Cuma Sekadar Daging dan Reaksi Kimia"
+title: "Jurnal Ana: Waktu Teman Sekelasku Bilang Manusia Cuma Daging dan Reaksi Kimia"
 date: 2026-10-31T08:15:00+07:00
 draft: false
+aliases:
+  - /blog/jurnal-ana-waktu-dosenku-bilang-manusia-cuma-sekadar-daging-dan-reaksi-kimia/
 author: "Ana"
 category: Collab Journal
 tags:
@@ -9,9 +11,9 @@ tags:
   - jurnal-ana
   - psikologi
   - collab-journal
-summary: "Aku pulang dari kelas sejarah psikologi dengan dada sesak, karena dosenku mengangguk saat seorang teman bilang jiwa cuma ilusi listrik di otak. Dari malam itu aku belajar bahwa psikologi sebenarnya ilmu jiwa, bukan cuma ilmu perilaku."
+summary: "Aku pulang dari kelas sejarah psikologi dengan dada sesak, karena dosenku cuma balik bertanya saat seorang teman bilang jiwa cuma ilusi listrik di otak. Dari malam itu aku belajar bahwa psikologi sebenarnya ilmu jiwa, bukan cuma ilmu perilaku."
 subtitle: "Aku menelusuri asal kata psikologi sampai keempat kamar di dalam diri kita, dan sadar bahwa jiwa yang dianggap mitos itu justru yang bikin kita utuh."
-hook: "Seorang mahasiswa bilang cinta cuma reaksi biokimia. Dosenku mengangguk. Aku cuma bisa meremas ujung jaket."
+hook: "Seorang mahasiswa bilang cinta cuma reaksi biokimia. Dosenku balik bertanya, dan kelas mendadak hening."
 ws_project: 157
 ws_msg: 21637
 ---
@@ -19,7 +21,7 @@ Sari, tadi malam di kampus ada kejadian yang bikin dadaku rasanya sesak banget.
 
 Di luar lagi hujan rintik-rintik khas musim dingin Selandia Baru yang dinginnya sampai menusuk tulang. Jam kuliah malam baru aja mulai, dan kelas lagi ngebahas dasar sejarah psikologi modern. Tiba-tiba salah satu mahasiswa lokal yang pintar banget nyeletuk dengan nada santai. Dia bilang kalau pada akhirnya, manusia itu cuma mesin biologis. Menurut dia, cinta, rasa bersalah, empati, atau bahkan doa, itu semua cuma ilusi dari letupan listrik di otak dan reaksi biokimia. Nggak ada yang namanya jiwa.
 
-Waktu dosenku cuma mengangguk-angguk setuju sambil tersenyum lebar, ruang kelas mendadak hening. Di situ aku cuma bisa menunduk sambil meremas ujung lengan jaketku. Kamu tahu kan sifat aku yang gampang grogi dan nggak enakan kalau harus mendebat orang di depan umum. Lidahku kelu, tapi di dalam hati rasanya ada yang menolak keras. 
+Waktu dosenku cuma mengangguk pelan, aku sempat mengira beliau membenarkannya. Tapi beliau tidak menimpali dengan ceramah, cuma bertanya balik dengan nada tenang, "Oke. Kalau semuanya cuma reaksi kimia, coba jelaskan bagian mana dari reaksi itu yang membuatmu merasa bersalah setelah berbuat salah." Ruang kelas mendadak hening. Di situ aku cuma bisa menunduk sambil meremas ujung lengan jaketku. Kamu tahu kan sifat aku yang gampang grogi dan nggak enakan kalau harus mendebat orang di depan umum. Lidahku kelu, tapi di dalam hati rasanya ada yang menolak keras. 
 
 Pulang dari kampus, aku cerita ke Yusuf di meja makan sambil menyeduh teh *chamomile* hangat. Yusuf cuma mendengarkan dengan tenang, terus dia tersenyum lembut sambil bilang, "Justru karena itu kamu belajar psikologi Islam, kan? Supaya kamu tahu jawabannya."
 
