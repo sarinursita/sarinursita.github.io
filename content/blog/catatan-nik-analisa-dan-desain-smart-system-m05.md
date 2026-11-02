@@ -2,8 +2,8 @@
 title: 'Catatan Nik: Spidol Whiteboard Lantai 28, Drama Tulang Ikan, dan Jebakan Angka Pertama'
 subtitle: 'Diagram fishbone karya Aris difoto, dihapus sebelum makan siang, dan nggak satu pun dugaan yang diuji: gue baru nyadar bias kognitif kantor itu sistemik.'
 type: blog
-date: 2026-11-02T05:00:00+07:00
-draft: true
+date: 2026-11-02T07:42:22.941830+07:00
+draft: false
 ws_chat: 1653
 ws_msg: 21712
 category: "Collab Journal"
