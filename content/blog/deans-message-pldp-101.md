@@ -3,7 +3,7 @@ title: "Dean's Message: Anak yang Terlalu Mudah Berpindah Tangan"
 subtitle: "Anak tiga tahun yang nggak pernah nangis waktu ditinggal, dan siapa pun yang menggendongnya dia ikut. Keluarga ini ngira itu anak yang kalem."
 type: blog
 date: 2026-11-02T12:00:00+07:00
-draft: true
+draft: false
 approved: true
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'perkembangan']
