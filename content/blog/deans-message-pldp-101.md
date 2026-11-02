@@ -4,7 +4,7 @@ subtitle: "Anak tiga tahun yang nggak pernah nangis waktu ditinggal, dan siapa p
 type: blog
 date: 2026-11-02T12:00:00+07:00
 draft: true
-approved: false
+approved: true
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'perkembangan']
 summary: "Anak yang nggak nangis bisa jadi yang paling parah. Dean jelasin kenapa kelekatan yang patah kelihatan seperti anak baik."
