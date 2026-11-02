@@ -9,9 +9,15 @@ persona Dean (mubaleg tugas di Australia, S1 Psikologi Islam IOU, S2 Komunikasi 
 keluarga muslim). Surat ke Dika (adik kelas, semester 1, mondok). Bentuk: drama-first, bukan
 rangkuman; nomor sesi DILARANG di badan cerita (cuma di peta materi + saran urutan baca).
 
-Live: PPOP 101 (2 Nov 08:15), PLDP 101 (2 Nov 12:00), PCPS 101 (3 Nov 06:29, telat dari slot
-06:00 karena approve datang jam 06:20). Semua 6 matkul sudah approved.
+Live: PPOP (2 Nov 08:15), PLDP (2 Nov 12:00), PCPS (3 Nov 06:29, telat dari slot 06:00 karena
+approve datang jam 06:20). Semua 6 matkul sudah approved.
 Sisa jadwal: ENES 3 Nov 12:00, PPIP 4 Nov 06:00, ISGS 4 Nov 12:00.
+
+Slug pakai topik, bukan kode matkul (standar sama dengan catatan-nik):
+deans-message-hukuman-bukan-perubahan, -anak-yang-terlalu-mudah-berpindah-tangan,
+-celana-basah-di-ruang-konseling, -tiga-kali-buka-bab-yang-sama,
+-sajadah-basah-hati-hidup, -pecah-sebelum-mimbar-berdiri.
+Tiga slug lama pakai `aliases:` supaya link yang sudah beredar tidak 404. Tag `IOU` dibuang.
 
 ## Next
 
