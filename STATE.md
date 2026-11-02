@@ -9,8 +9,9 @@ persona Dean (mubaleg tugas di Australia, S1 Psikologi Islam IOU, S2 Komunikasi 
 keluarga muslim). Surat ke Dika (adik kelas, semester 1, mondok). Bentuk: drama-first, bukan
 rangkuman; nomor sesi DILARANG di badan cerita (cuma di peta materi + saran urutan baca).
 
-Tayang: PPOP 101 (2 Nov 08:15), PLDP 101 (2 Nov 12:00). Draft siap: PCPS, ENES, PPIP, ISGS
-(flag `approved: false`, `draft: true`).
+Live: PPOP 101 (2 Nov 08:15), PLDP 101 (2 Nov 12:00), PCPS 101 (3 Nov 06:29, telat dari slot
+06:00 karena approve datang jam 06:20). Semua 6 matkul sudah approved.
+Sisa jadwal: ENES 3 Nov 12:00, PPIP 4 Nov 06:00, ISGS 4 Nov 12:00.
 
 ## Next
 
@@ -29,4 +30,4 @@ Tayang: PPOP 101 (2 Nov 08:15), PLDP 101 (2 Nov 12:00). Draft siap: PCPS, ENES, 
 
 ## Last session
 
-- 2026-11-02 · wiz · Dean's Message: PPOP v4 live, PLDP live, 4 draft, cron publish 06/12 WIB
+- 2026-11-03 · wiz · Dean: PCPS live, 4 matkul approved, WA format dirapikan (kopi + ceklist)
