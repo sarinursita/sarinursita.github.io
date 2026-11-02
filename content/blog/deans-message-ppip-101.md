@@ -4,6 +4,7 @@ subtitle: "Seorang jamaah shalat lima waktu nggak pernah bolong, tapi bilang iba
 type: blog
 date: 2026-11-04T06:00:00+07:00
 draft: true
+approved: false
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'psikologi-islam']
 summary: "Ibadah rapi tapi jiwa kosong itu bukan kurang rajin. Dean baru paham setelah materinya dibedah pakai ruh, nafs, dan qalb."

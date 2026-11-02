@@ -4,6 +4,7 @@ subtitle: "Anak lima tahun ngompol lagi setelah dua tahun kering, dan orang tuan
 type: blog
 date: 2026-11-03T06:00:00+07:00
 draft: true
+approved: false
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'psikologi-anak']
 summary: "Ngompol lagi bukan manja. Dean bedah satu keluarga yang hampir pecah pakai cara kerja kelekatan dan pengasuhan."

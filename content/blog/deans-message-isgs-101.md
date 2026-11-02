@@ -4,6 +4,7 @@ subtitle: "Guru ngaji kami wafat, gue disuruh gantiin beliau, dan jam dua pagi s
 type: blog
 date: 2026-11-04T12:00:00+07:00
 draft: true
+approved: false
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'studi-islam']
 summary: "Pertanyaan takdir yang datang jam dua pagi, plus satu tawaran jimat. Dean jawab pakai akidah, bukan pakai vonis."
