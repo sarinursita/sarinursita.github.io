@@ -2,7 +2,7 @@
 
 ## What
 
-Situs personal Sari Nursita di `https://sarinursita.github.io`: portofolio buku dan blog. Hugo,
+Situs personal Sari Nursita di `https://sarinursita.my.id` (GitHub Pages, dulu sarinursita.github.io): portofolio buku dan blog. Hugo,
 tema mengikuti gaya Twenty Twenty supaya senada dengan WordPress lama, tapi kontennya di GitHub.
 Ini yang dimaksud user kalau bilang "blog".
 
