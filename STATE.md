@@ -34,6 +34,16 @@ Tiga slug lama pakai `aliases:` supaya link yang sudah beredar tidak 404. Tag `I
 - Script `publish-dean-due.sh` sempat push pakai askpass Gitea; repo blog cuma punya remote
   `origin` = GitHub, push-nya gagal diam-diam (`|| true`). Sudah dibenerin: cukup `git push origin`.
 
+## Deployment / domain
+
+Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.yml`).
+- DNS di panel Sumopod (NS `ns1/ns2.sumopod.com`): 3× A root @ → 185.199.109/110/111.153
+  (yang .108 belum ditambah, tidak wajib), CNAME `www` → `sarinursita.github.io`.
+- `static/CNAME` = `sarinursita.my.id`, `hugo.toml` baseURL ikut domain baru.
+- `www` + domain lama `sarinursita.github.io` dua-duanya 301 ke domain utama. HTTPS enforced.
+- Sertifikat GitHub aktif s/d 2027-02-01. Branch `custom-domain` sudah di-merge ke `main`.
+
 ## Last session
 
+- 2026-11-03 · max · Pindah blog ke domain sendiri `sarinursita.my.id` (DNS + Pages + HTTPS live)
 - 2026-11-03 · wiz · Dean: PCPS live, 4 matkul approved, WA format dirapikan (kopi + ceklist)
