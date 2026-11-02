@@ -6,16 +6,27 @@ set -euo pipefail
 cd /home/saristudio/repos/sarinursita.github.io
 git pull --quiet origin main || true
 
+stamp=$(TZ=Asia/Jakarta date '+%F %H:%M WIB')
 now=$(TZ=Asia/Jakarta date +%s)
 changed=0
+skipped=()
 
 for f in content/blog/deans-message-*.md; do
   [ -e "$f" ] || continue
-  grep -q '^approved: true' "$f" || continue
+  name=$(basename "$f" .md | sed 's/^deans-message-//')
+  # sudah tayang, bukan urusan kita
   grep -q '^draft: true' "$f" || continue
+  # belum di-approve -> catat alasannya, jangan diam-diam
+  if ! grep -q '^approved: true' "$f"; then
+    skipped+=("$name (belum approved)")
+    continue
+  fi
   d=$(grep -m1 '^date: ' "$f" | cut -d' ' -f2)
   ds=$(TZ=Asia/Jakarta date -d "$d" +%s 2>/dev/null || echo 0)
-  [ "$ds" -le "$now" ] || continue
+  if [ "$ds" -gt "$now" ]; then
+    skipped+=("$name (jadwal $(TZ=Asia/Jakarta date -d "$d" '+%d %b %H:%M'))")
+    continue
+  fi
   python3 - "$f" <<'PY'
 import re,sys
 p=sys.argv[1]; t=open(p).read()
@@ -29,8 +40,12 @@ done
 
 if [ "$changed" -gt 0 ]; then
   # repo blog hanya punya remote origin = GitHub; jangan pakai askpass Gitea
-  git push origin main --quiet || true
-  echo "$(TZ=Asia/Jakarta date '+%F %H:%M WIB') tayang $changed post"
+  if git push origin main --quiet; then
+    echo "$stamp tayang $changed post: OK"
+  else
+    echo "$stamp TAYANG $changed post TAPI PUSH GAGAL - cek manual: pull dulu, lalu git push origin main" >&2
+    exit 1
+  fi
 else
-  echo "$(TZ=Asia/Jakarta date '+%F %H:%M WIB') tidak ada post due"
+  echo "$stamp tidak ada post due${skipped[*]:+ | nunggu: ${skipped[*]}}"
 fi
