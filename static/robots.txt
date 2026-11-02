@@ -67,5 +67,5 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-# Ringkasan situs untuk LLM: https://sarinursita.github.io/llms.txt
-Sitemap: https://sarinursita.github.io/sitemap.xml
+# Ringkasan situs untuk LLM: https://sarinursita.my.id/llms.txt
+Sitemap: https://sarinursita.my.id/sitemap.xml

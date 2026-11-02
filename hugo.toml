@@ -1,4 +1,4 @@
-baseURL = "https://sarinursita.github.io/"
+baseURL = "https://sarinursita.my.id/"
 languageCode = "id"
 title = "Sari Nursita"
 # sitemap/robots digenerate Hugo (static/robots.txt menimpa template robots bawaan)
