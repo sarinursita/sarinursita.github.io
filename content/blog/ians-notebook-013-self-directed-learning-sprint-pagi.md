@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Waktu Lu Sempit, Sar: Kenapa Belajar Mandiri Itu Soal Jam Beker Pagi, Bukan Niat Suci"
 subtitle: "Gua baru sadar modul pelatihan yang gua rancang minta orang belajar dua jam nonstop tiap malem, padahal energi orang kantoran jam tujuh malem ya udah abis."
 type: blog
-date: 2026-11-02T05:00:00+07:00
-draft: true
+date: 2026-11-02T09:20:57.653614+07:00
+draft: false
 ws_chat: 1633
 ws_msg: 21674
 category: "Collab Journal"
