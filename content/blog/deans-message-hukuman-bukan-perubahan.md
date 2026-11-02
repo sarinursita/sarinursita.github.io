@@ -5,12 +5,13 @@ type: blog
 date: 2026-11-02T08:15:00+07:00
 draft: false
 category: "Collab Journal"
-tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message']
+tags: ['study', 'collab-journal', 'psikologi', 'deans-message']
 summary: "Bapak yang nyuruh anaknya shalat pakai gesper, anak yang jawab pakai diam. Semua yang kejadian di ruangan itu ternyata bisa dibaca pakai semester satu psikologi."
 hook: "Hukuman bikin orang berhenti, bukan berubah. Ruangan tiga kali tiga meter itu yang ngajarin gue."
 ws_project: 157
 ws_msg: 21746
 publish_from: file
+aliases: ["/blog/deans-message-ppop-101/"]
 ---
 
 Hai, Dik.

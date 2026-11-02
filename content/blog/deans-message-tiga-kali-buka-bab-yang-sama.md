@@ -6,7 +6,7 @@ date: 2026-11-03T12:00:00+07:00
 draft: true
 approved: true
 category: "Collab Journal"
-tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'bahasa-inggris']
+tags: ['study', 'collab-journal', 'psikologi', 'deans-message', 'bahasa-inggris']
 summary: "Bukan bakat, tapi cara baca dan cara nyatet. Dean cerita dari nilai jelek sampai bisa kerja pakai bahasa Inggris."
 hook: "Buku yang bersih dari coretan itu tanda pemiliknya belum mikir."
 ws_project: 157

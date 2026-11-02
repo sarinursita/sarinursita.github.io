@@ -6,12 +6,13 @@ date: 2026-11-03T06:00:00+07:00
 draft: false
 approved: true
 category: "Collab Journal"
-tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'psikologi-anak']
+tags: ['study', 'collab-journal', 'psikologi', 'deans-message', 'psikologi-anak']
 summary: "Ngompol lagi bukan manja. Dean bedah satu keluarga yang hampir pecah pakai cara kerja kelekatan dan pengasuhan."
 hook: "Tubuh anak ngomong lebih dulu sebelum mulutnya bisa bilang rumahnya runtuh."
 ws_project: 157
 ws_msg: 21738
 publish_from: file
+aliases: ["/blog/deans-message-pcps-101/"]
 ---
 
 Hai, Dik.

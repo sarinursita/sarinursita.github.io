@@ -6,7 +6,7 @@ date: 2026-11-04T12:00:00+07:00
 draft: true
 approved: true
 category: "Collab Journal"
-tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'studi-islam']
+tags: ['study', 'collab-journal', 'psikologi', 'deans-message', 'studi-islam']
 summary: "Pertanyaan takdir yang datang jam dua pagi, plus satu tawaran jimat. Dean jawab pakai akidah, bukan pakai vonis."
 hook: "Akidah paling sering bocor justru waktu hati lagi robek, bukan waktu sedang lapang."
 ws_project: 157

@@ -6,12 +6,13 @@ date: 2026-11-02T12:00:00+07:00
 draft: false
 approved: true
 category: "Collab Journal"
-tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'perkembangan']
+tags: ['study', 'collab-journal', 'psikologi', 'deans-message', 'perkembangan']
 summary: "Anak yang nggak nangis bisa jadi yang paling parah. Dean jelasin kenapa kelekatan yang patah kelihatan seperti anak baik."
 hook: "Anak yang terlalu mudah percaya sama orang asing itu bukan kalem. Alarm bahayanya yang mati."
 ws_project: 157
 ws_msg: 21740
 publish_from: file
+aliases: ["/blog/deans-message-pldp-101/"]
 ---
 
 Hai, Dik.
