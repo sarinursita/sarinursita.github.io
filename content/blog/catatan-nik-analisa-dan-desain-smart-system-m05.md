@@ -9,7 +9,7 @@ ws_msg: 21712
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "analisa-dan-desain-smart-system", "catatan-nik"]
 summary: 'Materi pekan ini soal bias kognitif, diagram fishbone, dan ketidakpastian aleatorik vs epistemik. Di kantor gue, rapat akar masalah berakhir dengan diagram yang jadi lampiran audit dan satu angka jangkar yang nggak pernah diuji.'
-hook: 'Pernah nggak lo ikut rapat yang kata manajemennya "cari akar masalahnya", tapi sejam kemarin semuanya udah sepakat pake feeling orang paling senior dan diagramnya dihapus sebelum makan siang?'
+hook: 'Pernah nggak lo ikut rapat yang kata manajemennya "cari akar masalahnya", tapi sejam kemudian semuanya udah sepakat pake feeling orang paling senior dan diagramnya dihapus sebelum makan siang?'
 ---
 
 Tiga spidol *boardmarker* beda warna tergeletak berantakan di atas meja rapat lantai 28. Di papan tulis kaca sepanjang empat meter, ada gambar kerangka ikan raksasa yang digambar Aris dengan sangat rapi sampai garis tulang cabangnya pakai penggaris lipat.
@@ -24,7 +24,7 @@ Vina tiba-tiba mengetuk meja dua kali dengan pulpennya, lalu bilang dengan nada 
 
 Semua orang di ruangan itu mengangguk. Diagram karya Aris difoto lewat ponsel, dihapus sampai bersih sebelum jam makan siang, dan proyek jalan terus tanpa satu pun tulang dugaan di papan itu pernah diuji lewat data. Angka 85 persen yang dilempar Vina tanpa dasar itu seketika jadi patokan suci semua orang di ruangan.
 
-Gue cuma bisa menatap remah-remah penghapus papan tulis di karpet sambil teringat materi kuliah *Smart System Analysis and Design* di kelas gue kemarin. Kita sering banget terjebak bikin formalitas analisis, padahal otak kita sendiri sedang disandera oleh bias kognitif yang parah.
+Gue cuma bisa menatap remah-remah penghapus papan tulis di karpet sambil teringat materi kuliah *Smart System Analysis and Design* di kelas gue. Kita sering banget terjebak bikin formalitas analisis, padahal otak kita sendiri sedang disandera oleh bias kognitif yang parah.
 
 ---
 
@@ -46,7 +46,7 @@ Ada sepuluh bias kognitif yang paling sering merusak perancangan sistem cerdas:
 1. **Anchoring.** Angka atau informasi pertama yang didengar langsung jadi jangkar yang mengunci seluruh diskusi. Begitu Vina nyebut "target 85 persen", kepala semua orang langsung berputar di sekitar angka itu, padahal *baseline* riil sistem penilai kami sebelum otomatisasi cuma ada di angka 58 persen.
 2. **Availability Bias.** Kita menilai frekuensi sesuatu berdasarkan seberapa gampang hal itu melintas di ingatan kita. Kegagalan sistem server yang sempat viral di grup WhatsApp kantor terasa seperti masalah harian, padahal secara log sistem cuma terjadi sekali dalam enam bulan.
 3. **Confirmation Bias.** Kebiasaan cuma mencari bukti yang membuktikan dugaan awal kita, sambil menutup mata rapat-rapat dari data yang membantahnya. Analis sering cuma memasukkan variabel yang "terasa masuk akal" ke dalam model dan membuang variabel anomali yang justru menyimpan pola penting.
-4. **Overconfidence dan Kalibrasi.** Rentang keyakinan kita terlalu sempit. Tim sering bilang dengan enteng, "Proyeksi transaksi properti bulan depan pasti di kisaran 1.200 unit." Padahal varians aslinya bisa merentang lebar dari 500 sampai 2.100 unit. Model prediktif yang kita latih pun bisa tertular penyakit ini, mengeluarkan nilai probabilitas 0,96 padahal akurasi aslinya di lapangan cuma 65 persen.
+4. **Overconfidence dan Kalibrasi.** Rentang keyakinan kita terlalu sempit. Tim sering bilang dengan enteng, "Proyeksi transaksi properti bulan depan pasti di kisaran 1.200 unit." Padahal varians aslinya bisa merentang lebar dari 500 sampai 2.100 unit. Model prediktif yang tim gue latih pun bisa tertular penyakit ini, mengeluarkan nilai probabilitas 0,96 padahal akurasi aslinya di lapangan cuma 65 persen.
 5. **Framing Effect.** Keputusan kita berubah cuma gara-gara cara penyampaian. Kalimat "Sistem rekomendasi ini punya peluang berhasil 75 persen" kedengaran jauh lebih menarik di depan direksi daripada "Sistem ini punya risiko salah prediksi sebesar 25 persen", padahal nilai faktualnya identik.
 6. **Sunk Cost Fallacy.** Mempertahankan proyek yang salah arah cuma karena anggaran sudah cair separuh dan tim sudah begadang berminggu-minggu. Ini yang tadi siang bikin Vina menolak evaluasi akar masalah: rasa sayang pada modal yang sudah terlanjur hangus.
 7. **Survivorship Bias.** Cuma menganalisis entitas yang sukses bertahan. Di kantor gue, tim sering cuma membedah profil agen properti yang berhasil menutup transaksi bernilai raksasa, sementara ratusan transaksi yang gagal di tengah jalan nggak pernah disentuh datanya. Padahal resep kegagalan sistem justru ada di tumpukan data yang terabaikan itu.
