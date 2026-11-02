@@ -4,7 +4,7 @@ subtitle: "Nilai bahasa Inggris gue dulu jelek. Sekarang bahan kuliah S2 gue bah
 type: blog
 date: 2026-11-03T12:00:00+07:00
 draft: true
-approved: false
+approved: true
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'bahasa-inggris']
 summary: "Bukan bakat, tapi cara baca dan cara nyatet. Dean cerita dari nilai jelek sampai bisa kerja pakai bahasa Inggris."
