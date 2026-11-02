@@ -2,8 +2,8 @@
 title: "Catatan Nik: Demo Viral LinkedIn, Halusinasi Klien SCBD, dan Seni Menemukan Pola Tanpa Kunci Jawaban"
 subtitle: Gue baru aja liat klien minta dashboard ajaib cuma bermodal video demo di LinkedIn, padahal data yang mereka kirim masih setengah kosong dan tanpa satu pun label.
 type: blog
-date: 2026-11-03T05:00:00+07:00
-draft: true
+date: 2026-11-03T06:49:17.150776+07:00
+draft: false
 ws_chat: 1637
 ws_msg: 21681
 category: Collab Journal
