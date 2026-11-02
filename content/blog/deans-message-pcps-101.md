@@ -3,8 +3,8 @@ title: "Dean's Message: Celana Basah di Ruang Konseling dan Nasihat Agama yang B
 subtitle: "Anak lima tahun ngompol lagi setelah dua tahun kering, dan orang tuanya di ambang cerai. Kata orang, anak sekecil itu nggak ngerti apa-apa."
 type: blog
 date: 2026-11-03T06:00:00+07:00
-draft: true
-approved: false
+draft: false
+approved: true
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'IOU', 'deans-message', 'psikologi-anak']
 summary: "Ngompol lagi bukan manja. Dean bedah satu keluarga yang hampir pecah pakai cara kerja kelekatan dan pengasuhan."
