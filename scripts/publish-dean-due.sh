@@ -28,8 +28,8 @@ PY
 done
 
 if [ "$changed" -gt 0 ]; then
-  git -c credential.helper= -c core.askPass=/home/saristudio/repos/agent-router/bin/askpass push origin main --quiet || true
-  git push github main --quiet || true
+  # repo blog hanya punya remote origin = GitHub; jangan pakai askpass Gitea
+  git push origin main --quiet || true
   echo "$(TZ=Asia/Jakarta date '+%F %H:%M WIB') tayang $changed post"
 else
   echo "$(TZ=Asia/Jakarta date '+%F %H:%M WIB') tidak ada post due"
