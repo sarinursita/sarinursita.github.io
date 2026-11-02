@@ -2,7 +2,7 @@
 title: "Ian's Notebook: Berhenti Langsung Bikin Slide: Gimana ADDIE Nyelametin Gua dari Omelan Mas Hendra dan Kelas yang Berantakan"
 subtitle: "Dua puluh slide interaktif gua udah rapi di Canva, tapi satu pertanyaan Mas Hendra bikin gua sadar gua belum tahu masalah asli peserta trainingnya apa."
 type: blog
-date: 2026-11-11T05:00:00+07:00
+date: 2026-11-04T05:00:00+07:00
 draft: true
 ws_chat: 1634
 ws_msg: 21676

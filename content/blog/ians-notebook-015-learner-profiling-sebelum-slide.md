@@ -2,7 +2,7 @@
 title: "Ian's Notebook: Lu Bikin Slide Dulu Baru Kenalan Sama Murid? Pantesan Kelas Lu Salah Sasaran"
 subtitle: "Deck klien gua udah cakep ada simulasi Miro plus video 4K, sampai Mas Hendra nanya pesertanya buka modul pake apa."
 type: blog
-date: 2026-11-13T05:00:00+07:00
+date: 2026-11-06T05:00:00+07:00
 draft: true
 ws_chat: 1635
 ws_msg: 21678
