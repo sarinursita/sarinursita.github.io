@@ -3,7 +3,7 @@ title: "Dean's Message: Sajadah yang Basah Belum Tentu Hatinya Hidup"
 subtitle: "Seorang jamaah shalat lima waktu nggak pernah bolong, tapi bilang ibadahnya kayak senam. Gue dulu jawab pakai kalimat klise. Materi kuliah ini yang ngoreksi gue."
 type: blog
 date: 2026-11-04T06:00:00+07:00
-draft: true
+draft: false
 approved: true
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'deans-message', 'psikologi-islam']
