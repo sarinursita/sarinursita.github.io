@@ -2,8 +2,8 @@
 title: 'Catatan Nik: Jira Board yang Meledak, Janji Manis Jam Sembilan Pagi, dan Pipa Rilis yang Macet'
 subtitle: 'Gue duduk di depan papan Jira yang tiba-tiba penuh kartu HIGH PRIORITY, sementara rilis ke produksi masih bergantung pada satu orang dan satu malam panjang.'
 type: blog
-date: 2026-11-04T05:57:30+07:00
-draft: true
+date: 2026-11-04T06:27:09.623785+07:00
+draft: false
 ws_chat: 1668
 ws_msg: 21752
 category: "Collab Journal"
@@ -11,6 +11,7 @@ tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: 'Materi pekan ini soal cara Agile dijalankan: peran dan artefak Scrum, lima event, Definition of Done, lalu DevOps dengan pipa CI/CD dan empat metrik DORA. Di kantor gue, papan Jira kebanjiran kartu baru dari sales di tengah Sprint, padahal "selesai" versi tim masih berarti kode jalan di laptop masing-masing.'
 hook: 'Kalau kode cuma jalan di laptop sendiri, itu selesai versi siapa?'
 ---
+
 Layar monitor gue jam sembilan pagi tadi mendadak berubah jadi arena adu ketangkasan mental. Di tab sebelah kiri, gue lagi nyiapin draf presentasi proyek mata kuliah gue. Di tab sebelah kanan, grup chat kantor lantai 28 mendadak heboh gara-gara Vina *drop* sepuluh kartu baru ke papan Jira tim valuasi, lengkap dengan label merah bertuliskan *HIGH PRIORITY*. 
 
 Pas Aris dengan suara tercekat nanya di *thread* kenapa lingkup kerjaan minggu ini mendadak nambah dua kali lipat, Vina cuma balas santai dengan stiker kucing: *"Kan kita kerja pakai Agile, Ris! Harus adaptif dong sama dinamika pasar!"*
