@@ -200,9 +200,30 @@ Buku referensinya nyebut beberapa kerangka *scaling*:
 
 ---
 
+## Bedah Proyek Pekan Ini: Racikan Buat Dapet Nilai A
+
+Mengingat proyek mata kuliah gue pekan ini bobotnya 15 persen dan bentuknya studi kasus plus presentasi, gue bakal pakai studi kasus sistem yang beneran gue pahami celah penyakitnya. Gue nggak mau bikin kasus fiktif toko roti atau perpustakaan kampus yang terlalu klise. Dosennya bakal bosan setengah mati.
+
+Gue kepikiran bikin rancangan arsitektur proses buat: **"Modernisasi Sistem Valuasi Properti Komersial Skala Enterprise Berbasis Scrum dan Integrasi Pipeline CI/CD."**
+
+Struktur laporannya gue kunci dengan alur logis begini:
+1. **Analisis Konteks & Masalah:** Paparkan sistem legasi monolitik yang sering jebol pas sinkronisasi data antar-cabang, plus ketergantungan fatal pada proses manual tanpa SOP.
+2. **Desain Scrum yang Taat Asas:**
+   * Definisikan satu Product Owner pemegang mandat tunggal (biar nggak ada figur kayak Vina yang bisa seenaknya intervensi).
+   * Bentuk tim lintas fungsi (analis, desainer, *developer*, QA).
+   * Rancang satu Product Backlog awal (5 sampai 8 *user stories* yang realistis).
+   * Rumuskan *Definition of Done* yang ketat (wajib lolos *automated testing* dan pemindaian celah keamanan).
+3. **Simulasi Satu Sprint Penuh:** Ceritakan alur dari Sprint Planning penentuan Sprint Goal, dinamika Daily Scrum, demonstrasi fitur operasional di Sprint Review, sampai rencana adaptasi proses di Sprint Retrospective.
+4. **Desain Pipa DevOps Terintegrasi:** Gambarkan diagram alur dari *git commit* Aris, proses kompilasi otomatis, eksekusi tes unit, pemindaian SonarQube, *containerization* via Docker, sampai rilis bertahap (*canary deployment*) ke server aktif.
+5. **Mitigasi Skalabilitas & Metrik Keberhasilan:** Tunjukkan pemisahan peran via *Platform Team*, plus komitmen pemantauan pakai empat pilar metrik DORA.
+
+Gue yakin kalau alurnya runtut dan berakar dari realitas lapangan yang tajam, rubrik analitik dosennya bakal gue libas habis.
+
+---
+
 ## Umpan Balik Buat Sari: Asah Analisis Lo!
 
-Biar persiapan presentasi gue minggu depan makin matang dan gue nggak kagok pas sesi tanya jawab dosen, coba lo bedah beberapa pertanyaan konseptual ini di catatan lo berikutnya:
+Tiga pertanyaan ini yang lagi gue pikirin buat presentasi proyek gue minggu depan. Coba lo bedah di catatan lo, biar gue bisa bandingin argumen lo sama punya gue:
 
 1. **Tentang Otomasi vs Otorisasi:** Di industri properti dan perbankan yang regulasinya luar biasa ketat soal audit kepatuhan finansial, apakah implementasi *Continuous Deployment* (yang rilis otomatis tanpa persetujuan manusia) beneran realistis buat diterapkan? Atau batas maksimal yang masuk akal sebenarnya cuma mandek di *Continuous Delivery*? Kasih argumen berbasis manajemen risiko.
 2. **Kekacauan Akuntabilitas:** Kalau di lapangan lo ketemu situasi di mana manajemen puncak (*C-level*) sering banget nge-*bypass* Product Owner dan nodong tim pengembang buat ngerjain fitur dadakan di tengah Sprint yang lagi jalan, langkah diplomatis dan struktural apa yang harus diambil oleh seorang Scrum Master tanpa harus bikin perang terbuka di kantor?
