@@ -19,6 +19,9 @@ deans-message-hukuman-bukan-perubahan, -anak-yang-terlalu-mudah-berpindah-tangan
 -sajadah-basah-hati-hidup, -pecah-sebelum-mimbar-berdiri.
 Tiga slug lama pakai `aliases:` supaya link yang sudah beredar tidak 404. Tag `IOU` dibuang.
 
+Catatan Nik **#026 (SD m05)** draft di queue: `content/blog/catatan-nik-software-design-m05.md`
+(`draft: true`, WS chat 1668 / msg 21752, 2.867 kata).
+
 ## Next
 
 1. Tunggu approve Sari per matkul → set `approved: true`, cron yang tayangin jam 06:00/12:00 WIB.
@@ -47,3 +50,4 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 - 2026-11-03 · max · Pindah blog ke domain sendiri `sarinursita.my.id` (DNS + Pages + HTTPS live)
 - 2026-11-03 · wiz · Dean: PCPS live, 4 matkul approved, WA format dirapikan (kopi + ceklist)
+- 2026-11-04 · wiz · Catatan Nik #026 SD m05: draft 2.867 kata, guardrail sweep, WS 1668/21752
