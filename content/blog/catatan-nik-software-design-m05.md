@@ -11,8 +11,7 @@ tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: 'Materi pekan ini soal cara Agile dijalankan: peran dan artefak Scrum, lima event, Definition of Done, lalu DevOps dengan pipa CI/CD dan empat metrik DORA. Di kantor gue, papan Jira kebanjiran kartu baru dari sales di tengah Sprint, padahal "selesai" versi tim masih berarti kode jalan di laptop masing-masing.'
 hook: 'Kalau kode cuma jalan di laptop sendiri, itu selesai versi siapa?'
 ---
-
-Layar monitor gue jam sembilan pagi tadi mendadak berubah jadi arena adu ketangkasan mental. Di tab sebelah kiri, gue lagi nyiapin draf presentasi proyek mata kuliah gue yang bobotnya 15 persen itu. Di tab sebelah kanan, grup chat kantor lantai 28 mendadak heboh gara-gara Vina *drop* sepuluh kartu baru ke papan Jira tim valuasi, lengkap dengan label merah bertuliskan *HIGH PRIORITY*. 
+Layar monitor gue jam sembilan pagi tadi mendadak berubah jadi arena adu ketangkasan mental. Di tab sebelah kiri, gue lagi nyiapin draf presentasi proyek mata kuliah gue. Di tab sebelah kanan, grup chat kantor lantai 28 mendadak heboh gara-gara Vina *drop* sepuluh kartu baru ke papan Jira tim valuasi, lengkap dengan label merah bertuliskan *HIGH PRIORITY*. 
 
 Pas Aris dengan suara tercekat nanya di *thread* kenapa lingkup kerjaan minggu ini mendadak nambah dua kali lipat, Vina cuma balas santai dengan stiker kucing: *"Kan kita kerja pakai Agile, Ris! Harus adaptif dong sama dinamika pasar!"*
 
@@ -198,27 +197,6 @@ Buku referensinya nyebut beberapa kerangka *scaling*:
 * **Nexus & LeSS (Large-Scale Scrum):** Tetap setia pada aturan Scrum murni, mempertahankan satu Product Backlog bersama buat banyak tim.
 * **SAFe (Scaled Agile Framework):** Pendekatan berlapis yang sangat terstruktur (tim, program, portofolio). Populer di korporasi besar tapi sering dikritik karena terlalu berat, birokratis, dan mirip Waterfall yang dikasih baju baru.
 * **Platform Team Approach:** Ini solusi paling elegan zaman sekarang. Organisasi bikin satu tim internal khusus (*Platform Team*) yang tugasnya bukan bikin fitur bisnis, melainkan nyediain infrastruktur pipa CI/CD otomatis, manajemen server, dan *observability* sebagai layanan mandiri (*self-service*) buat tim-tim pengembang lainnya.
-
----
-
-## Bedah Proyek Pekan Ini: Racikan Buat Dapet Nilai A
-
-Mengingat proyek pertemuan lima ini bobotnya 15 persen dan bentuknya studi kasus plus presentasi, gue bakal pakai studi kasus sistem yang beneran gue pahami celah penyakitnya. Jangan bikin kasus fiktif toko roti atau perpustakaan kampus yang terlalu klise, Sar. Dosennya bakal bosan setengah mati.
-
-Gue kepikiran kita bikin rancangan arsitektur proses buat: **"Modernisasi Sistem Valuasi Properti Komersial Skala Enterprise Berbasis Scrum dan Integrasi Pipeline CI/CD."**
-
-Struktur laporannya kita kunci dengan alur logis begini:
-1. **Analisis Konteks & Masalah:** Paparkan sistem legasi monolitik yang sering jebol pas sinkronisasi data antar-cabang, plus ketergantungan fatal pada proses manual tanpa SOP.
-2. **Desain Scrum yang Taat Asas:** 
-   * Definisikan satu Product Owner pemegang mandat tunggal (biar nggak ada figur kayak Vina yang bisa seenaknya intervensi).
-   * Bentuk tim lintas fungsi (analis, desainer, *developer*, QA).
-   * Rancang satu Product Backlog awal (5 sampai 8 *user stories* yang realistis).
-   * Rumuskan *Definition of Done* yang ketat (wajib lolos *automated testing* dan pemindaian celah keamanan).
-3. **Simulasi Satu Sprint Penuh:** Ceritakan alur dari Sprint Planning penentuan Sprint Goal, dinamika Daily Scrum, demonstrasi fitur operasional di Sprint Review, sampai rencana adaptasi proses di Sprint Retrospective.
-4. **Desain Pipa DevOps Terintegrasi:** Gambarkan diagram alur dari *git commit* Aris, proses kompilasi otomatis, eksekusi tes unit, pemindaian SonarQube, *containerization* via Docker, sampai rilis bertahap (*canary deployment*) ke server aktif.
-5. **Mitigasi Skalabilitas & Metrik Keberhasilan:** Tunjukkan pemisahan peran via *Platform Team*, plus komitmen pemantauan pakai empat pilar metrik DORA.
-
-Gue yakin kalau alurnya runtut dan berakar dari realitas lapangan yang tajam, rubrik analitik dosennya bakal gue libas habis.
 
 ---
 
