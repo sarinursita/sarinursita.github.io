@@ -30,7 +30,7 @@ Di modul kuliah teknologi pendidikan gua minggu ini, dosen gua lagi ngebongkar h
 
 Endingnya apa? Ambyar. 
 
-Murid-murid lu yang remaja bakal nunda sampai H-1 liburan selesai, terus nangis di Discord karena kodenya eror. Dulu gua juga bikin dosa yang sama ke Nadia di kelas *public speaking* gua. Gua ngira waktu luang dia banyak, gua lepas dia belajar mandiri tanpa patokan ritme harian yang realistis. Pas dia panik di minggu kelima karena tugas numpuk barengan sama lemburan kantornya, gua gak hadir ngasih pagar pembatas. Nadia ngilang bukan karena dia males, tapi karena gua gagal ngajarin dia cara mengelola beban belajarnya sendiri.
+Murid-murid lu yang remaja bakal nunda sampai H-1 liburan selesai, terus nangis di Discord karena kodenya eror. Dulu gua juga bikin dosa yang sama ke Nadia di kelas *public speaking* gua. Gua ngira waktu luang dia banyak, gua lepas dia belajar mandiri tanpa patokan ritme harian yang realistis. Pas dia panik di minggu kelima karena tugas numpuk, gua gak hadir ngasih pagar pembatas. Nadia ngilang bukan karena dia males. Salah satunya karena gua gagal ngajarin dia cara mengelola beban belajarnya sendiri.
 
 Manajemen diri (*self-management*) itu bukan urusan kepribadian ekstrover atau introver, rajin atau males. Manajemen diri itu kompetensi teknis yang setara nilainya sama konten pelajaran itu sendiri. Kalau siswa lu gak punya kompetensi itu, konten sekaya apa pun cuma bakal berakhir jadi tumpukan *file* yang gak pernah diunduh.
 
