@@ -202,7 +202,7 @@ Buku referensinya nyebut beberapa kerangka *scaling*:
 
 ## Bedah Proyek Pekan Ini: Racikan Buat Dapet Nilai A
 
-Mengingat proyek mata kuliah gue pekan ini bobotnya 15 persen dan bentuknya studi kasus plus presentasi, gue bakal pakai studi kasus sistem yang beneran gue pahami celah penyakitnya. Gue nggak mau bikin kasus fiktif toko roti atau perpustakaan kampus yang terlalu klise. Dosennya bakal bosan setengah mati.
+Mengingat proyek mata kuliah gue pekan ini bobotnya besar dan bentuknya studi kasus plus presentasi, gue bakal pakai studi kasus sistem yang beneran gue pahami celah penyakitnya. Gue nggak mau bikin kasus fiktif toko roti atau perpustakaan kampus yang terlalu klise. Dosennya bakal bosan setengah mati.
 
 Gue kepikiran bikin rancangan arsitektur proses buat: **"Modernisasi Sistem Valuasi Properti Komersial Skala Enterprise Berbasis Scrum dan Integrasi Pipeline CI/CD."**
 
