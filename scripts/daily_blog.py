@@ -34,7 +34,7 @@ import zoneinfo
 REPO = pathlib.Path(__file__).resolve().parents[1]
 BLOG_DIR = REPO / "content" / "blog"
 SERIES = "ians-notebook"   # di-set dari --series
-BASE_URL = "https://sarinursita.github.io"
+BASE_URL = "https://sarinursita.my.id"
 WS_BASE = "http://43.134.103.31:58234"
 WS_API = WS_BASE + "/api"
 # Proyek WS per seri: dipakai untuk membentuk link WS pagi. Tiap seri punya project sendiri,

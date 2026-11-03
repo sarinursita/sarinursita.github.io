@@ -48,6 +48,7 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 ## Last session
 
+- 2026-11-04 · wiz · Ian Ep014 (ADDIE) tayang; Ep013 revisi kanon Nadia (lemburan/tapi karena); POST-LOG 013-014 dirapikan
 - 2026-11-03 · max · Pindah blog ke domain sendiri `sarinursita.my.id` (DNS + Pages + HTTPS live)
 - 2026-11-03 · wiz · Dean: PCPS live, 4 matkul approved, WA format dirapikan (kopi + ceklist)
 - 2026-11-04 · wiz · Catatan Nik #026 SD m05: draft 2.867 kata, guardrail sweep, WS 1668/21752
