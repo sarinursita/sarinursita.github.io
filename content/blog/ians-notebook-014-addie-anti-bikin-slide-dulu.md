@@ -1,6 +1,6 @@
 ---
 title: "Ian's Notebook: Berhenti Langsung Bikin Slide: Gimana ADDIE Nyelametin Gua dari Omelan Mas Hendra dan Kelas yang Berantakan"
-subtitle: "Dua puluh slide interaktif gua udah rapi di Canva, tapi satu pertanyaan Mas Hendra bikin gua sadar gua belum tahu masalah asli peserta trainingnya apa."
+subtitle: "Tiga puluh slide interaktif gua udah rapi di Canva, tapi satu pertanyaan Mas Hendra bikin gua sadar gua belum tahu masalah asli peserta trainingnya apa."
 type: blog
 date: 2026-11-04T05:00:00+07:00
 draft: true
@@ -61,7 +61,7 @@ Biar lu gak gumoh sama bahasa teori akademik dari jurnal yang gua baca, gua ring
 
 ## Dosa Gua di Kelas Public Speaking
 
-Kalau gua mau jujur dan buka borok sendiri, alasan kenapa murid gua kayak Nadia bisa hilang arah di minggu kelima, atau Dimas yang minggu ketujuh kemarin cabut di tengah jalan, akarnya ya karena gua sombong ngelewati ADDIE ini.
+Kalau gua mau jujur dan buka borok sendiri, alasan kenapa cohort *public speaking* gua yang lalu bisa garing dan ditinggalin peserta di tengah jalan, akarnya ya karena gua sombong ngelewati ADDIE ini.
 
 Waktu buka *cohort* baru kelas *public speaking*, gua ngerasa udah jago. Gua skip tahap *Analysis*. Gua pikir semua orang dewasa yang daftar kelas malam gua itu masalahnya sama: demam panggung dan kurang pede. Langsung lah gua *develop* materi heboh soal bahasa tubuh, modul latihan vokal, sampai teknik menguasai panggung.
 
