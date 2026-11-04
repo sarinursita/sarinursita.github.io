@@ -3,7 +3,7 @@ title: "Dean's Message: Sesuatu yang Pecah Sebelum Mimbar Berdiri"
 subtitle: "Guru ngaji kami wafat, gue disuruh gantiin beliau, dan jam dua pagi seorang jamaah nelpon nanya soal takdir sambil nyebut peramal."
 type: blog
 date: 2026-11-04T12:00:00+07:00
-draft: true
+draft: false
 approved: true
 category: "Collab Journal"
 tags: ['study', 'collab-journal', 'psikologi', 'deans-message', 'studi-islam']
