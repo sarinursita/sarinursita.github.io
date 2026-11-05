@@ -2,8 +2,8 @@
 title: "Catatan Nik: Ilusi Kotak Ajaib dan Kolom yang Nggak Sepakat Definisi"
 subtitle: Gue kira masalahnya cuma demo vendor yang gebleg. Ternyata yang bikin keringet dingin itu definisi satu kolom aja beda rumus antar cabang klien.
 type: blog
-date: 2026-11-05T05:00:00+07:00
-draft: true
+date: 2026-11-05T08:03:56.382564+07:00
+draft: false
 ws_chat: 1646
 ws_msg: 21698
 category: Collab Journal
