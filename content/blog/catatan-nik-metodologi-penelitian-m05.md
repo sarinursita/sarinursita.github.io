@@ -2,8 +2,8 @@
 title: "Catatan Nik: Teror Auto-Reply Pak Fajar dan Seni Menyulam Serpihan Kajian Pustaka"
 subtitle: Gue kira ngadepin tenggat itu masalah terbesar minggu ini. Ternyata satu notifikasi out of office dari orang yang nyimpen semua alur billing di kepalanya bisa bikin satu tim berhenti total.
 type: blog
-date: 2026-11-06T05:00:00+07:00
-draft: true
+date: 2026-11-06T05:44:39.633333+07:00
+draft: false
 ws_chat: 1649
 ws_msg: 21704
 category: Collab Journal
@@ -20,11 +20,11 @@ Pak Fajar, manajer *finance* senior yang sudah belasan tahun mengurusi seluruh u
 
 "Mbak Nik," suara Aris bergetar pelan, tangannya menunjuk folder SharePoint bertajuk *Finance_Billing_Archive* yang isinya persis kuburan digital. "Gue nemu sebelas dokumen SOP penagihan. Tapi yang satu formatnya Word tahun 2016, ada spreadsheet bikinan tim valuasi zaman Mas Bram yang rumusnya sudah *corrupt*, terus ada slide presentasi pelatihan internal yang cuma berisi bagan alur tanpa keterangan. Semuanya saling bantah."
 
-Gue memijat pelipis. Di saat yang sama, gue sadar situasi konyol di kantor ini adalah cerminan paling telanjang dari apa yang gue pelajari di modul pekan ini Kegiatan Belajar 2 minggu ini, Sar. 
+Gue memijat pelipis. Di saat yang sama, gue sadar situasi konyol di kantor ini adalah cerminan paling telanjang dari apa yang gue pelajari di kelas Metpen minggu ini, Sar. 
 
 Lo ingat waktu dosen Metpen di kampus gue bilang bahwa menyusun kajian teori itu bukan soal mengumpulkan tumpukan kliping kutipan biar bab dua skripsi lo kelihatan tebal kayak bantal busa? Menyelamatkan alur *billing* kantor dari ketiadaan Pak Fajar butuh metode yang persis sama dengan teknik penelusuran referensi akademis, sintesis literatur terdahulu, sampai penemuan *research gap* yang bakal jadi fondasi solusi baru. 
 
-Duduk manis, Sar. Gue bakal bedah gimana gue dan Aris harus jadi arkeolog data dadakan, sekaligus cara kita menerjemahkan kekacauan ini ke standar ilmiah tugas akhir kita nanti.
+Duduk manis, Sar. Gue bakal bedah gimana gue dan Aris harus jadi arkeolog data dadakan, sekaligus cara menerjemahkan kekacauan ini ke standar ilmiah tugas akhir lo nanti.
 
 ---
 
@@ -80,7 +80,7 @@ Dari matriks perbandingan inilah lo baru bisa melihat pola besar. Lo mulai paham
 
 ## Membangun Kerangka Teoretis yang Punya Tulang Punggung
 
-Nah, ini bagian yang paling bikin gue melek waktu baca ulang Modul 3 KB 2 tadi malam. Banyak mahasiswa mengira *kerangka teoretis* (*theoretical framework*) itu cuma kumpulan definisi istilah. Mereka mendefinisikan apa itu sistem informasi menurut O'Brien, apa itu efisiensi menurut para ahli, lalu merasa tugasnya sudah selesai. Padahal bukan itu intinya!
+Nah, ini bagian yang paling bikin gue melek waktu baca ulang materi minggu ini tadi malam. Banyak mahasiswa mengira *kerangka teoretis* (*theoretical framework*) itu cuma kumpulan definisi istilah. Mereka mendefinisikan apa itu sistem informasi menurut O'Brien, apa itu efisiensi menurut para ahli, lalu merasa tugasnya sudah selesai. Padahal bukan itu intinya!
 
 Kerangka teoretis itu ibarat cetak biru arsitektur atau kerangka baja sebuah gedung. Dia adalah struktur konseptual yang menjelaskan *mengapa* suatu fenomena terjadi, dan *bagaimana* variabel-variabel di dalam penelitian lo saling berhubungan secara logis berdasarkan teori-teori mapan yang sudah ada.
 
@@ -99,7 +99,7 @@ Kalau di riset tesis lo nanti, Sar, kerangka teoretis inilah yang bakal membimbi
 
 ## Berburu Harta Karun Bernama *Research Gap*
 
-Puncak dari seluruh proses telaah pustaka dan kajian teori adalah satu hal: **menemukan *research gap*** alias celah penelitian. Di sinilah letak kebaruan (*novelty*) dari riset yang kita buat. Kalau lo bikin penelitian tapi nggak ada *gap*-nya, penelitian lo cuma mendaur ulang apa yang sudah diketahui dunia. Nggak ada nilai tambahnya.
+Puncak dari seluruh proses telaah pustaka dan kajian teori adalah satu hal: **menemukan *research gap*** alias celah penelitian. Di sinilah letak kebaruan (*novelty*) dari riset yang lo susun. Kalau lo bikin penelitian tapi nggak ada *gap*-nya, penelitian lo cuma mendaur ulang apa yang sudah diketahui dunia. Nggak ada nilai tambahnya.
 
 Waktu gue dan Aris membandingkan semua SOP lama dengan realitas lapangan saat ini, di situlah kami menemukan *gap* yang luar biasa menganga di kantor kami. 
 
