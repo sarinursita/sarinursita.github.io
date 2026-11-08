@@ -2,8 +2,8 @@
 title: "Catatan Nik: Kursor Merah di Kolom Revenue, Nafsu Belanja Tool Baru, dan Seni Mencari Biang Keladi"
 subtitle: "Vina udah mau beli platform analytics baru cuma gara-gara grafik revenue nyungsep, padahal yang berubah bukan algoritmanya. Gue minta satu hal dulu sebelum ada yang gesek kartu kredit kantor: tulis gejalanya, lalu uji satu dugaan."
 type: blog
-date: 2026-11-09T05:00:00+07:00
-draft: true
+date: 2026-11-09T05:31:57.444694+07:00
+draft: false
 ws_chat: 1701
 ws_msg: 21868
 category: "Collab Journal"
