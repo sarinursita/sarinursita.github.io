@@ -22,9 +22,10 @@ Tiga slug lama pakai `aliases:` supaya link yang sudah beredar tidak 404. Tag `I
 Catatan Nik **#026 (SD m05)** draft di queue: `content/blog/catatan-nik-software-design-m05.md`
 (`draft: true`, WS chat 1668 / msg 21752, 2.867 kata).
 
-**Jurnal Ana (Collab Journal, persona Ana):** PLDP101 sesi 4 tayang 5 Nov 08:15
-(`jurnal-ana-ketika-pelukan-terasa-menakutkan-mengapa-anak-bisa-membeku-di-hadapan-ibunya-sendiri`, msg 21708,
-1.781 kata). Sisa: PCPS101 sesi 4 (7 Nov 08:15) draft siap di WS 1652 / msg 21710, tinggal approve.
+**Jurnal Ana (Collab Journal, persona Ana):** sesi 4 selesai semua — PLDP101 tayang 5 Nov (msg 21708, 1.781 kata),
+PCPS101 tayang 8 Nov dengan `date` tetap 7 Nov
+(`jurnal-ana-kenapa-ruang-kelas-kita-kadang-terasa-seperti-induk-kawat-berduri`, msg 21710, 1.257 kata).
+Sesi 5 sudah digenerate batch 8 Nov di WS: PPOP 1697/21856 (10 Nov), PLDP 1698/21857 (12 Nov), PCPS 1699/21858 (14 Nov) — draft siap, tinggal approve per slot.
 
 ## Next
 
@@ -52,6 +53,7 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 ## Last session
 
+- 2026-11-08 · wiz · Jurnal Ana PCPS101 S4 tayang (msg 21710, date tetap 7 Nov); sesi 5 (3 draft) siap di WS 1697-1699
 - 2026-11-05 · wiz · Jurnal Ana PLDP101 S4 tayang (msg 21708, 1.781 kata); aturan nama murid: boleh berulang kalau anak sama, jangan jadi default
 - 2026-11-04 · wiz · Ian Ep014 (ADDIE) tayang; Ep013 revisi kanon Nadia (lemburan/tapi karena); POST-LOG 013-014 dirapikan
 - 2026-11-03 · max · Pindah blog ke domain sendiri `sarinursita.my.id` (DNS + Pages + HTTPS live)
