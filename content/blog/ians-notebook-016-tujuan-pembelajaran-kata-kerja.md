@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Kata 'Memahami' Itu Racun Silabus"
 subtitle: "Kalau gak bisa dilihat matamu, berarti murid lu belum belajar apa-apa."
 type: blog
-date: 2026-11-09T05:00:00+07:00
-draft: true
+date: 2026-11-09T05:24:15.135802+07:00
+draft: false
 ws_chat: 1684
 ws_msg: 21828
 category: "Collab Journal"
