@@ -4,6 +4,10 @@
 
 ## Now
 
+**Catatan Nik #030 (SSAD m06, 9 Nov) dan #031 (SD m06, 11 Nov) di queue**, `draft: true`.
+WS chat 1701/msg 21868 dan 1702/msg 21870, 3.234 dan 2.918 kata, model gemini-flash-latest.
+Materi dari ringkasan RPS m06 (modul LMS belum dibuka). Tunggu approve Sari.
+
 **Seri baru: Dean's Message (Catatan UTS Andika, 6 matkul, Nov 2026).** Rubrik Collab Journal,
 persona Dean (mubaleg tugas di Australia, S1 Psikologi Islam IOU, S2 Komunikasi + konseling
 keluarga muslim). Surat ke Dika (adik kelas, semester 1, mondok). Bentuk: drama-first, bukan
@@ -53,6 +57,7 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 ## Last session
 
+- 2026-11-09 · wiz · Catatan Nik #030 SSAD m06 + #031 SD m06 draft di queue (WS 1701/1702)
 - 2026-11-08 · wiz · Jurnal Ana PCPS101 S4 tayang (msg 21710, date tetap 7 Nov); sesi 5 (3 draft) siap di WS 1697-1699
 - 2026-11-05 · wiz · Jurnal Ana PLDP101 S4 tayang (msg 21708, 1.781 kata); aturan nama murid: boleh berulang kalau anak sama, jangan jadi default
 - 2026-11-04 · wiz · Ian Ep014 (ADDIE) tayang; Ep013 revisi kanon Nadia (lemburan/tapi karena); POST-LOG 013-014 dirapikan
