@@ -2,8 +2,9 @@
 title: "Catatan Nik: Layar UAT yang Membisu, Jebakan Aplikasi Mobile, dan Misteri Harga Bersih"
 subtitle: "Klien minta aplikasi mobile, kontrak jalan, arsitektur dikunci. Pas UAT, agen lapangan cuma butuh dua angka dalam sepuluh detik, dan orang keuangan yang punya definisi harga bersih nggak pernah diajak rapat."
 type: blog
-date: 2026-11-11T05:00:00+07:00
-draft: true
+date: 2026-11-11T06:28:45.979546+07:00
+draft: false
+publish_from: file
 ws_chat: 1702
 ws_msg: 21870
 category: "Collab Journal"
@@ -11,6 +12,7 @@ tags: ["study", "collab-journal", "MMSI", "software-design", "catatan-nik"]
 summary: "Materi pekan ini soal requirement engineering: beda kebutuhan pengguna dan kebutuhan sistem, fungsional dan non-fungsional, model bawang stakeholder, sampai cara mengelola perubahan kebutuhan. Di kantor gue, satu aplikasi mobile hampir jadi roket untuk orang yang cuma butuh sepeda ontel."
 hook: "Kebutuhan yang ditulis dalam bentuk solusi itu cara paling mahal buat salah dari awal."
 ---
+
 
 Tiga puluh detik pertama di sesi *User Acceptance Testing* hari Selasa kemarin rasanya seperti uji nyali. Di layar proyektor ruang rapat lantai 28, kursor milik Mas Danu, salah satu agen senior dari tim sewa klien kami, berhenti bergerak di tengah-tengah formulir input beranak tujuh tab. 
 
@@ -26,13 +28,13 @@ Lebih parah lagi: pas Mas Danu iseng mengecek angka di kolom *net price*, dia la
 
 Gue langsung tahu jawabannya. Rumus itu hasil asumsi tim teknis kami sendiri, karena orang bagian keuangan klien yang memegang definisi baku *harga bersih* sama sekali nggak pernah dilibatkan atau diundang rapat sejak hari pertama proposal diteken. 
 
-Sore itu juga, gue sama Aris harus lembur menyeduh kopi kedua untuk membongkar ulang seluruh daftar kebutuhan dari nol. Pas banget malam ini materi kuliah gue masuk ke *Requirement Engineering*. Materi yang di silabus kampus bobot penilaiannya cuma 5%, tapi di dunia nyata kalau lo salah eksekusi, harganya bisa ratusan juta rupiah plus muka tebal di depan dewan direksi.
+Sore itu juga, gue sama Aris harus lembur menyeduh kopi kedua untuk membongkar ulang seluruh daftar kebutuhan dari nol. Pas banget malam ini materi kuliah gue masuk ke *Requirement Engineering*. Di dunia nyata, kalau salah eksekusi di tahap ini, harganya bisa ratusan juta rupiah plus muka tebal di depan dewan direksi.
 
 ---
 
 ## Fondasi yang Sering Disepelekan 🧱
 
-Di materi minggu ini, dosen gue langsung menegaskan posisi topiknya: bobot nilainya paling mini, tapi dampaknya paling mahal. Analogi bangunan yang dikasih di kelas masuk akal banget di kepala gue. Minggu ini gue fokus ke *daftar apa yang sebenarnya diminta dan dibutuhkan penghuni rumah*, sedangkan minggu depan gue baru belajar teknik wawancaranya (*elicitation* dan *analysis*). Kalau daftar kebutuhannya saja sudah ngawur, tukang bangunan paling hebat sedunia pun cuma akan menghasilkan rumah yang salah kamar, salah pintu, dan roboh pas dihantam realitas operasional.
+Di materi minggu ini, dosen gue langsung menegaskan posisi topiknya: kelihatan sepele di atas kertas, tapi dampaknya paling mahal di lapangan. Analogi bangunan yang dikasih di kelas masuk akal banget di kepala gue. Minggu ini gue fokus ke *daftar apa yang sebenarnya diminta dan dibutuhkan penghuni rumah*, sedangkan minggu depan gue baru belajar teknik wawancaranya (*elicitation* dan *analysis*). Kalau daftar kebutuhannya saja sudah ngawur, tukang bangunan paling hebat sedunia pun cuma akan menghasilkan rumah yang salah kamar, salah pintu, dan roboh pas dihantam realitas operasional.
 
 Secara formal, Ian Sommerville mendefinisikan *Requirement Engineering* (RE) sebagai proses menemukan, menganalisis, mendokumentasikan, dan memeriksa layanan serta batasan yang dibutuhkan sistem. 
 
