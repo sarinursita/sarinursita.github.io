@@ -5,7 +5,7 @@ type: blog
 date: 2026-11-10T05:00:00+07:00
 draft: true
 ws_chat: 1687
-ws_msg: 21905
+ws_msg: 21910
 category: "Collab Journal"
 tags: ["study", "collab-journal", "MMSI", "implementasi-artificial-intelligence", "deep-learning", "catatan-nik"]
 summary: "Materi pekan ini soal Deep Learning: bedanya sama machine learning biasa, cara jaringan saraf belajar dari kesalahannya sendiri, dan kenapa kata deep bukan berarti cerdas. Di kantor gue, migrasi cloud dadakan bikin data porak-poranda sementara Vina sudah menjanjikan model ala ChatGPT ke klien, padahal yang kami punya cuma 420 baris data bolong."
