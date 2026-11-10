@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Jangan Bikin Bocah Ngos-ngosan"
 subtitle: "Alur lima babak biar kelas lu gak berasa kayak kerja paksa."
 type: blog
-date: 2026-11-11T05:00:00+07:00
-draft: true
+date: 2026-11-11T06:32:04.185075+07:00
+draft: false
 ws_chat: 1685
 ws_msg: 21830
 category: "Collab Journal"
