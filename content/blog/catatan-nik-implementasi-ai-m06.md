@@ -2,8 +2,8 @@
 title: "Catatan Nik: Bau Debu Gipsum Lantai 28, Migrasi Abal-Abal, dan Hype Deep Learning yang Bikin Pusing"
 subtitle: "Ruang server di lantai 28 digusur pagi ini, sistem dipaksa pindah ke cloud tanpa uji penuh, dan Vina sudah menjual model mirip ChatGPT ke klien sebelum satu baris data kami beres."
 type: blog
-date: 2026-11-10T05:00:00+07:00
-draft: true
+date: 2026-11-10T14:23:30.109090+07:00
+draft: false
 ws_chat: 1687
 ws_msg: 21910
 category: "Collab Journal"
