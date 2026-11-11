@@ -11,7 +11,6 @@ tags: ["study", "collab-journal", "MMSI", "smart-information-system", "certainty
 summary: "Materi pekan ini soal dua cara mesin menakar keraguan: angka keyakinan yang memisahkan percaya dan ragu, lalu cara narik kesimpulan dari fakta yang sudah ada sebelum bertanya soal kesimpulan. Di kantor gue, skrip skor prioritas tanpa dokumentasi bikin satu prospek besar kelewat, dan yang paling kacau justru saat dua aturan harus dipilih salah satu."
 hook: "Kalau dua aturan sama-sama bilang prioritas, siapa yang menang kalau nggak ada yang pernah nulis urutannya?"
 ---
-
 Tangkapan layar spreadsheet dengan sel warna merah bata mendarat di grup percakapan tim tepat pukul tujuh pagi. Pengirimnya Vina, lengkap dengan tiga tanda seru dan satu kalimat pembuka yang langsung bikin tensi naik: *"Kenapa mandat gedung di Mega Kuningan nggak masuk daftar prioritas minggu lalu?"*
 
 Gue masih memegang cangkir kopi pertama waktu membaca pesan itu. Di layar laptop, dashboard internal kami menampilkan angka keramat yang beberapa minggu ini diagung-agungkan di lantai 28 SCBD: skor prioritas prospek. Bentuknya sederhana, cuma angka bulat antara 0 sampai 100. Angka di atas 80 berarti tim bisnis harus langsung bergerak bikin proposal, sementara angka di bawah 50 otomatis masuk antrean dingin alias diabaikan dulu sampai ada waktu luang.
@@ -20,7 +19,7 @@ Masalahnya, gedung perkantoran tiga puluh lantai di Mega Kuningan itu cuma dapat
 
 Tadi pagi, kompetitor kami resmi pasang plang pengumuman sebagai agen tunggal penyewaan gedung tersebut. Komisi potensial bernilai ratusan juta amblas begitu saja ke tangan kantor sebelah, cuma gara-gara sistem internal kami menganggap prospek itu masuk kategori dingin.
 
-Saat Vina menelepon dengan nada panik bercampur heran, gue menatap baris kode Python yang dikirim Aris lewat pesan pribadi. Aris menulis catatan pendek di bawahnya: *"Mbak, rumusnya cuma ngegabungin persentase dari form input. Kemarin Mas Bram pesannya yang penting ada angkanya dulu biar manajemen senang."*
+Saat Vina menelepon dengan nada panik bercampur heran, gue menatap baris kode Python yang dikirim Aris lewat pesan pribadi. Aris menulis catatan pendek di bawahnya: *"Mbak, rumusnya cuma ngegabungin persentase dari form input. Katanya Mas Bram dulu pesannya yang penting ada angkanya dulu biar manajemen senang."*
 
 Pagi itu, gue sadar satu hal: kantor kami sedang menjalankan operasional miliaran rupiah di atas ilusi kepastian. Kami sok tahu memberi angka pasti pada data yang sebenarnya penuh keraguan.
 
