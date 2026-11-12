@@ -11,7 +11,6 @@ tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian", "kajian-pusta
 summary: "Materi pekan ini soal cara berburu publikasi ilmiah lalu menyusunnya jadi kerangka penelitian: beda pangkalan data berbayar dan akses terbuka, kata kunci dan operator pencarian, sitasi yang jujur, sampai alur variabel yang bisa diukur. Di kantor gue, empat puluh PDF tanpa nama penulis dan satu jurnal antah berantah hampir dipakai buat deck klien."
 hook: "Folder berisi empat puluh PDF tanpa nama penulis itu kelihatan seperti kerja keras, padahal isinya cuma hasil pencarian halaman pertama."
 ---
-
 Laser *pointer* warna merah di tangan Vina mendadak berhenti pas di tengah-tengah slide nomor tujuh. Titik merah itu bergetar kecil di atas layar proyektor ruang rapat lantai 28, tepat di sebuah garis panah tebal yang menghubungkan kotak bertuliskan "Disrupsi Makroekonomi Global" langsung ke kotak lain bertuliskan "Kualitas Pengelolaan Fasilitas Parkir". Di bawahnya, ada panah putus-putus misterius yang menabrak kotak "Tingkat Okupansi Gedung" dari sudut empat puluh lima derajat tanpa ujung pangkal yang jelas.
 
 Hening empat detik di ruangan itu rasanya kayak nunggu hasil undian arisan yang macet.
@@ -32,11 +31,11 @@ Hasilnya? Bencana metodologis yang nyaris kami bawa ke hadapan klien beraset tri
 
 Begitu rapat internal bubar dengan perintah revisi total sebelum jam lima sore, gue narik kursi kerja gue ke sebelah meja Aris. Anak itu kelihatan lemas banget. Bukan karena dia nggak pintar, Aris itu lulusan top dan jago Python, tapi dia dilempar ke rimba data tanpa pernah dibekali kompas buat navigasi literatur ilmiah.
 
-Gue minta dia nunjukin folder referensinya. Begitu layarnya kebuka, gue mau nangis rasanya. Di dalam folder bernama *Riset Okupansi*, ada empat puluh dua file PDF. Nggak ada satu pun yang punya nama penulis atau tahun di judul filenya. Isinya cuma deretan angka heksadesimal, *download.pdf*, *fulltext(4).pdf*, sampai *article-preview-final.pdf*. 
+Gue minta dia nunjukin folder referensinya. Begitu layarnya kebuka, gue mau nangis rasanya. Di dalam folder bernama *Riset Okupansi*, ada empat puluh file PDF. Nggak ada satu pun yang punya nama penulis atau tahun di judul filenya. Isinya cuma deretan angka heksadesimal, *download.pdf*, *fulltext(4).pdf*, sampai *article-preview-final.pdf*. 
 
 Pas gue buka salah satu artikel yang jadi rujukan utama panah ajaibnya Vina tadi, ternyata artikel itu diterbitkan oleh jurnal *predatory* yang situs webnya penuh iklan obat pelangsing dan pengumuman *call for papers* tiap dua minggu sekali. Penulisnya bahkan nggak punya afiliasi yang jelas, dan metodologinya cuma survei sepuluh orang responden via pesan berantai di kawasan suburban Eropa Timur tahun 2004. Konteksnya pasar residensial, tapi sama Aris ditempel mentah-mentah buat ngejelasin gedung perkantoran SCBD tahun 2026.
 
-"Sar, gue kayak lagi ngeliat visualisasi mimpi buruk dosen Metpen gue di kampus," batin gue waktu itu. Di kelas gue sendiri, topik penelusuran publikasi ilmiah dan penyusunan kerangka berpikir ini baru aja dibahas tuntas minggu lalu. Teori yang awalnya gue kira cuma formalitas akademis buat nulis tesis, tiba-tiba menjelma jadi tameng hidup biar reputasi profesional tim kami nggak hancur di depan klien.
+"Sar, gue kayak lagi ngeliat visualisasi mimpi buruk dosen Metpen gue di kampus," batin gue waktu itu. Di kelas gue sendiri, topik penelusuran publikasi ilmiah dan penyusunan kerangka berpikir ini lagi gue pelajari. Teori yang awalnya gue kira cuma formalitas akademis buat nulis tesis, tiba-tiba menjelma jadi tameng hidup biar reputasi profesional tim kami nggak hancur di depan klien.
 
 Gue tepuk bahu Aris pelan. "Ris, kita tutup dulu PowerPoint lo. Hapus semua kotak sama panah itu. Kita mulai dari awal, dari cara lo manggil data literatur ke meja kerja."
 
