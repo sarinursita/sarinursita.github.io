@@ -2,8 +2,8 @@
 title: "Catatan Nik: Skor Ajaib di Layar Monitor, Prospek yang Hilang, dan Seni Menakar Keraguan"
 subtitle: "Satu angka bulat di dashboard lebih dipercaya daripada keraguan yang sebenarnya bisa kami ukur, dan gue yang harus jelasin ke manajemen kenapa satu prospek besar lewat begitu saja."
 type: blog
-date: 2026-11-12T05:00:00+07:00
-draft: true
+date: 2026-11-12T09:52:14.650011+07:00
+draft: false
 ws_chat: 1688
 ws_msg: 21836
 category: "Collab Journal"
@@ -11,6 +11,7 @@ tags: ["study", "collab-journal", "MMSI", "smart-information-system", "certainty
 summary: "Materi pekan ini soal dua cara mesin menakar keraguan: angka keyakinan yang memisahkan percaya dan ragu, lalu cara narik kesimpulan dari fakta yang sudah ada sebelum bertanya soal kesimpulan. Di kantor gue, skrip skor prioritas tanpa dokumentasi bikin satu prospek besar kelewat, dan yang paling kacau justru saat dua aturan harus dipilih salah satu."
 hook: "Kalau dua aturan sama-sama bilang prioritas, siapa yang menang kalau nggak ada yang pernah nulis urutannya?"
 ---
+
 Tangkapan layar spreadsheet dengan sel warna merah bata mendarat di grup percakapan tim tepat pukul tujuh pagi. Pengirimnya Vina, lengkap dengan tiga tanda seru dan satu kalimat pembuka yang langsung bikin tensi naik: *"Kenapa mandat gedung di Mega Kuningan nggak masuk daftar prioritas minggu lalu?"*
 
 Gue masih memegang cangkir kopi pertama waktu membaca pesan itu. Di layar laptop, dashboard internal kami menampilkan angka keramat yang beberapa minggu ini diagung-agungkan di lantai 28 SCBD: skor prioritas prospek. Bentuknya sederhana, cuma angka bulat antara 0 sampai 100. Angka di atas 80 berarti tim bisnis harus langsung bergerak bikin proposal, sementara angka di bawah 50 otomatis masuk antrean dingin alias diabaikan dulu sampai ada waktu luang.
