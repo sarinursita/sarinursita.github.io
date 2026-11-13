@@ -2,8 +2,8 @@
 title: "Catatan Nik: Panah Nyasar di Layar Proyektor, Kuburan PDF Tanpa Nama, dan Seni Berburu Referensi"
 subtitle: "Gue kira kerjaan nyari referensi itu cuma soal rajin unduh PDF, sampai satu slide ditolak di rapat internal karena panah antarvariabelnya nggak nyambung satu sama lain."
 type: blog
-date: 2026-11-13T05:00:00+07:00
-draft: true
+date: 2026-11-13T07:29:59.983972+07:00
+draft: false
 ws_chat: 1689
 ws_msg: 21838
 category: "Collab Journal"
@@ -11,6 +11,7 @@ tags: ["study", "collab-journal", "MMSI", "metodologi-penelitian", "kajian-pusta
 summary: "Materi pekan ini soal cara berburu publikasi ilmiah lalu menyusunnya jadi kerangka penelitian: beda pangkalan data berbayar dan akses terbuka, kata kunci dan operator pencarian, sitasi yang jujur, sampai alur variabel yang bisa diukur. Di kantor gue, empat puluh PDF tanpa nama penulis dan satu jurnal antah berantah hampir dipakai buat deck klien."
 hook: "Folder berisi empat puluh PDF tanpa nama penulis itu kelihatan seperti kerja keras, padahal isinya cuma hasil pencarian halaman pertama."
 ---
+
 Laser *pointer* warna merah di tangan Vina mendadak berhenti pas di tengah-tengah slide nomor tujuh. Titik merah itu bergetar kecil di atas layar proyektor ruang rapat lantai 28, tepat di sebuah garis panah tebal yang menghubungkan kotak bertuliskan "Disrupsi Makroekonomi Global" langsung ke kotak lain bertuliskan "Kualitas Pengelolaan Fasilitas Parkir". Di bawahnya, ada panah putus-putus misterius yang menabrak kotak "Tingkat Okupansi Gedung" dari sudut empat puluh lima derajat tanpa ujung pangkal yang jelas.
 
 Hening empat detik di ruangan itu rasanya kayak nunggu hasil undian arisan yang macet.
@@ -35,7 +36,7 @@ Gue minta dia nunjukin folder referensinya. Begitu layarnya kebuka, gue mau nang
 
 Pas gue buka salah satu artikel yang jadi rujukan utama panah ajaibnya Vina tadi, ternyata artikel itu diterbitkan oleh jurnal *predatory* yang situs webnya penuh iklan obat pelangsing dan pengumuman *call for papers* tiap dua minggu sekali. Penulisnya bahkan nggak punya afiliasi yang jelas, dan metodologinya cuma survei sepuluh orang responden via pesan berantai di kawasan suburban Eropa Timur tahun 2004. Konteksnya pasar residensial, tapi sama Aris ditempel mentah-mentah buat ngejelasin gedung perkantoran SCBD tahun 2026.
 
-"Sar, gue kayak lagi ngeliat visualisasi mimpi buruk dosen Metpen gue di kampus," batin gue waktu itu. Di kelas gue sendiri, topik penelusuran publikasi ilmiah dan penyusunan kerangka berpikir ini lagi gue pelajari. Teori yang awalnya gue kira cuma formalitas akademis buat nulis tesis, tiba-tiba menjelma jadi tameng hidup biar reputasi profesional tim kami nggak hancur di depan klien.
+Sar, waktu itu gue kayak lagi ngeliat visualisasi mimpi buruk dosen Metpen gue di kampus. Di kelas gue sendiri, topik penelusuran publikasi ilmiah dan penyusunan kerangka berpikir ini lagi gue pelajari. Teori yang awalnya gue kira cuma formalitas akademis buat nulis tesis, tiba-tiba menjelma jadi tameng hidup biar reputasi profesional tim kami nggak hancur di depan klien.
 
 Gue tepuk bahu Aris pelan. "Ris, kita tutup dulu PowerPoint lo. Hapus semua kotak sama panah itu. Kita mulai dari awal, dari cara lo manggil data literatur ke meja kerja."
 
@@ -80,7 +81,7 @@ Gue bedah satu per satu fungsinya di depan Aris:
 *   **Operator `OR`:** Menampung sinonim dan istilah alternatif. Akademisi di belahan dunia lain mungkin nggak pakai istilah *occupancy rate*, mereka mungkin lebih sering meneliti *vacancy rate*. Kalau lo nggak pakai `OR`, separuh literatur penting di dunia bakal luput dari radar lo.
 *   **Operator `AND`:** Mempertemukan konsep-konsep kunci. Kita mau irisannya: pasar properti komersial yang berkaitan dengan tingkat hunian dan pola kerja hibrida.
 *   **Operator `NOT`:** Membuang sampah pencarian. Karena kita cuma fokus ke gedung kantor, semua artikel tentang apartemen atau rumah tinggal harus kami tendang keluar sejak awal.
-*   **Wildcard / Truncation (`*`):** Kalau kita ketik `occupan*`, mesin bakal otomatis menarik kata *occupancy*, *occupant*, maupun *occupying*.
+*   **Wildcard / Truncation:** Tanda bintang di ujung potongan kata menyuruh mesin mencari semua variasi akhirannya. Kalau kita ketik `occupan*`, mesin bakal otomatis menarik kata *occupancy*, *occupant*, maupun *occupying*.
 
 Ditambah lagi, gue ajarin Aris masang filter rentang tahun. Tren dinamika tempat kerja itu berubah drastis setelah disrupsi beberapa tahun terakhir. Mengambil teori adopsi ruang kerja dari artikel tahun 2008 tanpa ada jembatan konseptual yang kuat cuma bakal bikin analisis kita kelihatan usang dan nggak relevan sama kondisi SCBD hari ini.
 
