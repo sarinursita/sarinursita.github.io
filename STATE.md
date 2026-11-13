@@ -4,6 +4,8 @@
 
 ## Now
 
+**Catatan Nik #029 (Metpen m06) tayang 13 Nov 07:29 WIB** (`catatan-nik-metodologi-penelitian-m06`, 2.455 kata, WS 1689/msg 21838). Revisi Sari: batin Nik jadi narasi (bukan dialog), butir `Wildcard / Truncation` dibuang asterisk telanjangnya karena renderer WS nampilin bintangnya.
+
 **Catatan Nik #030 (SSAD m06) tayang 9 Nov 05:32 WIB**, 3.234 kata, WS 1701/msg 21868.
 **#031 (SD m06, 11 Nov) masih `draft: true`** di WS 1702/msg 21870, 2.918 kata, model gemini-flash-latest,
 tunggu approve Sari. Materi keduanya dari ringkasan RPS m06 (modul LMS belum dibuka).
