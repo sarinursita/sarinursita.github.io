@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Jangan Buka Canva Dulu Kalau Gak Mau Weekend Lu Ludes"
 subtitle: "Storyboard satu halaman dulu, biar desain cantik gak nutupin alur yang bolong."
 type: blog
-date: 2026-11-13T05:00:00+07:00
-draft: true
+date: 2026-11-13T07:34:34.341645+07:00
+draft: false
 ws_chat: 1686
 ws_msg: 21832
 category: "Collab Journal"
