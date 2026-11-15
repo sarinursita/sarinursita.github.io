@@ -1,6 +1,6 @@
 ---
 title: "Ian's Notebook: Launch Gede Tanpa Pilot Itu Cuma Cari Penyakit"
-subtitle: "Coba kecil dulu ke 2-3 murid, biar bug-nya ketahuan sebelum kelas lu jadi tontonan."
+subtitle: "Satu tombol yang ketutupan banner di laptop 14 inci cukup bikin gua sadar: yang paling rawan gagal itu bukan materinya, tapi hal sepele yang cuma kelihatan kalau ada orang lain yang nyoba."
 type: blog
 date: 2026-11-16T05:00:00+07:00
 draft: true
@@ -8,10 +8,9 @@ ws_chat: 1714
 ws_msg: 21936
 category: "Collab Journal"
 tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "pilot-testing", "ians-notebook"]
-summary: "Gua hampir blast deck pelatihan ke 40 admin gudang di tiga cabang, untung Mas Hendra nahan gua dan nyuruh tes dulu ke tiga orang; satu sesi pilot 45 menit bongkar empat bug yang nggak keliatan dari layar laptop gua."
+summary: "Gua hampir blast deck pelatihan ke 40 admin gudang di tiga cabang, untung Mas Hendra nahan gua dan nyuruh tes dulu ke dua orang staf; satu sesi pilot 30 menit bongkar satu tombol export yang ketutupan banner, yang nggak bakal keliatan dari layar laptop gua."
 hook: "Gua udah mau blast deck pelatihan ke 40 admin gudang, dan Mas Hendra cuma nanya satu hal yang bikin gua nunda peluncuran seminggu."
 ---
-
 Sar, lu pernah nggak sih ngerasa udah jadi *learning designer* paling jenius se-Jawa Timur cuma gara-gara *file* materi lu kelar dua hari sebelum *deadline*?
 
 Kemarin pagi gua ngerasa gitu. Habis kapok seminggu lalu gara-gara langsung buka Canva dan berakhir ngeberantakin *slide* seharian, kali ini gua beneran nurut sama *storyboard* satu halaman yang udah gua bikin buat pelatihan sistem logistik tim gudangnya Pak Wijaya. Alurnya rapi, tujuannya terukur, desain *slide*-nya udah nggak lompat-lompat lagi. Dengan muka songong tingkat dewa, gua nyamperin meja Mas Hendra sambil nenteng laptop.
@@ -78,7 +77,7 @@ Tenang, Sar. *Pilot testing* bukan berarti lu harus nyiapin satu kurikulum *boot
   1. Di detik ke berapa mereka diem paling lama dan mulai garuk-garuk kepala.
   2. Kalimat instruksi mana yang bikin mereka nanya balik, *"Maksudnya gimana, Tante?"*
   3. Bagian mana yang waktu pengerjaannya meleset jauh dari perkiraan lu, entah kepanjangan atau malah kelar terlalu cepet.
-* **Beresin *bug*-nya hari itu juga selagi masih anget.** Setelah sesi uji coba 45 menit itu kelar, sisihin waktu 20 menit buat langsung benerin catatan lu. Potong kalimat instruksi yang muter-muter, tambahin contoh visual di langkah yang tadi bikin mereka nyangkut, atau pecah satu tugas besar jadi dua langkah kecil.
+* **Beresin *bug*-nya hari itu juga selagi masih anget.** Setelah sesi uji coba 30 menit itu kelar, sisihin waktu 20 menit buat langsung benerin catatan lu. Potong kalimat instruksi yang muter-muter, tambahin contoh visual di langkah yang tadi bikin mereka nyangkut, atau pecah satu tugas besar jadi dua langkah kecil.
 
 Begitu revisi mini itu beres, lu baru boleh bikin pengumuman pendaftaran penuh dengan kepala dingin. Lu nggak lagi jualan kelas modal nekat, karena versi *staging*-nya udah lu uji coba dan udah lolos dari *bug* paling nyebelin.
 
