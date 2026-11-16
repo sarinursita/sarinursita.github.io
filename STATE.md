@@ -4,6 +4,13 @@
 
 ## Now
 
+**Catatan Nik antrean (semua `draft: true`, nunggu approve):**
+- **#035 Sen 16 Nov** SSAD m07 `catatan-nik-analisa-dan-desain-smart-system-m07.md`, 3.878 kata, WS 1730/msg 21969, seed D22.
+- **#036 Rab 18 Nov** SD m07 `catatan-nik-software-design-m07.md`, 3.232 kata, WS 1731/msg 21971, seed D23.
+- #032 Sel 17 Nov IAI m07, #033 Kam 19 Nov SIS m07, #034 Jum 20 Nov Metpen m07 (hasil batch Minggu).
+
+Ringkasan SSAD m07 + SD m07 baru masuk dari Max (dari RPS), jadi dua slot yang kemarin di-skip sudah terisi.
+
 **Catatan Nik #029 (Metpen m06) tayang 13 Nov 07:29 WIB** (`catatan-nik-metodologi-penelitian-m06`, 2.455 kata, WS 1689/msg 21838). Revisi Sari: batin Nik jadi narasi (bukan dialog), butir `Wildcard / Truncation` dibuang asterisk telanjangnya karena renderer WS nampilin bintangnya.
 
 **Catatan Nik #030 (SSAD m06) tayang 9 Nov 05:32 WIB**, 3.234 kata, WS 1701/msg 21868.
