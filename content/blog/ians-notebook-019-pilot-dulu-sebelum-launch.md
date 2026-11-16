@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Launch Gede Tanpa Pilot Itu Cuma Cari Penyakit"
 subtitle: "Satu tombol yang ketutupan banner di laptop 14 inci cukup bikin gua sadar: yang paling rawan gagal itu bukan materinya, tapi hal sepele yang cuma kelihatan kalau ada orang lain yang nyoba."
 type: blog
-date: 2026-11-16T05:00:00+07:00
-draft: true
+date: 2026-11-16T07:53:19.577844+07:00
+draft: false
 ws_chat: 1714
 ws_msg: 21936
 category: "Collab Journal"
@@ -11,6 +11,7 @@ tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "pilot-testing"
 summary: "Gua hampir blast deck pelatihan ke 40 admin gudang di tiga cabang, untung Mas Hendra nahan gua dan nyuruh tes dulu ke dua orang staf; satu sesi pilot 30 menit bongkar satu tombol export yang ketutupan banner, yang nggak bakal keliatan dari layar laptop gua."
 hook: "Gua udah mau blast deck pelatihan ke 40 admin gudang, dan Mas Hendra cuma nanya satu hal yang bikin gua nunda peluncuran seminggu."
 ---
+
 Sar, lu pernah nggak sih ngerasa udah jadi *learning designer* paling jenius se-Jawa Timur cuma gara-gara *file* materi lu kelar dua hari sebelum *deadline*?
 
 Kemarin pagi gua ngerasa gitu. Habis kapok seminggu lalu gara-gara langsung buka Canva dan berakhir ngeberantakin *slide* seharian, kali ini gua beneran nurut sama *storyboard* satu halaman yang udah gua bikin buat pelatihan sistem logistik tim gudangnya Pak Wijaya. Alurnya rapi, tujuannya terukur, desain *slide*-nya udah nggak lompat-lompat lagi. Dengan muka songong tingkat dewa, gua nyamperin meja Mas Hendra sambil nenteng laptop.
