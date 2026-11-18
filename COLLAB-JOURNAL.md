@@ -164,7 +164,7 @@ ATURAN WAJIB
    - heading "Menurut lo gmn? 🤔" berisi 1 sampai 3 pertanyaan analitis yang bisa dijawab 3 sampai 4 kalimat. Satu pertanyaan = satu keputusan atau rancangan, bukan pertanyaan definisi.
    - tidak ada blok tugas kecil, tidak ada pertanyaan natural tambahan ke Sari di penutup, dan tidak ada kalimat yang nunjukin Nik nunggu balasan ("jangan bikin gue nunggu kelamaan", "ditunggu jawaban lo").
    - satu adegan singkat (jam, cuaca, kegiatan), lalu salam penutup yang WAJIB DIVARIASIKAN antar tulisan: cek tanda tangan 5 tulisan terakhir dan pilih yang beda. "Warmest hug from the rainy city 🩷" sudah dipakai dari #001 sampai #010, jadi JANGAN dipakai lagi untuk tulisan baru. Selalu tutup dengan nama "Nik" di baris paling akhir.
-10. Panjang 1.200 sampai 1.500 kata.
+10. Target 1.500 kata, maksimal 2.200. Model biasanya menulis di atas target, jadi 1.500 jadi patokan bawah dan 2.200 plafon keras.
 
 DAFTAR KARAKTER (pakai persis, jangan diganti antar tulisan)
 - Nik: narator. Perempuan Jakarta, tinggal di Bogor, single parent satu anak cowok (Dylan) 13 tahun di boarding school, marketing associate di konsultan properti internasional (kantor SCBD, lantai 28), WFH, kuliah S2 MMSI di kampus lain.
