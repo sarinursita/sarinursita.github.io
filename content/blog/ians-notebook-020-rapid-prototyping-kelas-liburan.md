@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Kelas Tiga Hari Kok Nyiapinnya Kayak Bikin Candi?"
 subtitle: "Gua baru ngeh kelas yang cuma tiga hari nggak butuh ADDIE lengkap, cukup prototipe telanjang yang dites lima belas menit ke satu orang."
 type: blog
-date: 2026-11-18T05:00:00+07:00
-draft: true
+date: 2026-11-19T06:33:32.488780+07:00
+draft: false
 ws_chat: 1715
 ws_msg: 21938
 category: "Collab Journal"
