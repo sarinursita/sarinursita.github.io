@@ -3,7 +3,7 @@ title: "Catatan Nik: Angka 96 Persen yang Bikin Rapat Lantai 28 Membeku"
 subtitle: "Angka 96 persen di halaman depan deck bikin seisi ruang rapat manggut-manggut, dan gue cuma bisa diam sambil bayangin berapa unit bagus yang bakal kelewat gara-gara model yang nggak pernah diuji ulang."
 type: blog
 date: 2026-11-17T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1717
 ws_msg: 21942
 category: "Collab Journal"

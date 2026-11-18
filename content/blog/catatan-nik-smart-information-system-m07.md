@@ -3,7 +3,7 @@ title: "Catatan Nik: Skor 74,2, Lantai 28 yang Panas Dingin, dan Neural Network 
 subtitle: "Satu angka di halaman ringkasan eksekutif sudah cukup buat mengubah nasib sebuah gedung di mata klien, dan gue cuma bisa ngitung berapa banyak gedung sehat lain yang bakal kena cap yang sama."
 type: blog
 date: 2026-11-19T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1725
 ws_msg: 21958
 category: "Collab Journal"

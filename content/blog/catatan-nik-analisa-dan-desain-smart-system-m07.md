@@ -3,7 +3,7 @@ title: "Catatan Nik: Tiga Kotak di Layar Proyektor Lantai 28, Ilusi Angka Jam Te
 subtitle: "Gue kira slide tiga opsi itu cuma soal presentasi yang rapi, sampai klien minta angka probabilitas dan semua angkanya ternyata cuma jam terbang."
 type: blog
 date: 2026-11-16T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1732
 ws_msg: 21973
 category: "Collab Journal"

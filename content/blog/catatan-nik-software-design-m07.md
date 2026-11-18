@@ -3,7 +3,7 @@ title: "Catatan Nik: Formulir Empat Belas Kolom, Excel Rahasia Mas Danu, dan Sen
 subtitle: "Gue kira sistem baru cukup diwawancarakan ke para manajer, sampai Mas Danu membuka spreadsheet yang dia pakai tiap malam karena formulir kami minta empat belas kolom."
 type: blog
 date: 2026-11-18T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1731
 ws_msg: 21971
 category: "Collab Journal"

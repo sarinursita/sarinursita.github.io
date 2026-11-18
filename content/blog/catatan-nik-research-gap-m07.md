@@ -3,7 +3,7 @@ title: "Catatan Nik: Kotak-Kotak Kosong di Lantai 28 dan Cara Menemukan Lubang y
 subtitle: "Enam jurnal yang dijejer jadi satu baris kesimpulan kelihatan seperti bukti yang tak terbantahkan, sampai gue minta Aris membaca ulang metode dan sampel masing-masing di depan layar."
 type: blog
 date: 2026-11-20T05:00:00+07:00
-draft: true
+draft: false
 ws_chat: 1729
 ws_msg: 21967
 category: "Collab Journal"
