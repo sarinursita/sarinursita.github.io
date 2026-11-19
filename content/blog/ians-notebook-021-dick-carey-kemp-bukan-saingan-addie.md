@@ -2,8 +2,8 @@
 title: "Ian's Notebook: ADDIE Itu Bukan Jimat"
 subtitle: "Gua baru ngeh ADDIE itu cuma satu dari beberapa model, dan yang bikin kelas berantakan justru maksa satu model buat semua konteks."
 type: blog
-date: 2026-11-20T05:00:00+07:00
-draft: true
+date: 2026-11-20T06:57:09.296880+07:00
+draft: false
 ws_chat: 1716
 ws_msg: 21940
 category: "Collab Journal"
