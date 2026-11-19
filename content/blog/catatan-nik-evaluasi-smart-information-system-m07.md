@@ -2,7 +2,7 @@
 title: "Catatan Nik: Menata Tujuh Keping Puzzle Sebelum Ujian: Waktu Kita Berhenti Memaksa Komputer Berpikir Hitam-Putih"
 subtitle: "Tujuh sesi matkul ini bikin gue sadar komputer kantor gue terlalu kaku buat dunia yang jawabannya jarang hitam-putih."
 type: blog
-date: 2026-11-27T05:00:00+07:00
+date: 2026-11-26T05:00:00+07:00
 draft: true
 ws_chat: 1736
 ws_msg: 21981

@@ -2,7 +2,7 @@
 title: "Catatan Nik: Tujuh Tikungan di Lantai 28 dan Cara Otak Gue Berhenti Dibodohi Angka"
 subtitle: "Gue kira matkul ini soal rumus dan model, sampai gue sadar tujuh sesi ini yang dibongkar justru cara gue membaca angka di ruang rapat."
 type: blog
-date: 2026-11-24T05:00:00+07:00
+date: 2026-11-23T05:00:00+07:00
 draft: true
 ws_chat: 1733
 ws_msg: 21975

@@ -4,8 +4,8 @@
 
 ## Now
 
-**Catatan Nik edisi evaluasi pra-UTS (5 draft, `draft: true`, JANGAN publish borongan):**
-- 24 Nov SSAD #037 (1.858 kata, WS 1733/21975) · 25 Nov IAI #038 (1.832, 1734/21977) · 26 Nov SD #039 (1.498, 1735/21979) · 27 Nov SIS #040 (1.746, 1736/21981) · 28 Nov Metpen #041 (1.845, 1737/21983).
+**Catatan Nik edisi evaluasi pra-UTS (5 draft, dikirim 05:50 WIB, `draft: true`, JANGAN publish borongan):**
+- 23 Nov SSAD #037 (1.858 kata, WS 1733/21975) · 24 Nov IAI #038 (1.832, 1734/21977) · 25 Nov SD #039 (1.498, 1735/21979) · 26 Nov SIS #040 (1.746, 1736/21981) · 27 Nov Metpen #041 (1.845, 1737/21983).
 - Sari sudah skimread dan bilang bagus. Instruksi: kirim per hari sesuai jadwal biasa (cron 07:50 mencocokkan `date` = hari itu), bukan tayang sekaligus.
 - Format: matkul ini ilmu apa → peta sesi 1-7 → look back → pertanyaan refleksi.
 
