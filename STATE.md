@@ -4,41 +4,22 @@
 
 ## Now
 
-**Catatan Nik edisi evaluasi pra-UTS (5 draft, dikirim 05:50 WIB, `draft: true`, JANGAN publish borongan):**
-- 23 Nov SSAD #037 (1.858 kata, WS 1733/21975) · 24 Nov IAI #038 (1.832, 1734/21977) · 25 Nov SD #039 (1.498, 1735/21979) · 26 Nov SIS #040 (1.746, 1736/21981) · 27 Nov Metpen #041 (1.845, 1737/21983).
-- Sari sudah skimread dan bilang bagus. Instruksi: kirim per hari sesuai jadwal biasa (cron 07:50 mencocokkan `date` = hari itu), bukan tayang sekaligus.
-- Format: matkul ini ilmu apa → peta sesi 1-7 → look back → pertanyaan refleksi.
+**Catatan Nik edisi evaluasi pra-UTS: SUDAH TERBIT SEMUA (5 post, 21 Nov 2026).**
+Sari memutuskan publish borongan hari ini (bukan bertahap 23-27 Nov seperti rencana awal), karena UTS Senin 23 Nov.
 
-**Antrean lama:** kosong, #032-#036 sudah tayang 16-20 Nov.
+| # | Post | Matkul | Jam terbit |
+|---|---|---|---|
+| 037 | `catatan-nik-evaluasi-ssad-m07` | SSAD | 05:50 |
+| 038 | `catatan-nik-evaluasi-implementasi-ai-m07` | IAI | 06:00 |
+| 039 | `catatan-nik-evaluasi-software-design-m07` | Software Design | 06:10 |
+| 040 | `catatan-nik-evaluasi-smart-information-system-m07` | SIS | 06:20 |
+| 041 | `catatan-nik-evaluasi-metodologi-penelitian-m07` | Metpen | 06:30 |
 
-**Catatan Nik #029 (Metpen m06) tayang 13 Nov 07:29 WIB** (`catatan-nik-metodologi-penelitian-m06`, 2.455 kata, WS 1689/msg 21838). Revisi Sari: batin Nik jadi narasi (bukan dialog), butir `Wildcard / Truncation` dibuang asterisk telanjangnya karena renderer WS nampilin bintangnya.
+- `draft: false` kelimanya; tanggal digeser ke 21 Nov (jam-jamnya sudah lewat saat publish).
+- Deploy: GitHub Actions run `44897612021` success; kelima URL dicek balas 200.
+- Halaman matkul `msi.cerivitas.com/materi/<matkul>/` sekarang menaut "Refleksi Catatan Nik sebelum UTS" ke post evaluasi masing-masing (msi-study commit `06a3472`).
 
-**Catatan Nik #030 (SSAD m06) tayang 9 Nov 05:32 WIB**, 3.234 kata, WS 1701/msg 21868.
-**#031 (SD m06, 11 Nov) masih `draft: true`** di WS 1702/msg 21870, 2.918 kata, model gemini-flash-latest,
-tunggu approve Sari. Materi keduanya dari ringkasan RPS m06 (modul LMS belum dibuka).
-
-**Seri baru: Dean's Message (Catatan UTS Andika, 6 matkul, Nov 2026).** Rubrik Collab Journal,
-persona Dean (mubaleg tugas di Australia, S1 Psikologi Islam IOU, S2 Komunikasi + konseling
-keluarga muslim). Surat ke Dika (adik kelas, semester 1, mondok). Bentuk: drama-first, bukan
-rangkuman; nomor sesi DILARANG di badan cerita (cuma di peta materi + saran urutan baca).
-
-Live: PPOP (2 Nov 08:15), PLDP (2 Nov 12:00), PCPS (3 Nov 06:29, telat dari slot 06:00 karena
-approve datang jam 06:20). Semua 6 matkul sudah approved.
-Sisa jadwal: ENES 3 Nov 12:00, PPIP 4 Nov 06:00, ISGS 4 Nov 12:00.
-
-Slug pakai topik, bukan kode matkul (standar sama dengan catatan-nik):
-deans-message-hukuman-bukan-perubahan, -anak-yang-terlalu-mudah-berpindah-tangan,
--celana-basah-di-ruang-konseling, -tiga-kali-buka-bab-yang-sama,
--sajadah-basah-hati-hidup, -pecah-sebelum-mimbar-berdiri.
-Tiga slug lama pakai `aliases:` supaya link yang sudah beredar tidak 404. Tag `IOU` dibuang.
-
-Catatan Nik **#026 (SD m05)** draft di queue: `content/blog/catatan-nik-software-design-m05.md`
-(`draft: true`, WS chat 1668 / msg 21752, 2.867 kata).
-
-**Jurnal Ana (Collab Journal, persona Ana):** sesi 4 selesai semua — PLDP101 tayang 5 Nov (msg 21708, 1.781 kata),
-PCPS101 tayang 8 Nov dengan `date` tetap 7 Nov
-(`jurnal-ana-kenapa-ruang-kelas-kita-kadang-terasa-seperti-induk-kawat-berduri`, msg 21710, 1.257 kata).
-Sesi 5 sudah digenerate batch 8 Nov di WS: PPOP 1697/21856 (10 Nov), PLDP 1698/21857 (12 Nov), PCPS 1699/21858 (14 Nov) — draft siap, tinggal approve per slot.
+**Antrean draft blog: kosong.**
 
 ## Next
 
@@ -66,6 +47,7 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 ## Last session
 
+- 2026-11-21 · wiz · 5 catatan Nik evaluasi pra-UTS terbit sekaligus (SSAD/IAI/SD/SIS/Metpen), tautan dari halaman matkul msi-study disambungkan
 - 2026-11-09 · wiz · Catatan Nik #030 SSAD m06 tayang 05:32 WIB; #031 SD m06 masih draft (WS 1702)
 - 2026-11-08 · wiz · Jurnal Ana PCPS101 S4 tayang (msg 21710, date tetap 7 Nov); sesi 5 (3 draft) siap di WS 1697-1699
 - 2026-11-05 · wiz · Jurnal Ana PLDP101 S4 tayang (msg 21708, 1.781 kata); aturan nama murid: boleh berulang kalau anak sama, jangan jadi default
