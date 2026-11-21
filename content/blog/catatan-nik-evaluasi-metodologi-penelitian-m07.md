@@ -2,8 +2,8 @@
 title: "Catatan Nik: Membongkar Radar Kebohongan di Lantai 28: Catatan Tengah Perjalanan Metodologi Penelitian"
 subtitle: "Gue kira ini matkul paling membosankan di semester ini, sampai sadar isinya cara membedah klaim korporat yang dibungkus grafik keren."
 type: blog
-date: 2026-11-27T05:00:00+07:00
-draft: true
+date: 2026-11-21T06:30:00+07:00
+draft: false
 ws_chat: 1737
 ws_msg: 21983
 category: "Collab Journal"

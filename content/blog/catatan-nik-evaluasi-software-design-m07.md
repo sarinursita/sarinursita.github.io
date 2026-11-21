@@ -2,8 +2,8 @@
 title: "Catatan Nik: Menyisir Benang Kusut: Cara Kita Berhenti Menyalahkan Kode Saat Manusia yang Berantakan"
 subtitle: "Gue masuk kelas ini mikir bakal belajar arsitektur dan framework, ternyata yang paling sering dibahas manusia yang nggak bisa bilang apa yang mereka mau."
 type: blog
-date: 2026-11-25T05:00:00+07:00
-draft: true
+date: 2026-11-21T06:10:00+07:00
+draft: false
 ws_chat: 1735
 ws_msg: 21979
 category: "Collab Journal"

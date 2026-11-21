@@ -2,8 +2,8 @@
 title: "Catatan Nik: Menghubungkan Benang Kusut Tujuh Pekan: Surat Buat Sari Sebelum Kita Tempur di Ruang Ujian"
 subtitle: "Gue kira bakal ngafalin rumus regresi sampai transformer, ternyata tujuh pekan ini cuma ngajarin satu hal: cara membawa model dari notebook ke meja rapat."
 type: blog
-date: 2026-11-24T05:00:00+07:00
-draft: true
+date: 2026-11-21T06:00:00+07:00
+draft: false
 ws_chat: 1734
 ws_msg: 21977
 category: "Collab Journal"
