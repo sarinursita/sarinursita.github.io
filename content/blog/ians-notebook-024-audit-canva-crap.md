@@ -1,6 +1,6 @@
 ---
 title: "Ian's Notebook: Audit Canva, CRAP-nya Jalan Nggak?"
-subtitle: "Poster kelas pertama gua punya empat font, tiga warna neon, dan bintang di empat pojok. Dua peserta yang udah bayar tetap nanya harga, dan itu yang bikin gua sadar masalahnya bukan di mata mereka."
+subtitle: "Poster kelas pertama gua punya empat font, warna neon di mana-mana, dan bintang di empat pojok. Dua peserta yang udah bayar tetap nanya harga, dan itu yang bikin gua sadar masalahnya bukan di mata mereka."
 type: blog
 date: 2026-11-27T05:00:00+07:00
 draft: true
