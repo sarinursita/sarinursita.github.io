@@ -11,7 +11,6 @@ tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "constructive-a
 summary: "Learning outcome gua nulis peserta mampu negosiasi di lapangan, tapi evaluasinya kuis hafalan dua puluh butir; Mas Hendra nanya gua mau ngelatih sales atau nyiapin lomba cerdas cermat, Ci Mel nyinyir soal spanduk sutra Italia, lalu gua bedah constructive alignment John Biggs dan bikin audit tiga kolom buat satu kelas Cerivitas."
 hook: "Gua bawa draf pelatihan negosiasi ke meja Mas Hendra lengkap dengan kuis pilihan ganda dua puluh butir, dan dia cuma butuh satu pertanyaan buat bikin seluruh dokumen itu kelihatan kayak soal cerdas cermat."
 ---
-
 Sar, bayangin skenario konyol ini: lu bayar mahal buat masuk sekolah mengemudi. Di brosurnya tertulis gede-gede: *“Mahir Menyetir Mobil Manual di Segala Medan dalam 7 Hari.”* 
 
 Hari pertama sampai keenam, instrukturnya cuma duduk di depan kelas, nyetel video rekaman orang nyetir di tol, terus nyuruh lu ngafalin nama-nama komponen kopling. Pas hari ketujuh, hari ujian kelulusan yang lu tunggu-tunggu, lu nggak disuruh pegang setir sama sekali. Lu malah dikasih lembar ujian 50 butir soal pilihan ganda: *“Apa warna oli rem yang sudah kadaluarsa? A, B, C, atau D?”*
@@ -30,7 +29,7 @@ Di kampus gua, modul kuliah teknologi pendidikan minggu ini lagi ngebongkar habi
 
 ## Disemprot Mas Hendra Gara-Gara Bikin Kelas Cerdas Cermat
 
-Gua sendiri baru kena gampar realita ini hari Selasa kemarin di kantor. Ceritanya, gua baru aja kelar nyusun draf kurikulum pelatihan internal buat tim *sales* di kantor edtech gua. 
+Gua sendiri baru kena gampar realita ini Selasa lalu di kantor. Ceritanya, gua baru aja kelar nyusun draf kurikulum pelatihan internal buat tim *sales* di kantor edtech gua. 
 
 *Learning outcome* yang gua tulis di dokumen rancangan mentereng banget: *“Peserta mampu menangani keberatan (handling objections) dari calon klien institusi secara persuasif dan solutif.”* Keren, kan? Keliatan berbobot, kayak bikinan konsultan mahal.
 
