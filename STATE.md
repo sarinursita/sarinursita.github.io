@@ -47,6 +47,7 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 ## Last session
 
+- 2026-11-22 · wiz · batch Catatan Nik Sen-Sel: slot 23-24 Nov sudah tertutup edisi evaluasi pra-UTS yang tayang 21 Nov (nol post baru); POST-LOG #037-#041 disamakan jadi `tayang`
 - 2026-11-21 · wiz · 5 catatan Nik evaluasi pra-UTS terbit sekaligus (SSAD/IAI/SD/SIS/Metpen), tautan dari halaman matkul msi-study disambungkan
 - 2026-11-09 · wiz · Catatan Nik #030 SSAD m06 tayang 05:32 WIB; #031 SD m06 masih draft (WS 1702)
 - 2026-11-08 · wiz · Jurnal Ana PCPS101 S4 tayang (msg 21710, date tetap 7 Nov); sesi 5 (3 draft) siap di WS 1697-1699
