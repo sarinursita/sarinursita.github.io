@@ -18,6 +18,7 @@ Sari memutuskan publish borongan hari ini (bukan bertahap 23-27 Nov seperti renc
 - `draft: false` kelimanya; tanggal digeser ke 21 Nov (jam-jamnya sudah lewat saat publish).
 - Deploy: GitHub Actions run `44897612021` success; kelima URL dicek balas 200.
 - Halaman matkul `msi.cerivitas.com/materi/<matkul>/` sekarang menaut "Refleksi Catatan Nik sebelum UTS" ke post evaluasi masing-masing (msi-study commit `06a3472`).
+- Slot Senin–Kamis 23–26 Nov: **nol post baru**. Keempatnya sudah tertutup edisi evaluasi di atas (batch Minggu 22 Nov bagian A = Sen–Sel, bagian B = Rab–Kam). Materi m08 tidak ada karena pekan 8 = UTS (kedua matkul lompat m07 → m09).
 
 **Antrean draft blog: kosong.**
 
@@ -47,6 +48,7 @@ Situs sekarang di **https://sarinursita.my.id** (GitHub Pages, workflow `deploy.
 
 ## Last session
 
+- 2026-11-22 · wiz · batch Catatan Nik bagian B (Rab–Kam 25–26 Nov): materi m08 tidak ada (pekan UTS), slot tertutup edisi evaluasi #039/#040, nol post baru
 - 2026-11-22 · wiz · batch Catatan Nik Sen-Sel: slot 23-24 Nov sudah tertutup edisi evaluasi pra-UTS yang tayang 21 Nov (nol post baru); POST-LOG #037-#041 disamakan jadi `tayang`
 - 2026-11-21 · wiz · 5 catatan Nik evaluasi pra-UTS terbit sekaligus (SSAD/IAI/SD/SIS/Metpen), tautan dari halaman matkul msi-study disambungkan
 - 2026-11-09 · wiz · Catatan Nik #030 SSAD m06 tayang 05:32 WIB; #031 SD m06 masih draft (WS 1702)
