@@ -2,15 +2,17 @@
 title: "Ian's Notebook: Janji Bikin Audiobook Tapi Ujiannya Kuis Pilihan Ganda"
 subtitle: "Tujuan gua nyuruh peserta negosiasi, aktivitasnya ceramah, asesmennya kuis hafalan. Tiga pilar itu harus berdiri di garis yang sama, dan minggu ini gua baru ngeh satu di antaranya paling sering gua korbanin demi kepraktisan."
 type: blog
-date: 2026-11-23T05:00:00+07:00
-draft: true
+date: 2026-11-23T07:52:19.493774+07:00
+draft: false
 ws_chat: 1740
 ws_msg: 22005
+publish_from: file
 category: "Collab Journal"
 tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "constructive-alignment", "ians-notebook"]
 summary: "Learning outcome gua nulis peserta mampu negosiasi di lapangan, tapi evaluasinya kuis hafalan dua puluh butir; Mas Hendra nanya gua mau ngelatih sales atau nyiapin lomba cerdas cermat, Ci Mel nyinyir soal spanduk sutra Italia, lalu gua bedah constructive alignment John Biggs dan bikin audit tiga kolom buat satu kelas Cerivitas."
 hook: "Gua bawa draf pelatihan negosiasi ke meja Mas Hendra lengkap dengan kuis pilihan ganda dua puluh butir, dan dia cuma butuh satu pertanyaan buat bikin seluruh dokumen itu kelihatan kayak soal cerdas cermat."
 ---
+
 Sar, bayangin skenario konyol ini: lu bayar mahal buat masuk sekolah mengemudi. Di brosurnya tertulis gede-gede: *“Mahir Menyetir Mobil Manual di Segala Medan dalam 7 Hari.”* 
 
 Hari pertama sampai keenam, instrukturnya cuma duduk di depan kelas, nyetel video rekaman orang nyetir di tol, terus nyuruh lu ngafalin nama-nama komponen kopling. Pas hari ketujuh, hari ujian kelulusan yang lu tunggu-tunggu, lu nggak disuruh pegang setir sama sekali. Lu malah dikasih lembar ujian 50 butir soal pilihan ganda: *“Apa warna oli rem yang sudah kadaluarsa? A, B, C, atau D?”*
