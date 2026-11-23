@@ -174,14 +174,17 @@ def mode_approve(slug=None):
     # `publish_from: file` = teks di repo yang dipakai (dipakai kalau editnya diterapkan
     # ke file, bukan diedit Sari di WS). Default: ambil versi terbaru dari WS.
     if field(fm, "publish_from", "ws") == "file":
+        source = "file repo"
         print("(pakai versi di repo, bukan tarik dari WS)")
     else:
+        source = "WS"
         try:
             fresh = normalize_body(ws_content(chat_id, msg_id))
             if len(fresh.split()) < 400:
                 raise RuntimeError("isi WS kelihatan terpotong (%d kata)" % len(fresh.split()))
             body = fresh
         except Exception as e:
+            source = "file repo (WS gagal)"
             print("⚠️ Gagal ambil isi terbaru dari WS (%s) — pakai isi yang sudah ada di repo." % e)
 
     now = datetime.datetime.now(TZ)
@@ -201,7 +204,7 @@ def mode_approve(slug=None):
     url = "%s/blog/%s/" % (BASE_URL, path.stem)
     key = re.sub(r"^[^:]+:\s*", "", title).split(":")[0][:40].strip()
     if wait_live(url, key):
-        print("✅ *Tayang:* [%s](%s)\n_Dari %d kata, versi terakhir dari WS._" % (title, url, len(body.split())))
+        print("✅ *Tayang:* [%s](%s)\n_Dari %d kata, versi %s._" % (title, url, len(body.split()), source))
     else:
         print("⚠️ Sudah di-push tapi belum kebaca live (>5 menit): %s" % url)
 
