@@ -2,8 +2,8 @@
 title: "Ian's Notebook: Satu Konsep Tiga Pintu Masuk"
 subtitle: "Gua bikin panduan tiga puluh lima halaman buat tim operasional dan baru ngeh panjang teks bukan tanda ngerti. Satu konsep yang sama bisa masuk lewat tiga pintu, dan pintu yang paling sering gua kunci justru visual sama audio."
 type: blog
-date: 2026-11-25T05:00:00+07:00
-draft: true
+date: 2026-11-25T08:25:45.769522+07:00
+draft: false
 ws_chat: 1741
 ws_msg: 22007
 category: "Collab Journal"
