@@ -8,17 +8,16 @@ ws_chat: 1742
 ws_msg: 22009
 category: "Collab Journal"
 tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "desain-visual", "ians-notebook"]
-summary: "Gua nemu poster kelas public speaking pertama gua di folder lama dan baru ngerti kenapa angkatan pertamanya cuma tujuh orang; dua peserta nanya harga yang jelas-jelas nempel di poster, Mas Hendra naruh hasil fotokopian panduan gua yang semua penandanya ilang, lalu gua bedah empat pilar CRAP Robin Williams dan bongkar ulang posternya."
-hook: "Gua buka poster kelas pertama gua yang dua tahun lalu gua pikir keren banget, dan dalam lima detik gua ngerti kenapa angkatan itu cuma tujuh orang."
+summary: "Gua nemu poster kelas public speaking pertama gua di folder lama dan baru ngerti kenapa angkatan pertamanya cuma dapet dua puluh orang padahal posternya udah gua sebar ke mana-mana; dua peserta nanya harga yang jelas-jelas nempel di poster, Mas Hendra naruh hasil fotokopian panduan gua yang semua penandanya ilang, lalu gua bedah empat pilar CRAP Robin Williams dan bongkar ulang posternya."
+hook: "Gua buka poster kelas pertama gua yang dua tahun lalu gua pikir keren banget, dan dalam lima detik gua ngerti kenapa angkatan itu cuma dapet dua puluh orang padahal posternya gua sebar ke mana-mana."
 ---
-
 Canva itu penemuan paling berbahaya buat orang yang gampang tergiur estetika instan. Aplikasi itu bikin siapa saja merasa jadi desainer grafis andal cuma dalam waktu lima menit. Tinggal pilih template lucu warna pastel, ganti judul, tambahin ilustrasi awan atau bintang kelap-kelip, lalu merasa karyanya sudah selevel desainer agensi multinasional. 
 
 Padahal aslinya? Banyak dari kita cuma jadi tukang tempel stiker digital yang bikin mata pembaca tersiksa.
 
 Minggu ini modul kuliah gua lagi ngebongkar desain pesan visual, dan pas banget gua nemu satu file Canva lama waktu lagi bersih-bersih folder *drive*: poster pendaftaran kelas *public speaking* gua yang pertama, dibuat hampir dua tahun lalu, dan waktu itu gua pikir udah keren banget.
 
-Gua buka file itu, dan dalam lima detik gua ngerti kenapa angkatan pertama gua isinya cuma tujuh orang padahal harganya murah. Poster itu punya empat jenis font. Judulnya *Playfair Display* miring, subjudulnya *Poppins* tipis, harga *early bird*-nya *Comic Sans*, dan tanggalnya font dekoratif yang gua pilih cuma karena hurufnya ada ekornya. Warnanya? Pastel mint, koral, ungu neon, plus gradasi kuning di belakang foto. Bintang kelap-kelip di empat pojok, karena menurut gua waktu itu tempat kosong berarti belum selesai.
+Gua buka file itu, dan dalam lima detik gua ngerti kenapa angkatan pertama gua cuma dapet dua puluh orang padahal posternya udah gua sebar ke mana-mana. Poster itu punya empat jenis font. Judulnya *Playfair Display* miring, subjudulnya *Poppins* tipis, harga *early bird*-nya *Comic Sans*, dan tanggalnya font dekoratif yang gua pilih cuma karena hurufnya ada ekornya. Warnanya? Pastel mint, koral, ungu neon, plus gradasi kuning di belakang foto. Bintang kelap-kelip di empat pojok, karena menurut gua waktu itu tempat kosong berarti belum selesai.
 
 Yang bikin gua makin malu: dua peserta yang udah bayar sempet nanya di WhatsApp, *"Kak, yang tanggal dua puluh itu harganya berapa ya?"* Pertanyaannya sederhana. Jawabannya ada, jelas-jelas ada, di poster itu. Cuma mata mereka nggak bisa nemu jalannya.
 
