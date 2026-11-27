@@ -2,15 +2,17 @@
 title: "Ian's Notebook: Audit Canva, CRAP-nya Jalan Nggak?"
 subtitle: "Poster kelas pertama gua punya empat font, warna neon di mana-mana, dan bintang di empat pojok. Dua peserta yang udah bayar tetap nanya harga, dan itu yang bikin gua sadar masalahnya bukan di mata mereka."
 type: blog
-date: 2026-11-27T05:00:00+07:00
-draft: true
+date: 2026-11-27T07:56:47.681451+07:00
+draft: false
 ws_chat: 1742
 ws_msg: 22009
+publish_from: file
 category: "Collab Journal"
 tags: ["collab-journal", "teknologi-pendidikan", "kelas-online", "desain-visual", "ians-notebook"]
 summary: "Gua nemu poster kelas public speaking pertama gua di folder lama dan baru ngerti kenapa angkatan pertamanya cuma dapet dua puluh orang padahal posternya udah gua sebar ke mana-mana; dua peserta nanya harga yang jelas-jelas nempel di poster, Mas Hendra naruh hasil fotokopian panduan gua yang semua penandanya ilang, lalu gua bedah empat pilar CRAP Robin Williams dan bongkar ulang posternya."
 hook: "Gua buka poster kelas pertama gua yang dua tahun lalu gua pikir keren banget, dan dalam lima detik gua ngerti kenapa angkatan itu cuma dapet dua puluh orang padahal posternya gua sebar ke mana-mana."
 ---
+
 Canva itu penemuan paling berbahaya buat orang yang gampang tergiur estetika instan. Aplikasi itu bikin siapa saja merasa jadi desainer grafis andal cuma dalam waktu lima menit. Tinggal pilih template lucu warna pastel, ganti judul, tambahin ilustrasi awan atau bintang kelap-kelip, lalu merasa karyanya sudah selevel desainer agensi multinasional. 
 
 Padahal aslinya? Banyak dari kita cuma jadi tukang tempel stiker digital yang bikin mata pembaca tersiksa.
